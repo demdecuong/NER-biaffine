@@ -31,17 +31,19 @@ class InputSample(object):
             self.aug_replace = args.aug_replace
             self.aug_insert = args.aug_insert
             self.aug_remove = args.aug_remove
+            print('# train data samples:', len(self.list_samples))
 
             self.list_aug_samples = self.augment_data(self.list_samples)
 
             self.list_samples.extend(self.list_aug_samples)
-            with open('augment_data.json', 'w', encoding='utf-8') as f:
+            with open('./data/person_name/augment_data.json', 'w', encoding='utf-8') as f:
                 for line in self.list_samples:
-                    f.write(str(json.dumps(line)) + '\n')
+                    f.write(str(json.dumps(line,ensure_ascii=False)) + '\n')
             self.list_samples = []
-            with open('augment_data.json', 'r', encoding='utf-8') as f:
+            with open('./data/person_name/augment_data.json', 'r', encoding='utf-8') as f:
                 for line in f:
                     self.list_samples.append(json.loads(line))
+            print('# train data samples after augment:', len(self.list_samples))
 
     def get_sample(self):
         for idx, sample in enumerate(self.list_samples):
@@ -75,8 +77,6 @@ class InputSample(object):
         for sample in list_samples:
             lucky_num = random.random()
             if lucky_num <= self.aug_lastname:
-                if len(sample['sentence'].split()) > 90:
-                    continue
                 aug_sample = self.augment_lastname(sample)
                 if aug_sample not in aug_data:
                     aug_data.append(aug_sample)
@@ -86,8 +86,6 @@ class InputSample(object):
         for sample in list_samples:
             lucky_num = random.random()
             if lucky_num <= self.aug_lowercase:
-                if len(sample['sentence'].split()) > 90:
-                    continue
                 aug_sample = self.augment_lowercase(sample)
                 if aug_sample not in aug_data:
                     aug_data.append(aug_sample)
@@ -96,8 +94,6 @@ class InputSample(object):
         for sample in list_samples:
             lucky_num = random.random()
             if lucky_num <= self.aug_acent:
-                if len(sample['sentence'].split()) > 90:
-                    continue
                 aug_sample = self.augment_acent(sample)
                 if aug_sample not in aug_data:
                     aug_data.append(aug_sample)
@@ -107,8 +103,6 @@ class InputSample(object):
         for sample in list_samples:
             lucky_num = random.random()
             if lucky_num <= self.aug_acent:
-                if len(sample['sentence'].split()) > 90:
-                    continue
                 aug_sample = self.augment_insert(sample)
                 if aug_sample not in aug_data:
                     aug_data.append(aug_sample)
@@ -135,7 +129,7 @@ class InputSample(object):
             sent.remove(sent[remove_idx])
             label_s += 1
         sample['sentence'] = ' '.join(sent)
-        sample['label'][0] = [label_e, label_e, 'PERSON']
+        sample['label'][0] = [remove_idx, remove_idx, 'PERSON']
         return sample
 
     def augment_lowercase(self, sample):
@@ -205,7 +199,7 @@ class MyDataSet(Dataset):
         self.name = name
         if self.name == 'train':
             samples = InputSample(args, path=path, max_char_len=self.max_char_len,
-                                  pos_tag_set_path=args.pos_tag_set_path, augment=False).get_sample()
+                                  pos_tag_set_path=args.pos_tag_set_path, augment=True).get_sample()
         else:
             samples = InputSample(args, path=path, max_char_len=self.max_char_len,
                                   pos_tag_set_path=args.pos_tag_set_path, augment=False).get_sample()

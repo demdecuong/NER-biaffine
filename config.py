@@ -15,6 +15,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--char_vocab_path', type=str, default='./data/person_name/charindex.json')
     parser.add_argument('--fasttext_path', type=str, default= './data/cc.vi.300.bin')
     parser.add_argument('--save_folder', type=str, default='final_checkpoint')
+    parser.add_argument('--ckpt_dir', type=str, default='save_checkpoint')
     parser.add_argument('--use_pretrained', type=bool, default=False)
 
     # Augmentation
@@ -24,6 +25,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--aug_replace', type=float, default=0.2) 
     parser.add_argument('--aug_insert', type=float, default=0.2) 
     parser.add_argument('--aug_remove', type=float, default=0.2) 
+    parser.add_argument('--aug_online', type=bool, default=False) 
 
     # optional features
     parser.add_argument('--use_bert', type=bool, default=False)
@@ -42,7 +44,6 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--char_vocab_size', type=int, default=108)
     parser.add_argument('--pos_vocab_size', type=int, default=23)
     parser.add_argument('--rnn_num_layers', type=int, default=2)
-
     parser.add_argument('--max_char_len', type=int, default=20)
     parser.add_argument('--max_seq_len', type=int, default=100) # vinai : 190 # vlsp2016: 160 # custom
 
@@ -56,7 +57,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--adam_epsilon', type=float, default=1e-8) 
     parser.add_argument('--weight_decay', type=float, default=0.01) 
     parser.add_argument('--warmup_steps', type=int, default=0) 
-    parser.add_argument('--max_grad_norm', type=int, default=1)\
+    parser.add_argument('--max_grad_norm', type=int, default=1)
      
     parser.add_argument('--do_train', type=bool, default=True) 
     parser.add_argument('--do_eval', type=bool, default=True) 
