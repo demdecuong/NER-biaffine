@@ -19,13 +19,14 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--use_pretrained', type=bool, default=False)
 
     # Augmentation
-    parser.add_argument('--aug_lastname', type=float, default=0.2) 
-    parser.add_argument('--aug_lowercase', type=float, default=0.2)     
-    parser.add_argument('--aug_acent', type=float, default=0.2) 
-    parser.add_argument('--aug_replace', type=float, default=0.2) 
-    parser.add_argument('--aug_insert', type=float, default=0.2) 
-    parser.add_argument('--aug_remove', type=float, default=0.2) 
+    parser.add_argument('--aug_lastname', type=float, default=0) 
+    parser.add_argument('--aug_lowercase', type=float, default=0)     
+    parser.add_argument('--aug_acent', type=float, default=0) 
+    parser.add_argument('--aug_replace', type=float, default=0) 
+    parser.add_argument('--aug_insert', type=float, default=0) 
+    parser.add_argument('--aug_remove', type=float, default=0) 
     parser.add_argument('--aug_online', type=bool, default=False) 
+    parser.add_argument('--use_aug_every', type=int, default=3) 
     parser.add_argument('--aug_offline', type=bool, default=False) 
 
     # optional features
