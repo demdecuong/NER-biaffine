@@ -135,8 +135,9 @@ class InputSample(object):
     def augment_lowercase(self, sample):
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
-        sent[label_s:label_e + 1] = [token.lower()
-                                     for token in sent[label_s:label_e + 1]]
+        # sent[label_s:label_e + 1] = [token.lower()
+        #                              for token in sent[label_s:label_e + 1]]
+        sent = [token.lower() for token in sent]
         sample['sentence'] = ' '.join(sent)
         sample['label'][0] = [label_s, label_e, 'PERSON']
         return sample
@@ -144,8 +145,9 @@ class InputSample(object):
     def augment_acent(self, sample):
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
-        sent[label_s:label_e +
-             1] = [remove_accent_vietnamese(token) for token in sent[label_s:label_e + 1]]
+        # sent[label_s:label_e +
+        #      1] = [remove_accent_vietnamese(token) for token in sent[label_s:label_e + 1]]
+        sent = [remove_accent_vietnamese(token) for token in sent]
         sample['sentence'] = ' '.join(sent)
         sample['label'][0] = [label_s, label_e, 'PERSON']
         return sample
@@ -186,7 +188,8 @@ class MyDataSet(Dataset):
                  path,
                  args,
                  tokenizer,
-                 fasttext_model) -> None:
+                 fasttext_model,
+                 use_aug=False) -> None:
         super().__init__()
 
         self.max_char_len = args.max_char_len
@@ -197,7 +200,7 @@ class MyDataSet(Dataset):
         self.fasttext_model = fasttext_model
 
         self.name = name
-        if self.name == 'train':
+        if self.name == 'train' and use_aug == True:
             samples = InputSample(args, path=path, max_char_len=self.max_char_len,
                                   pos_tag_set_path=args.pos_tag_set_path, augment=True).get_sample()
         else:

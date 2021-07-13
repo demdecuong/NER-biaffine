@@ -26,16 +26,18 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--aug_insert', type=float, default=0.2) 
     parser.add_argument('--aug_remove', type=float, default=0.2) 
     parser.add_argument('--aug_online', type=bool, default=False) 
+    parser.add_argument('--aug_offline', type=bool, default=False) 
 
     # optional features
     parser.add_argument('--use_bert', type=bool, default=False)
+    parser.add_argument('--bert_embed_only', type=bool, default=False) 
     parser.add_argument('--use_pos', type=bool, default=False)
     parser.add_argument('--use_char', type=bool, default=True)
     parser.add_argument('--use_fasttext', type=bool, default=False)
 
     # Model
-    parser.add_argument('--num_layer_bert', type=int, default=4)
-    parser.add_argument('--eval_num_layer_bert', type=int, default=4)
+    parser.add_argument('--num_layer_bert', type=int, default=2)
+    parser.add_argument('--eval_num_layer_bert', type=int, default=2)
     parser.add_argument('--char_hidden_dim', type=int, default=128)
     parser.add_argument('--char_embedding_dim', type=int, default=100)
     parser.add_argument('--feature_embed_dim', type=int, default=128)
@@ -43,7 +45,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--hidden_dim_ffw', type=int, default=300)
     parser.add_argument('--char_vocab_size', type=int, default=108)
     parser.add_argument('--pos_vocab_size', type=int, default=23)
-    parser.add_argument('--rnn_num_layers', type=int, default=2)
+    parser.add_argument('--rnn_num_layers', type=int, default=3)
     parser.add_argument('--max_char_len', type=int, default=20)
     parser.add_argument('--max_seq_len', type=int, default=100) # vinai : 190 # vlsp2016: 160 # custom
 
@@ -70,5 +72,6 @@ def get_config(parse=True, **optional_kwargs):
     kwargs = parser.parse_args()
     kwargs.checkpoint = f'./{kwargs.save_folder}/checkpoint.pth'
     kwargs = vars(kwargs)
-
+    print('--------------------- CONFIG ---------------------')
+    print(kwargs)
     return Config(**kwargs)

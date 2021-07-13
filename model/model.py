@@ -13,10 +13,10 @@ class Model(nn.Module):
 
         self.num_labels = args.num_labels
         
-        if args.use_bert:
-            self.lstm_input_size = args.num_layer_bert * config.hidden_size
-        else:
+        if args.bert_embed_only:
             self.lstm_input_size = config.hidden_size
+        else:
+            self.lstm_input_size = args.num_layer_bert * config.hidden_size
 
         if args.use_char:
             self.lstm_input_size = self.lstm_input_size + 2 * args.char_hidden_dim

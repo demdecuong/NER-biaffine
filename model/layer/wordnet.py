@@ -1,22 +1,31 @@
 import torch
-from model.layer import CharCNN, FeatureEmbedding
-
-import torch
 from torch import nn
+
 from transformers import AutoModel
+from model.layer import CharCNN, FeatureEmbedding
+from utils import get_extended_attention_mask
 
 class WordRepresentation(nn.Module):
     def __init__(self, args):
         super().__init__()
 
+        self.bert_embed_only = args.bert_embed_only
+        self.num_layer_bert = args.num_layer_bert
+        self.eval_num_layer_bert = args.eval_num_layer_bert
+
+        assert self.eval_num_layer_bert >= self.num_layer_bert
+
         self.use_bert = args.use_bert
+
         if self.use_bert:
             self.bert = AutoModel.from_pretrained(args.model_name_or_path)
-            self.num_layer_bert = args.num_layer_bert
-            self.eval_num_layer_bert = args.eval_num_layer_bert
+        elif self.bert_embed_only:
+            self.bert_embed = AutoModel.from_pretrained(args.model_name_or_path).base_model.embeddings
         else:
-            self.bert = AutoModel.from_pretrained(args.model_name_or_path).base_model.embeddings
-           
+            print(f'Using {self.num_layer_bert} layers and embedding in {args.model_name_or_path}')
+            self.bert_embed = AutoModel.from_pretrained(args.model_name_or_path).base_model.embeddings
+            self.bert_layers = nn.ModuleList([AutoModel.from_pretrained(args.model_name_or_path).base_model.encoder.layer[i].to(args.device) for i in range(args.num_layer_bert)])
+
         self.use_char = args.use_char
         if self.use_char:
             self.char_feature = CharCNN(hidden_dim=args.char_hidden_dim,
@@ -43,8 +52,21 @@ class WordRepresentation(nn.Module):
             bert_features = torch.cat(bert_features, dim=-1)
 
             bert_features = torch.cat([torch.index_select(bert_features[i], 0, first_subword[i]).unsqueeze(0) for i in range(bert_features.size(0))], dim=0)
+        elif self.bert_embed_only:
+            bert_features = self.bert_embed(input_ids)
         else:
-            bert_features = self.bert(input_ids)
+            bert_output = self.bert_embed(input_ids)
+            attention_mask = get_extended_attention_mask(attention_mask,input_ids.shape,input_ids.device)
+            bert_features = []
+            for layer in self.bert_layers:
+                residual = bert_output
+                bert_output = layer(bert_output, attention_mask=attention_mask)[0]
+                bert_output += residual
+                bert_features.append(bert_output)
+
+            bert_features = torch.cat(bert_features, dim=-1)
+            bert_features = torch.cat([torch.index_select(bert_features[i], 0, first_subword[i]).unsqueeze(0) for i in range(bert_features.size(0))], dim=0)
+        
         word_features = []
         if self.use_char:
             char_features = self.char_feature(char_ids)

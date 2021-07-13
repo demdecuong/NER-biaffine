@@ -54,7 +54,8 @@ def main(args):
         path=args.train_data,
         args=args,
         tokenizer=tokenizer,
-        fasttext_model=fasttext_model)
+        fasttext_model=fasttext_model,
+        use_aug=args.aug_offline)
 
     trainer = Trainer(args=args,
                       model=model,
@@ -67,17 +68,10 @@ def main(args):
 
     for i in range(1, args.iteration + 1):
         print(f'Training model on iteration {i} ...')
-        # train_data = MyDataSet(path=args.train_data,
-        #                        args=args,
-        #                        tokenizer=tokenizer,
-        #                        fasttext_model=fasttext_model)
+    
         for e in range(1, args.num_epochs + 1):
             print(f'Training model on epoch {e} of iteration {i}')
-            # trainer = Trainer(args=args,
-            #                   model=model,
-            #                   train_data=train_data,
-            #                   dev_data=dev_data,
-            #                   test_data=test_data)
+
             if args.do_train:
                 trainer.train()
                 f1_score = trainer.eval('test', f1_pre)
@@ -133,21 +127,29 @@ def main_aug_online(args):
 
     f1_pre = 0
     # starter, ender = torch.cuda.Event(enable_timing=True), torch.cuda.Event(enable_timing=True)
-    print('--------------------- TRAINING ---------------------')
     for i in range(1, args.iteration + 1):
-        print(f'Training model on iteration {i} ...')
+        print('--------------------- TRAINING ---------------------')
+        use_aug_iter = False
+        if i % args.use_aug_every == 0:
+            use_aug_iter = True
+            print(f'Training model on iteration {i} [WITH] augmentation ...')
+        else:
+            print(f'Training model on iteration {i} without augmentation ...')
+
         train_data = MyDataSet(
             name='train',
             path=args.train_data,
             args=args,
             tokenizer=tokenizer,
-            fasttext_model=fasttext_model)
+            fasttext_model=fasttext_model,
+            use_aug=use_aug_iter)
         trainer = Trainer(
             args=args,
             model=model,
             train_data=train_data,
             dev_data=dev_data,
-            test_data=test_data)
+            test_data=test_data
+            )
         for e in range(1, args.num_epochs + 1):
             print(f'Training model on epoch {e} of iteration {i}')
             if args.do_train:
@@ -170,6 +172,7 @@ def main_aug_online(args):
 
 if __name__ == "__main__":
     args = get_config()
+    args.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     if not os.path.exists(args.ckpt_dir):
         os.makedirs(args.ckpt_dir)
