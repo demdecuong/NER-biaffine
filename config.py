@@ -14,9 +14,13 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--label_set_path', type=str, default='./data/person_name/label_set.txt')
     parser.add_argument('--char_vocab_path', type=str, default='./data/person_name/charindex.json')
     parser.add_argument('--fasttext_path', type=str, default= './data/cc.vi.300.bin')
-    parser.add_argument('--save_folder', type=str, default='final_checkpoint')
-    parser.add_argument('--ckpt_dir', type=str, default='save_checkpoint')
+
+    # Finetune trained model 
     parser.add_argument('--use_pretrained', type=bool, default=False)
+    parser.add_argument('--ckpt_dir', type=str, default='save_checkpoint')
+    parser.add_argument('--load_ckpt', type=str, default='save_checkpoint/best_model.pth')    
+    parser.add_argument('--log_file', type=str, default='log.csv')    
+
 
     # Augmentation
     parser.add_argument('--aug_lastname', type=float, default=0) 
@@ -71,7 +75,6 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--test_data', type=str, default='./data/person_name/data_synth.json') 
 
     kwargs = parser.parse_args()
-    kwargs.checkpoint = f'./{kwargs.save_folder}/checkpoint.pth'
     kwargs = vars(kwargs)
     print('--------------------- CONFIG ---------------------')
     print(kwargs)

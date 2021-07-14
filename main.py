@@ -1,18 +1,20 @@
+import os
+import json
+import pytz
+import torch
+import datetime
+import fasttext
+
 from os import path
 from config import Config
-
 from transformers import AutoTokenizer
-import torch
 
 from dataset import MyDataSet
 from trainer import Trainer
 from model import Model
 from utils import load_model
 from config import get_config
-import fasttext
 
-import json
-import os
 
 def main(args):
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
@@ -22,11 +24,11 @@ def main(args):
         fasttext_model = None
     print('--------------------- MODEL SETTING UP ---------------------')
     if args.use_pretrained:
-        print(f'Use pretrained model from checkpoint {args.checkpoint}')
+        print(f'Use pretrained model from checkpoint {args.load_ckpt}')
         model = Model(args)
         model.load_state_dict(torch.load(
-            args.checkpoint, map_location=torch.device('cpu')))
-        print(f'Model is loaded weights from checkpoint')
+            args.load_ckpt, map_location=torch.device('cpu')))
+        print(f'Model is loaded weights from {args.load_ckpt}')
     else:
         print(f'Initialize Name Entity Recognition as Dependence Parsing .  ..  ...')
         model = Model(args)
@@ -62,7 +64,14 @@ def main(args):
                       train_data=train_data,
                       dev_data=dev_data,
                       test_data=test_data)
-    f1_pre = 0
+    test_prev = 0
+    dev_prev = 0
+
+    # Logging best model
+    best_prec = 0
+    best_model_dir = 0
+    best_iter = 0
+    best_epoch = 0
     # starter, ender = torch.cuda.Event(enable_timing=True), torch.cuda.Event(enable_timing=True)
     print('--------------------- TRAINING ---------------------')
 
@@ -74,21 +83,33 @@ def main(args):
 
             if args.do_train:
                 trainer.train()
-                f1_score = trainer.eval('test', f1_pre)
-                if f1_score > f1_pre:
+                print('--------------------- EVALUATING ---------------------')
+                test_prec, test_recall, test_f1 = trainer.eval('test', test_prev)
+                dev_prec, dev_recal, dev_f1 = trainer.eval('dev', dev_prev)
+
+                if test_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
                                f'./{args.ckpt_dir}/checkpoint_{f1_score}.pth')
-                    f1_pre = f1_score
+                    print(f"Save model at {args.ckpt_dir}/checkpoint_{f1_score}.pth")
+                    test_prev = test_prec
+                    not_update_cnt = 0
+
+                    # Log best model
+                    best_iter = i
+                    best_epoch = e
+                    best_prec = test_prec
+                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{f1_score}.pth"
                 else:
-                    f1_pre = f1_pre
-            if args.do_eval:
-                print('--------------------- TESTING ---------------------')
-
-                test_f1 = trainer.eval('test', f1_pre)
-                eval_f1 = trainer.eval('dev', f1_pre)
-                torch.save(model.state_dict(), 'checkpoint.pth')
-
+                    not_update_cnt += 1
+                    if not_update_cnt % 3 == 0:
+                        print(f'Update learning rate from {trainer.args.learning_rate} => {trainer.args.learning_rate/scale}')
+                        trainer.update_lr(2) # divide lr to 2
+                current_time = str(datetime.datetime.now(pytz.timezone('Asia/Bangkok')))[5:19]
+                f = open(args.log_file, "a")
+                f.write(','.join([current_time, args.model_name,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
+                f.close()
+                print(f"[INFO] Best test precision : {best_prec} at iter {best_iter}-{best_epoch} is saved at {best_model_dir} ")
 
 def main_aug_online(args):
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path)
@@ -98,11 +119,11 @@ def main_aug_online(args):
         fasttext_model = None
     print('--------------------- MODEL SETTING UP ---------------------')
     if args.use_pretrained:
-        print(f'Use pretrained model from checkpoint {args.checkpoint}')
+        print(f'Use pretrained model from checkpoint {args.load_ckpt}')
         model = Model(args)
         model.load_state_dict(torch.load(
-            args.checkpoint, map_location=torch.device('cpu')))
-        print(f'Model is loaded weights from checkpoint')
+            args.load_ckpt, map_location=torch.device('cpu')))
+        print(f'Model is loaded weights from {args.load_ckpt}')
     else:
         print(f'Initialize Name Entity Recognition as Dependence Parsing .  ..  ...')
         model = Model(args)
@@ -125,7 +146,15 @@ def main_aug_online(args):
         tokenizer=tokenizer,
         fasttext_model=fasttext_model)
 
-    f1_pre = 0
+    test_prev = 0
+    dev_prev = 0
+    not_update_cnt = 0
+
+    # Logging best model
+    best_prec = 0
+    best_model_dir = 0
+    best_iter = 0
+    best_epoch = 0
     # starter, ender = torch.cuda.Event(enable_timing=True), torch.cuda.Event(enable_timing=True)
     for i in range(1, args.iteration + 1):
         print('--------------------- TRAINING ---------------------')
@@ -154,25 +183,42 @@ def main_aug_online(args):
             print(f'Training model on epoch {e} of iteration {i}')
             if args.do_train:
                 trainer.train()
-                f1_score = trainer.eval('test', f1_pre)
-                if f1_score > f1_pre:
+                print('--------------------- TESTING ---------------------')
+                
+                test_prec, test_recall, test_f1 = trainer.eval('test', test_prev)
+                eval_prec, dev_recal, dev_f1 = trainer.eval('dev', dev_prev)
+
+                if test_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
                                f'./{args.ckpt_dir}/checkpoint_{f1_score}.pth')
-                    f1_pre = f1_score
+                    print(f"Save model at {args.ckpt_dir}/checkpoint_{f1_score}.pth")
+                    test_prev = test_prec
+                    not_update_cnt = 0
+
+                    # Log best model
+                    best_iter = i
+                    best_epoch = e
+                    best_prec = test_prec
+                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{f1_score}.pth"
                 else:
-                    f1_pre = f1_pre
-            if args.do_eval:
-                print('--------------------- TESTING ---------------------')
-
-                test_f1 = trainer.eval('test', f1_pre)
-                eval_f1 = trainer.eval('dev', f1_pre)
-                # torch.save(model.state_dict(), 'checkpoint.pth')
-
+                    not_update_cnt += 1
+                    if not_update_cnt % 3 == 0:
+                        print(f'Update learning rate from {trainer.args.learning_rate} => {trainer.args.learning_rate/scale}')
+                        trainer.update_lr(2) # divide lr to 2
+                current_time = str(datetime.datetime.now(pytz.timezone('Asia/Bangkok')))[5:19]
+                f = open(args.log_file, "a")
+                f.write(','.join([current_time, args.model_name,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
+                f.close()
+                print(f"[INFO] Best test precision : {best_prec} at iter {best_iter}-{best_epoch} is saved at {best_model_dir} ")
 
 if __name__ == "__main__":
     args = get_config()
     args.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f'Using Device : {args.device}')
+
+    if torch.cuda.is_available():
+        print(f"GPU device : {torch.cuda.get_device_name(0)}")
 
     if not os.path.exists(args.ckpt_dir):
         os.makedirs(args.ckpt_dir)
@@ -182,5 +228,8 @@ if __name__ == "__main__":
             f'[INFO] Train Augmentation Online with epoch = {args.num_epochs} for each iteration = {args.iteration}')
         main_aug_online(args)
     else:
-        print('[INFO] Train Normal')
+        if args.aug_offline:
+            print('[INFO] Train Augmentation Offline ')
+        else:
+            print('[INFO] Train Normal')
         main(args)

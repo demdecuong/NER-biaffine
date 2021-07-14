@@ -18,7 +18,7 @@ class Trainer(object):
         self.args = args
         self.device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-        if not os.path.exists(args.save_folder):  os.mkdir(args.save_folder)
+        if not os.path.exists(args.ckpt_dir):  os.mkdir(args.ckpt_dir)
 
         self.model = model
         self.model.to(device=self.device)
@@ -26,6 +26,9 @@ class Trainer(object):
         self.train_data = train_data
         self.dev_data = dev_data
         self.test_data = test_data
+
+    def update_lr(self,scale):
+        self.args.learning_rate = new_lr
 
     def train(self):
         train_sampler = RandomSampler(self.train_data)
@@ -180,10 +183,7 @@ class Trainer(object):
             'f1_score': f1_score
         }
         print(result)
-        if f1_score > f1_pre:
-            return f1_score
-        else:
-            return f1_pre
+        return precision, recall, f1_score
     
     def save_model(self, f1):
         checkpoint = {'model': self.model,

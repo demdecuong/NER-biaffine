@@ -74,50 +74,56 @@ class InputSample(object):
     def augment_data(self, list_samples):
         aug_data = []
         # augment lastname
-        for sample in list_samples:
-            lucky_num = random.random()
-            if lucky_num <= self.aug_lastname:
-                aug_sample = self.augment_lastname(sample)
-                if aug_sample not in aug_data:
-                    aug_data.append(aug_sample)
-                assert type(aug_sample['sentence']) == str
+        if self.aug_lastname > 0:
+            for sample in list_samples:
+                lucky_num = random.random()
+                if lucky_num <= self.aug_lastname:
+                    aug_sample = self.augment_lastname(sample)
+                    if aug_sample not in aug_data:
+                        aug_data.append(aug_sample)
+                    assert type(aug_sample['sentence']) == str
 
         # augment lower case
-        for sample in list_samples:
-            lucky_num = random.random()
-            if lucky_num <= self.aug_lowercase:
-                aug_sample = self.augment_lowercase(sample)
-                if aug_sample not in aug_data:
-                    aug_data.append(aug_sample)
-                assert type(aug_sample['sentence']) == str
+        if self.aug_lowercase > 0:
+            for sample in list_samples:
+                lucky_num = random.random()
+                if lucky_num <= self.aug_lowercase:
+                    aug_sample = self.augment_lowercase(sample)
+                    if aug_sample not in aug_data:
+                        aug_data.append(aug_sample)
+                    assert type(aug_sample['sentence']) == str
+        
         # augment acent
-        for sample in list_samples:
-            lucky_num = random.random()
-            if lucky_num <= self.aug_acent:
-                aug_sample = self.augment_acent(sample)
-                if aug_sample not in aug_data:
-                    aug_data.append(aug_sample)
-                assert type(aug_sample['sentence']) == str
+        if self.aug_acent > 0:
+            for sample in list_samples:
+                lucky_num = random.random()
+                if lucky_num <= self.aug_acent:
+                    aug_sample = self.augment_acent(sample)
+                    if aug_sample not in aug_data:
+                        aug_data.append(aug_sample)
+                    assert type(aug_sample['sentence']) == str
 
         # augment insert
-        for sample in list_samples:
-            lucky_num = random.random()
-            if lucky_num <= self.aug_acent:
-                aug_sample = self.augment_insert(sample)
-                if aug_sample not in aug_data:
-                    aug_data.append(aug_sample)
-                assert type(aug_sample['sentence']) == str
+        if self.aug_insert > 0:
+            for sample in list_samples:
+                lucky_num = random.random()
+                if lucky_num <= self.aug_acent:
+                    aug_sample = self.augment_insert(sample)
+                    if aug_sample not in aug_data:
+                        aug_data.append(aug_sample)
+                    assert type(aug_sample['sentence']) == str
 
         # augment remove
-        for sample in list_samples:
-            lucky_num = random.random()
-            if lucky_num <= self.aug_acent:
-                if len(sample['sentence'].split()) > 90:
-                    continue
-                aug_sample = self.augment_remove(sample)
-                if aug_sample not in aug_data:
-                    aug_data.append(aug_sample)
-                assert type(aug_sample['sentence']) == str
+        if self.aug_remove > 0:
+            for sample in list_samples:
+                lucky_num = random.random()
+                if lucky_num <= self.aug_remove:
+                    if len(sample['sentence'].split()) > 90:
+                        continue
+                    aug_sample = self.augment_remove(sample)
+                    if aug_sample not in aug_data:
+                        aug_data.append(aug_sample)
+                    assert type(aug_sample['sentence']) == str
 
         return aug_data
 
