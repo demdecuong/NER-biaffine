@@ -12,7 +12,7 @@ from utils import get_mask, get_useful_ones
 from metrics import batch_computeF1
 
 class Trainer(object):
-    def __init__(self, args, model, train_data, dev_data, test_data) -> None:
+    def __init__(self, args, model, train_data, dev_data, test_data, human_test_data = None) -> None:
         super().__init__()
 
         self.args = args
@@ -26,6 +26,7 @@ class Trainer(object):
         self.train_data = train_data
         self.dev_data = dev_data
         self.test_data = test_data
+        self.human_test_data = human_test_data
 
     def update_lr(self,scale):
         self.args.learning_rate = self.args.learning_rate / scale
@@ -118,6 +119,8 @@ class Trainer(object):
             dataset = self.dev_data
         elif mode == 'test':
             dataset = self.test_data
+        elif mode == 'human_test':
+            dataset = self.human_test_data
         else:
             raise Exception("Only dev and test dataset available")
         
