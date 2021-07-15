@@ -1,0 +1,330 @@
+{"sentence": "tôi tạ văn sáng sáng hôm trước có đặt hẹn với bác sĩ ạ", "label": [[1, 3, "PERSON"]]}
+{"sentence": "phan văn tài em cần book lịch", "label": [[0, 3, "PERSON"]]}
+{"sentence": "sáng hôm qua con em trần đình quý có gọi điện cho bs á", "label": [[5, 7, "PERSON"]]}
+{"sentence": "em muốn đặt khám cho mẹ em thái tự mẫu", "label": [[7, 9, "PERSON"]]}
+{"sentence": "bot ơi cho đặt cái lịch với , tui tên trần nguy@@ ễn hiền", "label": [[10, 13, "PERSON"]]}
+{"sentence": "tôi tên nguy@@ ễn hoàng nam nay có hẹn vs bác sỹ", "label": [[2, 5, "PERSON"]]}
+{"sentence": "trước tui có đặt lịch r@@ ùi á , tên vương gia lương", "label": [[10, 12, "PERSON"]]}
+{"sentence": "tôi tên trần phương nam , muốn đặt hẹn vs bệnh viên", "label": [[2, 4, "PERSON"]]}
+{"sentence": "ba em nguy@@ ễn hạn vũ có book lịch cho em vào ngày 2/7", "label": [[2, 5, "PERSON"]]}
+{"sentence": "mình muốn đặt lịch khám cho bà mình tên lê thị diệp", "label": [[9, 11, "PERSON"]]}
+{"sentence": "tôi tên Nguyễn Thái Thành cần khám họng do mấy nay ho quá", "label": [[2, 4, "PERSON"]]}
+{"sentence": "cần đặt hẹn với bs Tô Quang Trung khoa cấp cứu gấp", "label": [[5, 7, "PERSON"]]}
+{"sentence": "bác sĩ Phạm Thị Yến Trang có rãnh vào thứ 3 tuần này không ạ", "label": [[2, 5, "PERSON"]]}
+{"sentence": "Đào Hiếu là tên của thằng em tôi , nó muốn đặt cái lịch vs bs", "label": [[0, 1, "PERSON"]]}
+{"sentence": "họ và tên là Trần Kiều Trang cần khám đặt lại lịch khám tai mũi họng", "label": [[4, 6, "PERSON"]]}
+{"sentence": "tôi muốn đặt lịch khám bệnh cho ba tôi là Phạm Long", "label": [[10, 11, "PERSON"]]}
+{"sentence": "tôi là Bằng Kiều và tôi muốn đặt lịch khám thì làm là gì", "label": [[2, 3, "PERSON"]]}
+{"sentence": "tôi được biết bs Phạm Hải Long giỏi lắm , tôi muốn được khám vs bác thì làm gì", "label": [[4, 6, "PERSON"]]}
+{"sentence": "đặt lịch khám da liễu cho em gái Lý Quốc Nữ", "label": [[8, 10, "PERSON"]]}
+{"sentence": "họ và tên mình là Vương Gia Hân , mình muốn đặt lịch khám da liễu vào tuần sau", "label": [[5, 7, "PERSON"]]}
+{"sentence": "đặt lịch cho trần be ron", "label": [[3, 5, "PERSON"]]}
+{"sentence": "tôi là nguy@@ ễn văn so@@ ul muốn đi khám bệnh", "label": [[2, 6, "PERSON"]]}
+{"sentence": "tôi nguy@@ ễn văn xel , khám bệnh đặt sao vậy", "label": [[1, 4, "PERSON"]]}
+{"sentence": "cần đặt lịch khám cho em họ là nay h@@ ' ui", "label": [[8, 11, "PERSON"]]}
+{"sentence": "đội s@@ l@@ na muốn đặt lịch khám cho hl@@ v al@@ ex fer@@ guson", "label": [[11, 14, "PERSON"]]}
+{"sentence": "Trương Minh Đội K@@ Bu@@ ô@@ r ở tò@@ a C5 muốn đặt lịch khám co@@ vid@@ -@@ 19", "label": [[0, 6, "PERSON"]]}
+{"sentence": "vợ tôi Y L@@ iếp Niê đang mang thai , muốn đặt lịch mổ ạ", "label": [[2, 5, "PERSON"]]}
+{"sentence": "trưởng làng tôi H@@ '@@ Xuyên E@@ ban tuần sau sẽ ra thôn khám bệnh thì hẹn trước bác sĩ n@@ t@@ n", "label": [[3, 7, "PERSON"]]}
+{"sentence": "đặt lịch khám cho thân nhân là Thạch Thị S@@ ây La", "label": [[7, 11, "PERSON"]]}
+{"sentence": "thằng em Ma Văn Dũng dưới quê xuống chơi mà bị bệnh giờ cần hẹn trước bác sĩ để khám thì làm sao ạ", "label": [[2, 4, "PERSON"]]}
+{"sentence": "bữa em có hẹn bác sáng sáng nay tầm 9h30 có mặt ạ", "label": [[5, 5, "PERSON"]]}
+{"sentence": "mình bên công ty vin@@ bra@@ in hôm qua có đặt lịch khám vs bác sĩ khoa khoa da liễu á", "label": [[16, 16, "PERSON"]]}
+{"sentence": "đặt lịch khám bệnh viêm xoan vào ngày 14/@@ 07 , nếu có bác sĩ tiến trưởng khoa thì cho xin đặt lịch với bác luôn", "label": [[15, 15, "PERSON"]]}
+{"sentence": "book lịch khám cho thằng con tên t@@ èo lúc 7 giờ rưỡi ngày mai", "label": [[7, 8, "PERSON"]]}
+{"sentence": "đăng ký lịch khám với b@@ sy dân b@@ v nhân dân gia định tầm chiều mai", "label": [[11, 11, "PERSON"]]}
+{"sentence": "không biết bác sĩ phòng phòng C@@ 13 khoa nội sáng thứ 2 ngày 7/8 có rãnh không ạ , mình cần đăng ký lịch khám với bác", "label": [[5, 5, "PERSON"]]}
+{"sentence": "tôi nghe nói b@@ si chung khoa ngoại mổ dây chằng tốt , tôi muốn hẹn với bác sĩ thì làm sao ạ", "label": [[5, 5, "PERSON"]]}
+{"sentence": "muốn đăng ký khám bác sĩ trưởng khoa dũng thì thủ tục như nào", "label": [[8, 8, "PERSON"]]}
+{"sentence": "sáng mai bác yến bên nhi có làm việc không ạ , để em đăng ký lịch khám với bác", "label": [[3, 3, "PERSON"]]}
+{"sentence": "đăng ký lịch khám cho thân nhân với họ và tên là bảo", "label": [[12, 12, "PERSON"]]}
+{"sentence": "chào bot , tôi cần đăng ký khám với bs Trang", "label": [[10, 10, "PERSON"]]}
+{"sentence": "tôi muốn đặt lịch với bác Hoàng Tùng gấp , tầm 1 tiếng rưỡi nữa tôi đến được không ạ", "label": [[7, 7, "PERSON"]]}
+{"sentence": "cho tôi thay book ngày đã hẹn với chị Linh", "label": [[9, 9, "PERSON"]]}
+{"sentence": "vào ngày 2/9 tôi đã mún hẹn khám với bác Sinh", "label": [[10, 10, "PERSON"]]}
+{"sentence": "chiều mai em bận việc cá nhân . không biết có thể đăng ký hẹn với ô@@ g S@@ uyến vào ngày mốt d@@ c k", "label": [[18, 19, "PERSON"]]}
+{"sentence": "lịch làm việc tôi hay dày nên chỉ có thể khám vào buổi tối , không biết bs Hải tối còn làm không ạ . Em muốn đặt lịch vs bs", "label": [[18, 18, "PERSON"]]}
+{"sentence": "bác sỹ Huy tuần này có rãnh thời gian nào không em muốn tái khám", "label": [[2, 2, "PERSON"]]}
+{"sentence": "tôi tên Hải Nam tôi muốn tái khám khám", "label": [[2, 3, "PERSON"]]}
+{"sentence": "hi bot đặt giúp cái lịch vào thứ 5 tuần này với bs Hoàng 2h30 chiều", "label": [[13, 13, "PERSON"]]}
+{"sentence": "4h chiều mai hẹn với tá dược Tuy để tái khám và lấy thuốc", "label": [[7, 7, "PERSON"]]}
+{"sentence": "tôi tên nguy@@ en thai thanh cần khám họng do mấy nay ho quá", "label": [[2, 5, "PERSON"]]}
+{"sentence": "cần đặt hẹn với bs to quang trung khoa cấp cứu gấp", "label": [[5, 7, "PERSON"]]}
+{"sentence": "bác sĩ ph@@ am thi yen trang có rãnh vào thứ 3 tuần này không ạ", "label": [[2, 6, "PERSON"]]}
+{"sentence": "dao hi@@ eu là tên của thằng em tôi , nó muốn đặt cái lịch vs bs", "label": [[0, 2, "PERSON"]]}
+{"sentence": "họ và tên là tran ki@@ eu trang cần khám đặt lại lịch khám tai mũi họng", "label": [[4, 7, "PERSON"]]}
+{"sentence": "tôi muốn đặt lịch khám bệnh cho ba tôi là ph@@ am long", "label": [[10, 12, "PERSON"]]}
+{"sentence": "tôi là bang ki@@ eu và tôi muốn đặt lịch khám thì làm là gì", "label": [[2, 4, "PERSON"]]}
+{"sentence": "tôi được biết bs ph@@ am hai long giỏi lắm , tôi muốn được khám vs bác thì làm gì", "label": [[4, 7, "PERSON"]]}
+{"sentence": "đặt lịch khám da liễu cho em gái ly qu@@ oc nu", "label": [[8, 11, "PERSON"]]}
+{"sentence": "họ và tên mình là vu@@ ong gia han , mình muốn đặt lịch khám da liễu vào tuần sau", "label": [[5, 8, "PERSON"]]}
+{"sentence": "chiều mai em bận việc cá nhân . không biết có thể đăng ký hẹn với ô@@ g Cao s@@ uyến vào ngày mốt d@@ c k", "label": [[18, 20, "PERSON"]]}
+{"sentence": "lịch làm việc tôi hay dày nên chỉ có thể khám vào buổi tối , không biết bs Phạm hải tối còn làm không ạ . Em muốn đặt lịch vs bs", "label": [[18, 19, "PERSON"]]}
+{"sentence": "bác sỹ Trần tuân tuần này có rãnh thời gian nào không em muốn tái khám", "label": [[2, 3, "PERSON"]]}
+{"sentence": "tôi tên Đ@@ ÀO ĐỨC tôi muốn tái khám khám", "label": [[2, 4, "PERSON"]]}
+{"sentence": "hi bot đặt giúp cái lịch vào thứ 5 tuần này với bs sỹ 2h30 chiều", "label": [[13, 13, "PERSON"]]}
+{"sentence": "da@@ t lich voi ba@@ c si sy v@@ ao 7h30 sang thu nam tu@@ an nay nhe", "label": [[7, 7, "PERSON"]]}
+{"sentence": "da@@ t ba@@ c si khoa khoa da li@@ eu v@@ ao khung gio gan nh@@ at ma ba@@ c si ranh", "label": [[5, 5, "PERSON"]]}
+{"sentence": "khoa vat ly tri li@@ eu con ho@@ at dong kh@@ ong a , em ten nguy@@ en phu@@ c minh can da@@ t hen a", "label": [[16, 20, "PERSON"]]}
+{"sentence": "toi mun da@@ t lich kham be@@ nh cho me nguy@@ en thi kim ngan thi lam sao a", "label": [[10, 14, "PERSON"]]}
+{"sentence": "ba@@ c sy tri@@ eu toi go@@ i co noi 8h30 sang mai ba@@ c ranh nen cho toi da@@ t lich v@@ ao gio do a", "label": [[3, 4, "PERSON"]]}
+{"sentence": "di@@ eu du@@ ong nay go@@ i toi sang mai quay lai , toi mu@@ on da@@ t lich cho sang mai a . toi ten do van moi", "label": [[26, 28, "PERSON"]]}
+{"sentence": "hi bot da@@ t lich kham tai mui hong v@@ ao sang mai cho tran dan", "label": [[14, 15, "PERSON"]]}
+{"sentence": "sang mai ba toi se tai kham vs ba@@ c si khoa phong 403", "label": [[11, 11, "PERSON"]]}
+{"sentence": "minh mun da@@ t lich cho ngu@@ oi ye@@ u ten lu@@ u thi phu@@ ong anh v@@ ao sang mai a", "label": [[11, 16, "PERSON"]]}
+{"sentence": "ban trai em la tran hoang vu hom qua so@@ t nang qua . em mu@@ on hen lich kham ga@@ p a", "label": [[4, 6, "PERSON"]]}
+{"sentence": "mình mún book cái hẹn cho chồng là tom , b@@ v có hỗ trợ k ạ", "label": [[8, 8, "PERSON"]]}
+{"sentence": "tôi là rich@@ ard đặt lịch khám bệnh về nhức đầu", "label": [[2, 3, "PERSON"]]}
+{"sentence": "k@@ '@@ ra gặp bác sĩ khám họng vào chiều mai", "label": [[0, 2, "PERSON"]]}
+{"sentence": "thằng út nhà tui sốt , tui mún cho nó gặp bs", "label": [[1, 1, "PERSON"]]}
+{"sentence": "cần khám vs bác tui s@@ ây la phải làm gì", "label": [[5, 7, "PERSON"]]}
+{"sentence": "tôi tên Niê thấy người hơi mệt mún khám thì làm sao", "label": [[2, 2, "PERSON"]]}
+{"sentence": "E@@ ban đau đầu mún khám bác sĩ", "label": [[0, 1, "PERSON"]]}
+{"sentence": "đội TPHCM chúng tôi muốn đặt lịch kiểm tra cho cầu thủ Messi", "label": [[12, 12, "PERSON"]]}
+{"sentence": "đặt khám cho người nhà là Văn Mến", "label": [[6, 7, "PERSON"]]}
+{"sentence": "K@@ '@@ Hiếu muốn khám bệnh , đau đầu quá rồi", "label": [[0, 2, "PERSON"]]}
+{"sentence": "tôi tên là thạ@@ c@@ H thị l@@ Y@@ ta sáng hôm trước có đặt hẹn với bác sĩ ạ", "label": [[3, 9, "PERSON"]]}
+{"sentence": "Võ nhật huy là em của em , em cần book lịch cho nó", "label": [[0, 2, "PERSON"]]}
+{"sentence": "sáng hôm qua con em lê Văn bay có gọi điện cho bs á", "label": [[5, 7, "PERSON"]]}
+{"sentence": "em muốn đặt khám cho mẹ em nguy@@ ễn văn Út", "label": [[7, 10, "PERSON"]]}
+{"sentence": "bot ơi cho đặt cái lịch với , tui tên Trương cầm lựu", "label": [[10, 12, "PERSON"]]}
+{"sentence": "tôi tên Huỳnh thị nh@@ iễn nay có hẹn vs bác sỹ", "label": [[2, 5, "PERSON"]]}
+{"sentence": "trước tui có đặt lịch r@@ ùi á , tên K@@ IỀU MINH TÂM", "label": [[10, 13, "PERSON"]]}
+{"sentence": "tôi tên DƯƠNG THỊ HẰNG , muốn đặt hẹn vs bệnh viên", "label": [[2, 4, "PERSON"]]}
+{"sentence": "ba em L@@ ƯƠNG VĂN chính có book lịch cho em vào ngày 2/7", "label": [[2, 5, "PERSON"]]}
+{"sentence": "mình muốn đặt lịch khám cho bà mình tên lô THỊ dung do hôm trước gọi mà bác sĩ bận ạ", "label": [[9, 11, "PERSON"]]}
+{"sentence": "tôi là võ văn L@@ ựa đổi lịch đã đặt vs bs lee yong UN sang 7h30 mai", "label": [[2, 5, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "nay tôi có việc nên chưa đi khám được , xin đổi lịch khám với bs Nguyễn thị sa@@ ke sang hôm khác ạ . tôi tên kim Lo@@ t", "label": [[16, 19, "PERSON"], [27, 29, "PERSON"]]}
+{"sentence": "em là Kim phai em của Kim lot có đặt lịch sáng nay . Em muốn đổi ngày khám", "label": [[2, 3, "PERSON"], [6, 7, "PERSON"]]}
+{"sentence": "xin đổi giờ khám cho người thân Phạm Hào sang chiều t@@ 3 tuần sau ạ , vẫn giữ nguyên bs Thạch thon", "label": [[7, 8, "PERSON"], [21, 22, "PERSON"]]}
+{"sentence": "sáng nay tôi Lê thị hảo có đặt khám mà bs gọi tôi bs Y@@ ' set By@@ ă bận , giờ tui thay giờ khám lịch khám khác á", "label": [[3, 5, "PERSON"], [14, 18, "PERSON"]]}
+{"sentence": "mợ em dương so ny có việc nên mún chuyển sang khám 4@@ :30 chiều không biết bs nguy@@ ễn thị hà có đồng ý k ạ", "label": [[2, 4, "PERSON"], [18, 21, "PERSON"]]}
+{"sentence": "chồng tôi har@@ ry mac@@ gu@@ ire đi công tác về trễ nên k kịp tái khám với ngài phan trung tự , tôi muốn đổi ngày khám 2 ngày nữa , giờ vẫn giữ nguyên", "label": [[2, 6, "PERSON"], [19, 21, "PERSON"]]}
+{"sentence": "đổi giờ khám cho h mat ni@@ ê với bác phan đăng khoa khoa da liễu sang chiều 2 rưỡi", "label": [[4, 7, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "trần thị kiểng dời ngày khám sang tuần sau nha bot . khám với bác sĩ dương thị hằng", "label": [[0, 2, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "chú lê văn bay có sửa ngày khám sang 17 tháng 3 , có nhắn với bác hồ chí dũng rồi", "label": [[0, 3, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "o H@@ '@@ Xuyên E@@ ban dời ngày gặp bs sang t@@ 3 , bs Mai Thị Thu giờ đó còn làm k", "label": [[1, 5, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "bệnh nhân Y L@@ iếp Niê phòng C@@ 304 ngày mai lấy mẫu nên dời sang chiều thứ 7 nhé bác sĩ Lý Quang", "label": [[2, 5, "PERSON"], [22, 23, "PERSON"]]}
+{"sentence": "hi bot , sửa ngày tái khám cho ông chú Nguyễn Văn Su@@ ô@@ L sang 23-@@ 07 v@@ ói bác sĩ Bùi Thị Thu", "label": [[10, 14, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "Hứa Đắt Thắng tái khám bs ngày 19/@@ 08 , bác sĩ cần đặt là Hà Thị Kim Thanh . Sửa lại giúp nhé", "label": [[0, 2, "PERSON"], [15, 18, "PERSON"]]}
+{"sentence": "anh Lê Văn P@@ on nay đi công tác , dời hẹn bác sĩ sang 20/@@ 08 lúc 1h30 nha bot . gọi giúp bs Lê Hoàng Ân nhé", "label": [[1, 4, "PERSON"], [25, 27, "PERSON"]]}
+{"sentence": "cậu Y thông cần đổi ngày khám do bs Hoàng mai nói sáng thứ 3 tuần này có việc bận", "label": [[1, 2, "PERSON"], [9, 10, "PERSON"]]}
+{"sentence": "đổi lịch cho người nhà ông hoàng nguy@@ ễn trước có khám với bác sĩ trần Trung dũng thì phải làm sao", "label": [[6, 8, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "k@@ '@@ ra mún khám vào thứ 3 thay vì thứ 2 như đã hẹn với dược tá trần dần", "label": [[0, 2, "PERSON"], [18, 19, "PERSON"]]}
+{"sentence": "vừa đáp xuống sân bay nên em hơi mệt , em muốn dời ngày khám từ 28/8 sang 30/8 , khu@@ ấ@@ T hữu thắng là bệnh nhân của bác phạm tuân ạ", "label": [[20, 24, "PERSON"], [30, 31, "PERSON"]]}
+{"sentence": "Hak@@ im yi@@ ech của đội Chelsea cần dời giờ khám sớm hơn 2 tiếng cho kịp trận đấu . mong bác sĩ tạ đức huy ap@@ pro@@ ve ạ", "label": [[0, 3, "PERSON"], [23, 25, "PERSON"]]}
+{"sentence": "tôi là quản lý của địa di băng , nay muốn cho thân chủ hẹn với bs sớm hơn 1 tiếng nghĩa là 8h30 . có phiền bs jo@@ hn wick không ạ", "label": [[5, 7, "PERSON"], [28, 30, "PERSON"]]}
+{"sentence": "trước đặt lịch mà tôi điền sai tên là tạ tĩnh , mún sửa tên thành tạ lĩnh ạ", "label": [[9, 10, "PERSON"], [16, 17, "PERSON"]]}
+{"sentence": "tôi là lương dĩ cư là quản lý của sơn tùng m@@ t@@ p . anh ta có show gấp nên tui muốn dời lịch", "label": [[2, 4, "PERSON"], [9, 13, "PERSON"]]}
+{"sentence": "dời lịch của vợ chồng tóc tiên và hoàng tou@@ liver sang mai nha bot", "label": [[5, 6, "PERSON"], [8, 10, "PERSON"]]}
+{"sentence": "e@@ van s@@ malling đổi cái giờ sang buổi chiều vì bị hl@@ v ster@@ l@@ ling triệu tâ@@ p gấp", "label": [[0, 3, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "tôi Lại Lý Huynh là tay cờ số 1 việt nam , hiện sức kh@@ ỏ@@ e yếu do vừa thi đấu với danh thủ Từ Siêu . mong bs có thể đổi lịch khám để tôi thi đấu", "label": [[1, 3, "PERSON"], [25, 26, "PERSON"]]}
+{"sentence": "Vương Thiên Nhất có gặp trưởng khoa Triệu H@@ âm H@@ âm để khám sớm vào hôm nay rồi", "label": [[0, 2, "PERSON"], [7, 11, "PERSON"]]}
+{"sentence": "đêm qua tôi mơ thấy Gia Cát Lượng báo mộng phải khám sớm hơn 1 canh giờ mới khỏi được . Mong bác phó khoa da liễu Tào Tháo thông cảm", "label": [[5, 7, "PERSON"], [27, 28, "PERSON"]]}
+{"sentence": "trước có đặt khám cho chị L@@ ã Thu mà nhầm họ La thành họ L@@ ã , bot đổi tên thành La Thu nha", "label": [[6, 8, "PERSON"], [22, 23, "PERSON"]]}
+{"sentence": "đổi bs khám của cháu Yên Ly sang bác Bạc Hà giúp nha bot . bác sĩ kia có bận rồi", "label": [[5, 6, "PERSON"], [9, 10, "PERSON"]]}
+{"sentence": "ki@@ eu phong 69 xin đính chính ta là ti@@ eu phong , mong bot hãy điều chỉnh", "label": [[0, 2, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "bot ngh@@ ia cứ nhầm ta tru@@ ong vo ky thành tru@@ ong du ki thật là đáng trách , còn không mau sửa ngay", "label": [[6, 9, "PERSON"], [11, 14, "PERSON"]]}
+{"sentence": "phái Tiêu Dao có người tên là du@@ ong dan võ công rất đáng gờm , hãy cho qu@@ ach tinh đại hiệp cái hẹn với hắn sớm hơn dự kiến", "label": [[7, 9, "PERSON"], [18, 20, "PERSON"]]}
+{"sentence": "hu tru@@ c ta đang bị nội thương , mong hoa da chữ trị gấp . ngài có thể gặp ta sớm hơn 1 canh giờ ko ạ . đa tạ tiên sinh", "label": [[0, 2, "PERSON"], [10, 11, "PERSON"]]}
+{"sentence": "le@@ nh ho xung bái kiến thần y hai thu@@ ong lan ong . Ta có thể gặp tiên sinh trễ hơn 2 nén nhang được không", "label": [[0, 3, "PERSON"], [8, 12, "PERSON"]]}
+{"sentence": "tôi muốn thay đổi lịch khám với bs trung", "label": [[8, 8, "PERSON"]]}
+{"sentence": "hôm nọ tôi có đặt lịch với ông văn tôi muốn thay đổi lịch khám", "label": [[8, 8, "PERSON"]]}
+{"sentence": "cho tôi thay đổi lịch đã đặt hẹn với chị linh", "label": [[10, 10, "PERSON"]]}
+{"sentence": "vào ngày 2/9 tôi đã hẹn khám với bác sinh . tôi muốn thay đổi ngày", "label": [[9, 9, "PERSON"]]}
+{"sentence": "chiều mai em bận việc cá nhân . không biết có thể thay đổi lịch hẹn với ô@@ g l@@ uyến được không", "label": [[19, 20, "PERSON"]]}
+{"sentence": "với lịch như đã đặt khả năng tôi thay đổi thứ 4 sang thứ 5 của bs hải", "label": [[17, 17, "PERSON"]]}
+{"sentence": "bác sỹ huy sắp tới có rãnh thời gian nào không tôi muốn thay đổi lịch đã đặt", "label": [[2, 2, "PERSON"]]}
+{"sentence": "tôi tên nam tôi muốn đổi lịch khám", "label": [[2, 2, "PERSON"]]}
+{"sentence": "bot ơi id của tôi là vũ tôi muốn đổi lịch đã hẹn", "label": [[6, 6, "PERSON"]]}
+{"sentence": "vào 4h chiều mai tôi có hẹn với bs tuy , nhưng tôi muốn thay đổi hẹn", "label": [[9, 9, "PERSON"]]}
+{"sentence": "ID của mình là Duy mình muốn đổi hẹn", "label": [[4, 4, "PERSON"]]}
+{"sentence": "lịch hẹn với bs Phúc mình có thay đổi được kh@@ g ?", "label": [[4, 4, "PERSON"]]}
+{"sentence": "bác sỹ Phan có rãnh vào cn không mình muốn thay đổi lịch đã đặt vào thứ 7", "label": [[2, 2, "PERSON"]]}
+{"sentence": "bot ơi tui muôn đổi lịch khám , tên tui là Nhất", "label": [[11, 11, "PERSON"]]}
+{"sentence": "hi bot tui muốn đổi lịch với bác sỹ Thông", "label": [[9, 9, "PERSON"]]}
+{"sentence": "ID của mình là 096@@ 48@@ 196@@ 53 , mình muốn thay đổi hẹn với chị Linh", "label": [[16, 16, "PERSON"]]}
+{"sentence": "tên của tui là Vũ tôi mướn thay đổi lịch trình khám sang tháng", "label": [[4, 4, "PERSON"]]}
+{"sentence": "tuần sau tôi rãnh tôi muốn dời lịch hẹn sang tuần sau với D@@ r . Long", "label": [[16, 16, "PERSON"]]}
+{"sentence": "19@@ :30 tối tôi muốn dời lịch hẹn như vậy với bác sỹ Phương", "label": [[13, 13, "PERSON"]]}
+{"sentence": "khả năng tôi dời vào cuối tuần sau với bác sỹ Trang được hông ?", "label": [[11, 11, "PERSON"]]}
+{"sentence": "ID@@ : VŨ mướn đổi lịch hẹn", "label": [[2, 2, "PERSON"]]}
+{"sentence": "bot ơi tôi muốn thay đổi khám với bs Tâ@@ M", "label": [[9, 10, "PERSON"]]}
+{"sentence": "lịch khám với NH@@ ân tôi thay đổi được hông ?", "label": [[3, 4, "PERSON"]]}
+{"sentence": "thứ 6 tuần này tôi bận rồi . tôi thay đổi lịch được không ? . ID@@ : Dung", "label": [[18, 18, "PERSON"]]}
+{"sentence": "bot , tôi muốn đổi lịch sang đầu tuần sau với ô Hà", "label": [[12, 12, "PERSON"]]}
+{"sentence": "xin chào tôi muốn đặt lịch với ph@@ am", "label": [[7, 8, "PERSON"]]}
+{"sentence": "này bot tôi muốn thay đổi lịch hen được không bot ?", "label": []}
+{"sentence": "lịch khám ông cu@@ ong với tôi có thể dời sang tuần sau k ?", "label": [[3, 4, "PERSON"]]}
+{"sentence": "bs nhi có thể chuyển sang khám toi vào ngày mai không", "label": [[1, 1, "PERSON"]]}
+{"sentence": "h@@ ello tôi cần thay đổi lịch hẹn Sinh ở khoa phụ sản", "label": [[8, 8, "PERSON"]]}
+{"sentence": "vừa rồi tôi đặt lịch ở khoa ngoại với bs khoa . tôi muốn thay đổi lịch", "label": [[10, 10, "PERSON"]]}
+{"sentence": "muốn thay đổi lịch tại khoa da liễu với bác sỹ trung", "label": [[11, 11, "PERSON"]]}
+{"sentence": "đổi lịch hẹn với ông Lai", "label": [[5, 5, "PERSON"]]}
+{"sentence": "lịch hẹn với hai có thay đổi được không ?", "label": [[3, 3, "PERSON"]]}
+{"sentence": "chín giờ ngày mai tôi muốn đổi lịch của ông bác sỹ phan", "label": [[12, 12, "PERSON"]]}
+{"sentence": "doi lich hen cua toi voi ong ba@@ c sy quang du@@ oc kh@@ ong", "label": [[10, 10, "PERSON"]]}
+{"sentence": "ne bot toi mu@@ on doi lich hen voi chi kim v@@ ao ngay mai", "label": [[10, 10, "PERSON"]]}
+{"sentence": "toi mu@@ on doi lich sang tu@@ an sau . h@@ inh nhu id cua tui la duy", "label": [[17, 17, "PERSON"]]}
+{"sentence": "thua ba@@ c sy ba@@ c toi mu@@ on thay doi lich hen", "label": [[4, 5, "PERSON"]]}
+{"sentence": "toi ban v@@ ao ngay 12 3 nen toi mu@@ on thay doi lich kham voi chi trang", "label": [[17, 17, "PERSON"]]}
+{"sentence": "bảy giờ thiếu 15 tối vào ngày 6/6 tôi muốn dời lịch khám ngày này với bác Ph@@ ưới", "label": [[17, 18, "PERSON"]]}
+{"sentence": "bot tôi muốn đổi hẹn khám với chuyên gia San@@ cho", "label": [[9, 10, "PERSON"]]}
+{"sentence": "tôi muốn thay đổi khám với bác sỹ K@@ nar được ko", "label": [[8, 9, "PERSON"]]}
+{"sentence": "em muốn thay đổi lịch khám với chị bác sỹ Yu@@ t", "label": [[10, 11, "PERSON"]]}
+{"sentence": "bác sỹ Ph@@ ay có thể thay đổi lịch hẹn giúp em được không", "label": [[2, 3, "PERSON"]]}
+{"sentence": "iden@@ tify của tôi là đ@@ ặng huyền nguyên tôi muốn đổi lịch hẹn", "label": [[5, 8, "PERSON"]]}
+{"sentence": "tôi muốn thay đổi lịch hẹn vào tuần sau", "label": []}
+{"sentence": "bạn tôi là phạm thi ga , bạn tôi nhờ tôi thay đổi lịch hẹn", "label": [[3, 5, "PERSON"]]}
+{"sentence": "tên của tôi là đoàn minh kỳ tôi muốn dời lịch hẹn vào tám giờ tối mai", "label": [[4, 6, "PERSON"]]}
+{"sentence": "lê khắc lý là tên tôi , tôi muốn thay đổi lịch", "label": [[0, 2, "PERSON"]]}
+{"sentence": "tuần sau tôi muốn thay đổi lịch khám", "label": []}
+{"sentence": "tôi muốn thay đổi lịch khám dùm bạn lê thị hồng hoa .", "label": [[8, 11, "PERSON"]]}
+{"sentence": "id@@ : lê thị lư@@ c . thay đổi lịch khám", "label": [[2, 5, "PERSON"]]}
+{"sentence": "làm cách nào để liên hệ với bs trần be ron để thay đổi lịch hẹn vậy bot", "label": [[8, 10, "PERSON"]]}
+{"sentence": "tôi muốn thay đổi lịch hẹn tái khám vào tuần sau với ông lâm văn cảnh", "label": [[13, 15, "PERSON"]]}
+{"sentence": "thay đổi lịch khám với bs Đặng Văn Khánh An phải làm sao ?", "label": [[6, 9, "PERSON"]]}
+{"sentence": "ngày kia tôi có lịch tái khám tại khoa mắt với Trần Ninh Quý nhưng tôi muốn thay đổi sang tuần sau", "label": [[11, 13, "PERSON"]]}
+{"sentence": "tôi có đặt lịch khám về mắt id tôi là@@ : 12@@ 345 tên Lê Thị Tuyết . muốn dời lịch sang tuần sau", "label": [[14, 16, "PERSON"]]}
+{"sentence": "tôi muốn thay đổi thông tin cá nhân về lịch hẹn với bác sỹ Bùi Thị Thu", "label": [[14, 16, "PERSON"]]}
+{"sentence": "a Ngô Nhật Duy có gọi tôi a đi công tác vào lịch đã đặt nên dặn tôi thay đổi lịch khám với bác sỹ khác ? tôi phải làm như nào vậy bot", "label": [[1, 3, "PERSON"]]}
+{"sentence": "chú là Đinh Xuân Viễn chú muôn thay đổi triệu chứng đã ghi ở phần book lịch hẹn trước", "label": [[2, 4, "PERSON"]]}
+{"sentence": "chú muốn thay đổi triệu chứng ho sang ho dai d@@ ảng đã đặt với bác sỹ Dương Văn Cẩm", "label": [[17, 19, "PERSON"]]}
+{"sentence": "em muốn dời từ 7h sáng sang 7h tối với chị bác sỹ Phạm Thị Ngọc", "label": [[13, 15, "PERSON"]]}
+{"sentence": "bạn em nhờ em đổi lịch hẹn với Huỳnh Trung Thiện sang tuần sau", "label": [[8, 10, "PERSON"]]}
+{"sentence": "thông tin cá nhân của tôi cần thay đổi ngày tháng năm sinh id là Mai Thế Hùng", "label": [[15, 17, "PERSON"]]}
+{"sentence": "ông em tên Doan Vu Kha có thể thay đổi lịch khám ngày nào tuần sau", "label": [[3, 5, "PERSON"]]}
+{"sentence": "tuần nay em có việc bận rồi , em muốn dời lịch hẹn tái khám định kỳ của thai nhi với bác sỹ Le Thi Hoa", "label": [[23, 25, "PERSON"]]}
+{"sentence": "mã số khám của chị là E@@ Z@@ 419 chị muốn dời lại lịch khám được không ? tên của chị Pham Thi Ngo@@ c", "label": [[21, 24, "PERSON"]]}
+{"sentence": "mã@@ : Q@@ A@@ 123 được đặt lịch hẹn vào hôm nay nhưng tôi bận rồi nên tôi dời sang tuần sau , tên mai the hung", "label": [[24, 26, "PERSON"]]}
+{"sentence": "tên nguy@@ en van thoi tôi muốn thay đổi lịch tái khám", "label": [[1, 4, "PERSON"]]}
+{"sentence": "tên thường gọi là mai thi ki@@ eu loan tôi phải liên lạc như nào để thay đổi lịch hẹn khám", "label": [[4, 8, "PERSON"]]}
+{"sentence": "30@@ p nữa tôi có lịch khám nhưng tôi muốn thay đổi lịch với chú mai the hung", "label": [[15, 17, "PERSON"]]}
+{"sentence": "bác sỹ mai thi ki@@ eu loan dặn tôi dời lịch sang tuần sau . tôi có những thời gian nào để đặt", "label": [[2, 6, "PERSON"]]}
+{"sentence": "id@@ : le van dinh thay đổi năm sinh 1997 sang 1998", "label": [[2, 4, "PERSON"]]}
+{"sentence": "tôi thấy thông tin lịch khám sai , tôi cần thay đổi lại là ngày khám 21 sang 23", "label": []}
+{"sentence": "tôi cần sửa chữa lại thông tin lịch hẹn là triệu chứng ho khan , đờm sang ho dai d@@ ảng , sốt , tên của tui là Nguyễn ngọc Yến", "label": [[28, 30, "PERSON"]]}
+{"sentence": "vài tiếng nữa hình như có lịch hẹn với cô nguy@@ ễn hoài Yên tôi muốn dời sang chiều nay", "label": [[10, 13, "PERSON"]]}
+{"sentence": "bác sỹ Danh điền bảo tôi điền lại thông tin triệu chứng trước khi khám , tôi phải làm gì ?", "label": [[2, 3, "PERSON"]]}
+{"sentence": "bác sỹ Long Phạm có thể giúp tôi thay đổi lịch sang ngày mai không", "label": [[2, 3, "PERSON"]]}
+{"sentence": "tên của tui là Phan b@@ ùi tôi có thể thay đổi lịch khám không ?", "label": [[4, 6, "PERSON"]]}
+{"sentence": "phai lam gi de thay doi thong tin tri@@ eu chung da ghi o lich hen voi ba@@ c sy cao minh tri", "label": [[20, 22, "PERSON"]]}
+{"sentence": "bot oi toi co the change ap@@ pt cua ba@@ c do van kha", "label": [[11, 13, "PERSON"]]}
+{"sentence": "toi nen lam gi de thay doi lich da hen voi do van kha", "label": [[11, 13, "PERSON"]]}
+{"sentence": "toi mu@@ on doi lich kham cua ba@@ c sy dang van y", "label": [[10, 12, "PERSON"]]}
+{"sentence": "id le chanh thu doi lich hen sang ngay kia lu@@ c 9@@ :@@ 10", "label": [[1, 3, "PERSON"]]}
+{"sentence": "tên bác sỹ Thạch Thị Sóc H@@ ên tôi muốn đổi lịch hẹn", "label": [[3, 7, "PERSON"]]}
+{"sentence": "lịch hẹn của Lâm Chong có thể thay đổi được không ?", "label": [[3, 4, "PERSON"]]}
+{"sentence": "tôi muốn thay đổi lịch hẹn với bác sỹ Thạch Ch@@ ây Mu Ny", "label": [[9, 13, "PERSON"]]}
+{"sentence": "tôi muốn change ap@@ pt với bác sỹ Chan Ng", "label": [[8, 9, "PERSON"]]}
+{"sentence": "cho tôi xin phép thay đổi lịch hẹn cá nhân với bác sỹ Lee hoon ở khoa thẫm mĩ", "label": [[13, 14, "PERSON"]]}
+{"sentence": "bạn tôi tên lê văn bảy đã thay đổi lịch giúp tôi id@@ : Lê Đoàn Duy đúng không ?", "label": [[3, 5, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "lúc bốn giờ chiều nay bạn chị võ nhật duy đã thay đổi lịch hẹn của chị . Chị tên Trang Tố Phượng", "label": [[7, 9, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "id@@ : 12@@ 33 thay đổi tên nguy@@ ễn ngọc đông sang Nguyễn Ngọc Đông", "label": [[7, 10, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "tôi muốn nhường lịch hẹn của tôi tên lý ngọc hồ cho bạn Lê Hoàng Nam", "label": [[8, 10, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "vợ tôi đi khám thai định kỳ muốn dời lịch sang tuần sau tên vợ@@ : nguy@@ ễn thị thủ@@ y tên tô@@ i@@ : Nguyễn Minh Chương", "label": [[16, 20, "PERSON"], [25, 27, "PERSON"]]}
+{"sentence": "bà chị tôi lương thị ánh hồng nhờ tôi dời lịch sang ngày mai trùng lịch của tôi Lệ Thị Tựa", "label": [[3, 6, "PERSON"], [18, 20, "PERSON"]]}
+{"sentence": "vài lúc 9 giờ 30 p sáng anh tôi bị kẹt xe nên nhờ dịch sang tuần sau tên anh tô@@ i@@ : trần thanh hải . Ký tên Bùi Thị Triển", "label": [[23, 25, "PERSON"], [29, 31, "PERSON"]]}
+{"sentence": "bot ơi sắp xếp lại hộ ng thị út sang khám cho bs Ng Quốc Duy", "label": [[6, 8, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "chuyển lịch hẹn của tôi từ bác đoàn văn hiểu sang Đinh Thị Hoài", "label": [[7, 9, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "bs cao thị hải hẹn tôi sang tuần sau id của tôi là : Mã Thị Lan", "label": [[1, 3, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "con em Cao Thị Hà và em cao thị hải muốn dời lịch tái khám tim sang ngày 21/3", "label": [[2, 4, "PERSON"], [7, 9, "PERSON"]]}
+{"sentence": "hôm qua em có đổi lịch hen của chồng Nguyễn Vũ Hạn . ký tên cao thị hà", "label": [[9, 11, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "chồng em tên Huỳnh Phú bị tai nạn nên em phải dời lịch tái khám của em sang ngày khác ký tên võ kim thoa", "label": [[3, 4, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "mã tê@@ n@@ : Lê Thị Điệp thay đổi lịch hẹn dùm hà thị phương", "label": [[4, 6, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "con em tên Lê Hoàng Khải có lịch hẹn tái khám tim hôm nay nhưng bs lê bảo lộc dặn dời lịch hẹn", "label": [[3, 5, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "con muốn sửa thông tin lịch hẹn tên Võ Thị Thú@@ y Lợi sang võ thị thú@@ y", "label": [[8, 12, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "l@@ ám gì để được đổi bác sỹ Diệp Hoàng Lâm sang ông ng quang duy", "label": [[8, 10, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "Nguyễn Văn Tèo có nhờ tôi liên hệ với bác sỹ nguy@@ ễn kim cương dời lịch hẹn h@@ inh như sang tháng sau", "label": [[0, 2, "PERSON"], [11, 14, "PERSON"]]}
+{"sentence": "tôi có thể dời lịch hẹn với bác sỹ Lê Văn Tánh sang ngày kia được không hoặc có thể gặp bs huỳnh văn lâm", "label": [[9, 11, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "lúc 3:@@ 00@@ pm em tôi tên Lê Quốc Vững bị tai nạn . nên tôi không đến khám được , vui lòng dời sang ngày khác . ký tên lê viết quốc", "label": [[7, 9, "PERSON"], [30, 32, "PERSON"]]}
+{"sentence": "hi bot nhờ sắp xếp lại lịch của đỗ văn đầy và đỗ mười", "label": [[8, 10, "PERSON"], [12, 13, "PERSON"]]}
+{"sentence": "làm ơn dời lịch khám của chung thành phương , chung phương thành sang ngày 22 tháng 8", "label": [[6, 8, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "bác đ@@ ặng thị hiếu ở khoa da liễu hẹn tôi vào ngày 22 tháng sau . nhờ bot sắp xếp lại . ký tên diệp hoài lâm", "label": [[1, 4, "PERSON"], [25, 27, "PERSON"]]}
+{"sentence": "sửa lại lịch hẹn của tôi ng thị ngọc hà và nguy@@ ễn thị kiều phương sang ngày khác được không", "label": [[6, 9, "PERSON"], [11, 15, "PERSON"]]}
+{"sentence": "đinh thị trà my nhờ sửa ngày tháng năm sinh của trần thị hà", "label": [[0, 3, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "đổi cái giờ hẹn tái khám của phạm thị nhan vì chị ây đã khám với bác sỹ địa phương tô thị m@@ ên hôm qua", "label": [[7, 9, "PERSON"], [20, 23, "PERSON"]]}
+{"sentence": "tái khám với bác sỹ khoa mắt nguy@@ ễn văn thơm đã được dời sang ngày khác chưa . sig@@ n phan thị my", "label": [[7, 10, "PERSON"], [21, 23, "PERSON"]]}
+{"sentence": "phòng khám b@@ ùi thị hiền đã đầy tui muốn khám sang phòng khác . tên tui võ thị thảo trang", "label": [[2, 5, "PERSON"], [17, 20, "PERSON"]]}
+{"sentence": "sửa lại giúp em s@@ đ@@ t của 2 anh danh hùng và huỳnh thanh nhã", "label": [[10, 11, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "hình như thông tin chị phan thị lý tôi ghi sai sửa lại giúp tôi phạm thị lý", "label": [[5, 7, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "tôi Quo@@ ách Tiểu Loan viết sai tên lịch hẹn sửa lại giúp thành Quo@@ ách Tiểu Loan", "label": [[14, 17, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "quản lý nhờ em Lâm Chong dời lịch hẹn anh ấy sang ngày giờ khác tên q@@ ly Lâm Tây", "label": [[4, 5, "PERSON"], [18, 19, "PERSON"]]}
+{"sentence": "Lê Thị Huế có đặt hẹn giúp chị vào hôm bữa nhưng sai thông tin tên . Tên của chị đúng là Bùi Hằng", "label": [[0, 2, "PERSON"], [22, 23, "PERSON"]]}
+{"sentence": "Dương Thị Hương đang cà phê gặp đối tác nên nhờ em dời lịch hẹn khám với bác sỹ Huệ Tú", "label": [[0, 2, "PERSON"], [19, 20, "PERSON"]]}
+{"sentence": "Nguyễn D@@ ữ đang bận nhờ em đổi lịch hẹn của a ấy sang ngày khác cảm ơn bác Lý Bí", "label": [[0, 2, "PERSON"], [19, 20, "PERSON"]]}
+{"sentence": "sếp em Nguyễn Huệ đã tạm giảm triệu chứng nên nhờ thay đổi tt triệu chứng với bác sỹ Quang Trung", "label": [[2, 3, "PERSON"], [19, 20, "PERSON"]]}
+{"sentence": "9@@ p nữa hình như có lịch khám của Hai Bà Trưng với Điện Biên Phủ nhưng bác sỹ bận rồi dời sang ngày sau được k", "label": [[9, 11, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "lịch khám đầu giờ chiều chuyển sang ngày mai được không bs Dương Quyền tôi đã hỏi chị y tá Lê Thị Huế", "label": [[12, 13, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "Thạch Thị Sóc H@@ ên và Phạm Thị Hằng đã dời lịch hẹn sang hôm sau", "label": [[0, 4, "PERSON"], [6, 8, "PERSON"]]}
+{"sentence": "Lê Đức Trung là quản lý của a Văn Toàn nhờ dịch lịch kiểm tra y tế a ấy sang bữa sau", "label": [[0, 2, "PERSON"], [8, 9, "PERSON"]]}
+{"sentence": "Hoài Lâm con hoài Linh nhờ dời lịch bố a ấy", "label": [[0, 1, "PERSON"], [3, 4, "PERSON"]]}
+{"sentence": "Đặng Văn ý có ý định chuyển đổi lịch hẹn của bố anh ấy Đặng v@@ Ăn Lâm sang ngày kia", "label": [[0, 2, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "chuyển id nam@@ e@@ : lê văn Lĩnh sang Lê Văn Lĩnh được hông bot", "label": [[5, 7, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "tôi và bác sỹ trần Văn hội có xung đột nên tôi muốn đổi lịch sang bác sỹ khác ví dụ như hồ quang Thái", "label": [[4, 6, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "được phép đổi dùm lịch khám của bệnh nhân Danh điền không tôi là chị nó danh Linh", "label": [[9, 10, "PERSON"], [16, 17, "PERSON"]]}
+{"sentence": "đặt giúp mình lịch hẹn cho con gái hà mơ vs bác sĩ Như Quỳnh lúc 9 giờ sáng nhé", "label": [[8, 9, "PERSON"], [13, 14, "PERSON"]]}
+{"sentence": "đặt giúp tôi lịch với bs nguy@@ ễn xuân sang cho bố Lê Phú Quý nhé", "label": [[6, 9, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "alo , đặt lịch cho mẹ nguy@@ ễn cát tường vs bác sỹ Tấn Thạnh khoa răng nhé", "label": [[6, 9, "PERSON"], [13, 14, "PERSON"]]}
+{"sentence": "chị muốn đặt lịch cho con trai võ hoài linh lúc 4 giờ ngày 20/@@ 06 với bs Quang Sáng", "label": [[7, 9, "PERSON"], [18, 19, "PERSON"]]}
+{"sentence": "h@@ ey cưng , đặt giúp chị lịch khám thai với bác sĩ đào văn thiện hoặc bs Lê Trường Thọ 9 giờ tối ngày kia nhé", "label": [[13, 15, "PERSON"], [18, 20, "PERSON"]]}
+{"sentence": "anh cần đặt lịch gấp cho bố hồ quang thịnh với bac@@ s sĩ Huy@@ nh@@ f Thúc Kháng", "label": [[7, 9, "PERSON"], [14, 18, "PERSON"]]}
+{"sentence": "tui tên huỳnh khánh linh muốn đặt lịch khám thai vơ@@ us bs Doãn Chí Bình khoa nhi", "label": [[2, 4, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "ê , đặt giúp t lịch với d@@ r phạm công thưởng khoa tiết liệu nhé , à t đặt cho bố Huỳnh Tuấn Anh", "label": [[9, 11, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "đặt giúp tôi lịch khám sớm nhất cho vợ hà thị mơ vs bs Nguyễn Thu Cúc lúc 7 giờ sáng nhé", "label": [[9, 11, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "anh muốn đặt lịch chị hồ ngọc hà khoa ph@@ ã@@ u thuật chỉnh hình để hút mỡ cho vợ Minh Hằng", "label": [[5, 7, "PERSON"], [20, 21, "PERSON"]]}
+{"sentence": "hẹn sáng mai gặp bs Huỳnh Khánh Trọng và bs hồ mang kh@@ ương nhé", "label": [[5, 7, "PERSON"], [10, 13, "PERSON"]]}
+{"sentence": "bố tui Phạm Xuân Sang cần đặt lịch khám tai với bs nguy@@ ễn tu@@ ấn kiệt", "label": [[2, 4, "PERSON"], [12, 16, "PERSON"]]}
+{"sentence": "ê bot , đặt giúp lịch cho chị Linh vs bác sĩ hữu liêm khoa răng hàm mặt nhé", "label": [[8, 8, "PERSON"], [12, 13, "PERSON"]]}
+{"sentence": "tui muốn đặt lịch cho mợ Ngọc Linh lúc 7 giờ sáng mai vs bs trần công minh", "label": [[6, 7, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "không phải , tôi đang muốn đặt cho chú Đỗ Tiến Mạnh vs bác sĩ tấn nghĩa khoa tim mạch cơ", "label": [[9, 11, "PERSON"], [15, 16, "PERSON"]]}
+{"sentence": "bot nè , đặt giúp chị lịch khám với d@@ r Vũ Kim Long , chị đặt ch@@ ho mẹ là cao mỹ ái", "label": [[11, 13, "PERSON"], [21, 23, "PERSON"]]}
+{"sentence": "dạo này bố tôi bị khó thơ@@ r , tôi muốn đặt lịch khám tim với d@@ r Vũ Thị Thanh Mai , bố tôi tên quang tấn nghĩa nhé", "label": [[18, 21, "PERSON"], [26, 28, "PERSON"]]}
+{"sentence": "tôi tên Đỗ Hà Lộc , muốn khám tổng quát vs bác sĩ nguy@@ ễn văn ân vào ngày 28/@@ 07", "label": [[2, 4, "PERSON"], [13, 16, "PERSON"]]}
+{"sentence": "chú tui Nguyễn Huệ Minh muốn khám vào 3 giờ chiều nga@@ ỳ kia vs bs thành nam", "label": [[2, 4, "PERSON"], [16, 17, "PERSON"]]}
+{"sentence": "đặt lịch cho chú là Lê Văn Hưu vs d@@ r võ hoàng nam khoa tim mạch", "label": [[5, 7, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "bố tôi dạo này lại bị đau lại , tôi muốn đặt khám lại vs d@@ r chu lan anh , bố tôi tên phạm minh khang", "label": [[17, 19, "PERSON"], [24, 26, "PERSON"]]}
+{"sentence": "đặt lịch giúp mợ là cao nhã phương với d@@ r nguy@@ ễn huỳnh hải nam vào ngày 25/@@ 08", "label": [[5, 7, "PERSON"], [11, 15, "PERSON"]]}
+{"sentence": "anh muốn lịch khám cho dì là nhật kim ngân với bác sĩ hồ trọng nghĩa khoa tai mũi ho@@ ng@@ j", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "hi bot , đặt giúp anh lịch với bác sĩ đ@@ ặng khánh an hoặc chu lan anh nhé", "label": [[10, 13, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "đặt khám thai ngày 15 . 09 vs bác sĩ quốc bảo hay bác sĩ tu@@ ấn anh đều được nhé", "label": [[10, 11, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "10 giờ sáng ngày 03@@ /10 bác sĩ minh anh và nguy@@ ễn hồng phong ai rảnh thì đặt cho anh nhé", "label": [[8, 9, "PERSON"], [11, 14, "PERSON"]]}
+{"sentence": "anh cần lịch khám cho vợ trần thị kim ngân và con lương chí nguyên để khám tổng quán", "label": [[6, 9, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "h@@ ey , đặt lịch khám cho cậu nguy@@ ễn hữu nhân , mợ đỗ thị linh ngày 27 tháng sau nhé", "label": [[8, 11, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "\b@@ đặt lịch khám sức khoẻ cho ông phạm viết phong , bà nguy@@ ễn thị đằm", "label": [[8, 10, "PERSON"], [13, 16, "PERSON"]]}
+{"sentence": "đặt kịch khám tổng quán cho con trai phạm minh khánh , con gái phạm hoài như ý vào ngày 29 tháng 11 nha", "label": [[8, 10, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "đặt lịch khám thai cho vợ Hà Thị Minh Phương vào 11 giờ sáng ngày 23 tháng 6 , à đặt với ba@@ c sĩ Nguyễn Đông Phương nha", "label": [[6, 9, "PERSON"], [25, 27, "PERSON"]]}
+{"sentence": "mai bác sĩ Trần Minh Sơn có rảnh không nhỉ mình cần đặt lịch khám cho mẹ Ôn Hà Chung", "label": [[3, 5, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "bác sĩ Lê Tự Thạnh Sinh và bác sĩ Nguyễn Thanh Tâm ai rảnh vào ngày mai thì đặt giúp tôi lịch vs người đó nhé", "label": [[2, 5, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "alo bot ơi , đặt lịch cho chị với bs Võ Trường Giang và bs Lê Quang Duy khoa phẫu thuật chỉnh hình nha", "label": [[10, 12, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "anh ơi , em cần đặt lịch khám cho con là Phan Đình Duy vs d@@ r Nguyễn Ngọc Hà , mấy hôm nay nó bị nóng trong người", "label": [[11, 13, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "đặt giúp em lịch khám vs bs Ngọc Hiền vào 8 giơ sáng mai nhé , nếu bs bận thì đặt giúp em vs bs Việt Hà", "label": [[7, 8, "PERSON"], [25, 26, "PERSON"]]}
+{"sentence": "cần đ@@ ăt lịch vs bác sỹ Trần Nguyên Hào và Phan Văn Hậu khoa thần kinh", "label": [[7, 9, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "đặt khám tổng quát cho vợ Lê Thị Hiền và con trai Phạm Minh Hiếu lúc 10h ngày 27/12", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "đặt khám thai cho vợ là Trần Thị Hường với bác sĩ Tống Hải Hưng", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "đặt khám lại cho con trai Huỳnh Kim Hưng với bác sỹ Cao Văn Huỳnh", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "tui tên là CAO bá Quát , tui muốn đặt lịch khám với bs Nguyễn VŨ DŨNG 9 giờ tối", "label": [[3, 5, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "\b@@ anh cần đặt li@@ h@@ c hộ cho bác Đinh Kha NAM với bác sỹ Nguy@@ Ễ@@ n Min@@ H Tr@@ À", "label": [[10, 12, "PERSON"], [16, 22, "PERSON"]]}
+{"sentence": "cúc cu , bot đặt giúp tui lịch với bs Đào NG@@ Ọ@@ c KH@@ ẢI nhé , tui đặt cho cô là Bùi LAN ANH", "label": [[10, 15, "PERSON"], [23, 25, "PERSON"]]}
+{"sentence": "bot nè , chị là Phạm HOÀI TH@@ u chị muốn đặt lịch với vs NG@@ Uy@@ ễn Hồng MINH khoa thần kinh", "label": [[5, 8, "PERSON"], [15, 19, "PERSON"]]}
+{"sentence": "15 giờ chiều mai bs sĩ Trương NH@@ Ậ@@ t MINH có rảnh ko , nếu ko đặt giúp tui lịch vs bác sỹ ĐẶ@@ ng THỊ M@@ Ù@@ I", "label": [[6, 10, "PERSON"], [24, 29, "PERSON"]]}
+{"sentence": "bác sĩ hữu minh mai có rảnh ko vậy , tôi cần đặt lịch khám tổng quát giúp bố là Trần HOÀNG NA@@ m", "label": [[2, 3, "PERSON"], [20, 23, "PERSON"]]}
+{"sentence": "mình đang cân đặt khám tổng quát cho bố là lê trọng nghĩa , mẹ là nguy@@ Ễ@@ n TH@@ ị Gian@@ G ngày kia 9 giờ tối", "label": [[10, 12, "PERSON"], [16, 22, "PERSON"]]}
+{"sentence": "cần đ@@ ă@@ t@@ j lịch cho 2 đứa con là phạm quang duy và B@@ Ù@@ i Văn PHÚ vào 7 giờ sáng ngày 12/@@ 03", "label": [[11, 13, "PERSON"], [15, 19, "PERSON"]]}
+{"sentence": "2 bác tôi là nguy@@ ễn thị bích và Nguy@@ Ễ@@ n Đ@@ INH NGUYÊN cần đặt ịch khám tổng quát", "label": [[4, 7, "PERSON"], [9, 14, "PERSON"]]}
+{"sentence": "đặt lịch khám bác sĩ đinh bá thi khoa răng m@@ iê@@ ng@@ j , tôi đặt cho con là Huỳnh B@@ Á NH@@ ân", "label": [[5, 7, "PERSON"], [20, 24, "PERSON"]]}
+{"sentence": "đặt lịch khám với bác sĩ Trần L@@ Ễ NH@@ ƠN lúc 9 giờ tối ngày kia cho con phạm duy phong", "label": [[6, 10, "PERSON"], [19, 21, "PERSON"]]}
+{"sentence": "đặt giúp anh lịch khám tổng qu@@ ats cho bố Nguyễn HỮU phá@@ T và mẹ phạm linh chi nhé", "label": [[10, 13, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "cưng đặt giúp chị lịch kiểm tra sức kh@@ ẻo với bs Đô@@ n@@ G Tấn Pha và nguy@@ ễn văn phong nhé", "label": [[12, 16, "PERSON"], [18, 21, "PERSON"]]}
+{"sentence": "bác sĩ Trần Hải Đă@@ NG và lâm tự bình có rảnh không , chị cần hẹn khám lúc 14 giờ chiều mai", "label": [[2, 5, "PERSON"], [7, 9, "PERSON"]]}
+{"sentence": "đặt lịch khám cho cậu là Tiế@@ T t@@ Ấn Phúc , mợ là ngô bình phương phi", "label": [[6, 10, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "tôi tên Phạm Nam muốn đặt lịch với bác sĩ ir@@ ina k@@ ush@@ ak@@ ova vào 8@@ h45 ngày 12/@@ 04", "label": [[2, 3, "PERSON"], [10, 15, "PERSON"]]}
+{"sentence": "đặt lịch khám cho bố là bra@@ d pit@@ t mẹ là ang@@ el@@ ina jo@@ ile vào ngày 08/@@ 08 tháng sau", "label": [[6, 9, "PERSON"], [12, 16, "PERSON"]]}
+{"sentence": "hi em , chị là hel@@ en thanh đào đang muốn đặt lịch khám thai vs bác sĩ soo young khoa phụ sản", "label": [[5, 8, "PERSON"], [18, 19, "PERSON"]]}
+{"sentence": "anh đang cần đặt lịch khám tổng quát cho 2 đứa con là g-@@ dragon và park hyun seo", "label": [[13, 14, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "\b@@ bác sĩ Thu Thảo khoa tim mạch có rảnh ngày mai ko , mị@@ nh@@ f muốn đặt lịch khám cho con là h ' ăng nie", "label": [[3, 4, "PERSON"], [24, 27, "PERSON"]]}
+{"sentence": "tui cần đặt lịch khám cho cậu mợ là trần thị b@@ ửu hạnh và Dus@@ tin Nguyễn vào ngày 06/@@ 06/@@ 2021", "label": [[9, 13, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "cô là Phan Ngọc Nga đang cần đặt lịch khám bệnh vs bs Rhy@@ mas@@ tic", "label": [[2, 4, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "anh đang cần đặt lịch khám cho bố là ali hoàng dương và vợ Jennifer Phạm , em xem có lịch nào sớm nhất thì báo cho anh nhé", "label": [[9, 11, "PERSON"], [14, 15, "PERSON"]]}
+{"sentence": "chú là tô thái nghĩa cần đặt lịch khám vs bác sỹ Tim@@ o@@ the@@ e Chal@@ am@@ et khoa trĩ", "label": [[2, 4, "PERSON"], [12, 18, "PERSON"]]}
+{"sentence": "đặt giúp anh lịch khám vs bác sĩ lo@@ u hoàng và Huang Yan@@ sh@@ en vào 12 giờ trưa mai nhé", "label": [[12, 15, "PERSON"]]}
