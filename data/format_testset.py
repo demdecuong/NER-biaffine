@@ -6,13 +6,15 @@ import re
 import pandas as pd
 import json
 from transformers import AutoTokenizer
+from vncorenlp import VnCoreNLP
 
-tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
+# tokenizer = AutoTokenizer.from_pretrained('vinai/phobert-base')
+tokenizer = VnCoreNLP("../vncorenlp/VnCoreNLP-1.1.1.jar", annotators="wseg", max_heap_size='-Xmx500m')
 
 def padding_punct(s):
     s = re.sub('([.,!?()])', r' \1 ', s)
     s = re.sub('\s{2,}', ' ', s)
-    return s
+    return s.strip()
 
 def save_to_json(data,label, out_path):
     print(f'Saving to {out_path} ... ')
@@ -48,24 +50,28 @@ if __name__ == '__main__':
     for n1, n2 in zip(name1, name2):
         tmp = []
         if type(n1) != float:
-            tmp.append(tokenizer.tokenize(n1))
+            tmp.append(" ".join(n1.split()))
         
         if type(n2) != float:
-            tmp.append(tokenizer.tokenize(n2))
+            # tmp.append(tokenizer.tokenize(n2))
+            tmp.append(" ".join(n2.split()))
     
         label_tokens.append(tmp)
-
-    trg = [' '.join(tokenizer.tokenize(padding_punct(sent))) for sent in trg]
+    
+    trg = [padding_punct(" ".join(sent.split())) for sent in trg] 
 
     label = []
     for i in range(len(trg)):
         tmp = []
         for tokens in label_tokens[i]:
             get_first = False
-            if str(tokens[-1]).isnumeric():
-                tokens = tokens[:-1]
+            if str(tokens.split(' ')[-1]).isnumeric():
+                if len(tokens.split(' ')) > 1:
+                    tokens = ' '.join(tokens.split(' ')[:-1])
+                else:
+                    tokens = tokens.split(' ')[:-1]
                 get_first = True
-            indx = find_sub_list(tokens, trg[i].split(' '))
+            indx = find_sub_list(tokens.strip().split(' '), trg[i].split(' '))
             try:
                 if get_first:
                     start_idx, end_idx = indx[0][0], indx[0][1]
@@ -73,8 +79,8 @@ if __name__ == '__main__':
                     start_idx, end_idx = indx[-1][0], indx[-1][1]
             except:
                 print(indx)
-                print(tokens)
-                print(trg[i])
+                print(tokens.strip().split(' '))
+                print(trg[i].split(' '))
                 print(i)
             tmp.append([start_idx,end_idx,"PERSON"])
         label.append(tmp)
