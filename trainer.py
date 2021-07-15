@@ -28,7 +28,7 @@ class Trainer(object):
         self.test_data = test_data
 
     def update_lr(self,scale):
-        self.args.learning_rate = new_lr
+        self.args.learning_rate = self.args.learning_rate / scale
 
     def train(self):
         train_sampler = RandomSampler(self.train_data)

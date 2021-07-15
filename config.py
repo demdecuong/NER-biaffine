@@ -61,6 +61,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--batch_size', type=int, default=80) 
     parser.add_argument('--num_epochs', type=int, default=10) 
     parser.add_argument('--learning_rate', type=float, default=5e-5) 
+    parser.add_argument('--scale_lr', type=int, default=2) # for reduce lr after N(default=3) epochs 
     parser.add_argument('--adam_epsilon', type=float, default=1e-8) 
     parser.add_argument('--weight_decay', type=float, default=0.01) 
     parser.add_argument('--warmup_steps', type=int, default=0) 

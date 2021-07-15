@@ -90,8 +90,8 @@ def main(args):
                 if test_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
-                               f'./{args.ckpt_dir}/checkpoint_{f1_score}.pth')
-                    print(f"Save model at {args.ckpt_dir}/checkpoint_{f1_score}.pth")
+                               f'./{args.ckpt_dir}/checkpoint_{test_prec}.pth')
+                    print(f"Save model at {args.ckpt_dir}/checkpoint_{test_prec}.pth")
                     test_prev = test_prec
                     not_update_cnt = 0
 
@@ -99,15 +99,15 @@ def main(args):
                     best_iter = i
                     best_epoch = e
                     best_prec = test_prec
-                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{f1_score}.pth"
+                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{test_prec}.pth"
                 else:
                     not_update_cnt += 1
                     if not_update_cnt % 3 == 0:
-                        print(f'Update learning rate from {trainer.args.learning_rate} => {trainer.args.learning_rate/scale}')
-                        trainer.update_lr(2) # divide lr to 2
+                        print(f'Update learning rate from {trainer.args.learning_rate} => {trainer.args.learning_rate/args.scale_lr}')
+                        trainer.update_lr(args.scale_lr) # divide lr to 2
                 current_time = str(datetime.datetime.now(pytz.timezone('Asia/Bangkok')))[5:19]
                 f = open(args.log_file, "a")
-                f.write(','.join([current_time, args.model_name,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
+                f.write(','.join([current_time , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
                 f.close()
                 print(f"[INFO] Best test precision : {best_prec} at iter {best_iter}-{best_epoch} is saved at {best_model_dir} ")
 
@@ -186,13 +186,13 @@ def main_aug_online(args):
                 print('--------------------- TESTING ---------------------')
                 
                 test_prec, test_recall, test_f1 = trainer.eval('test', test_prev)
-                eval_prec, dev_recal, dev_f1 = trainer.eval('dev', dev_prev)
+                dev_prec, dev_recal, dev_f1 = trainer.eval('dev', dev_prev)
 
                 if test_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
-                               f'./{args.ckpt_dir}/checkpoint_{f1_score}.pth')
-                    print(f"Save model at {args.ckpt_dir}/checkpoint_{f1_score}.pth")
+                               f'./{args.ckpt_dir}/checkpoint_{test_prec}.pth')
+                    print(f"Save model at {args.ckpt_dir}/checkpoint_{test_prec}.pth")
                     test_prev = test_prec
                     not_update_cnt = 0
 
@@ -200,15 +200,15 @@ def main_aug_online(args):
                     best_iter = i
                     best_epoch = e
                     best_prec = test_prec
-                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{f1_score}.pth"
+                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{test_prec}.pth"
                 else:
                     not_update_cnt += 1
                     if not_update_cnt % 3 == 0:
-                        print(f'Update learning rate from {trainer.args.learning_rate} => {trainer.args.learning_rate/scale}')
-                        trainer.update_lr(2) # divide lr to 2
+                        print(f'Update learning rate from {trainer.args.learning_rate} => {trainer.args.learning_rate/args.scale_lr}')
+                        trainer.update_lr(args.scale_lr) # divide lr to 2
                 current_time = str(datetime.datetime.now(pytz.timezone('Asia/Bangkok')))[5:19]
                 f = open(args.log_file, "a")
-                f.write(','.join([current_time, args.model_name,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
+                f.write(','.join([current_time,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
                 f.close()
                 print(f"[INFO] Best test precision : {best_prec} at iter {best_iter}-{best_epoch} is saved at {best_model_dir} ")
 

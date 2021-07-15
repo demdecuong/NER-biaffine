@@ -30,7 +30,8 @@ python main.py --aug_online True --use_aug_every 3 \
 
 4. Finetune trained model
 ```
-python main.py --ckpt_dir ckpt --use_pretrained 'save_checkpoint /  best_model.pth --log_file log.csv'
+python main.py --batch_size 256 --ckpt_dir finetune --learning_rate 2e-4 --log_file log_ft.csv \
+--use_pretrained True --load_ckpt 'finetune/checkpoint_0.925.pth'
 ```
 
 ### TODO  
