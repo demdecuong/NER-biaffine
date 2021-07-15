@@ -24,7 +24,7 @@ def save_to_json(data,label, out_path):
                 'sentence' : src,
                 'label' : trg 
             }
-            f.write(str(json.dumps(obj,ensure_ascii=False)) + '\n')
+            f.write(str(json.dumps(obj,ensure_ascii=True)) + '\n')
     
 # {"sentence": "Chúng_tôi hỏi nguyen ho thuy trang : “ Anh có nghĩ việc mình làm là phạm_pháp ? ” .", "label": [[2, 5, "PERSON"]]}
 
@@ -51,11 +51,14 @@ if __name__ == '__main__':
         tmp = []
         if type(n1) != float:
             tmp.append(" ".join(n1.split()))
-        
+
         if type(n2) != float:
             # tmp.append(tokenizer.tokenize(n2))
             tmp.append(" ".join(n2.split()))
-    
+
+        if tmp == []:
+            tmp.append('nan')
+            print('....')
         label_tokens.append(tmp)
     
     trg = [padding_punct(" ".join(sent.split())) for sent in trg] 
@@ -72,17 +75,16 @@ if __name__ == '__main__':
                     tokens = tokens.split(' ')[:-1]
                 get_first = True
             indx = find_sub_list(tokens.strip().split(' '), trg[i].split(' '))
-            try:
+            
+            if indx == []:
+                break
+            else:
                 if get_first:
                     start_idx, end_idx = indx[0][0], indx[0][1]
                 else:
                     start_idx, end_idx = indx[-1][0], indx[-1][1]
-            except:
-                print(indx)
-                print(tokens.strip().split(' '))
-                print(trg[i].split(' '))
-                print(i)
-            tmp.append([start_idx,end_idx,"PERSON"])
+
+                tmp.append([start_idx,end_idx,"PERSON"])
         label.append(tmp)
 
     save_to_json(trg,label,"person_name/human_test.json")

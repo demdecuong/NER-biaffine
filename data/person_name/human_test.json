@@ -1,68 +1,68 @@
-{"sentence": "tôi tạ văn sáng sáng hôm trước có đặt hẹn với bác sĩ ạ", "label": [[1, 3, "PERSON"]]}
-{"sentence": "phan văn tài em cần book lịch", "label": [[0, 3, "PERSON"]]}
-{"sentence": "sáng hôm qua con em trần đình quý có gọi điện cho bs á", "label": [[5, 7, "PERSON"]]}
-{"sentence": "em muốn đặt khám cho mẹ em thái tự mẫu", "label": [[7, 9, "PERSON"]]}
-{"sentence": "bot ơi cho đặt cái lịch với , tui tên trần nguyễn hiền", "label": [[10, 12, "PERSON"]]}
-{"sentence": "tôi tên nguyễn hoàng nam nay có hẹn vs bác sỹ", "label": [[2, 4, "PERSON"]]}
-{"sentence": "trước tui có đặt lịch rùi á , tên vương gia lương", "label": [[9, 11, "PERSON"]]}
-{"sentence": "tôi tên trần phương nam , muốn đặt hẹn vs bệnh viên", "label": [[2, 4, "PERSON"]]}
-{"sentence": "ba em nguyễn hạn vũ có book lịch cho em vào ngày 2/7", "label": [[2, 4, "PERSON"]]}
-{"sentence": "mình muốn đặt lịch khám cho bà mình tên lê thị diệp", "label": [[9, 11, "PERSON"]]}
-{"sentence": "tôi tên Nguyễn Thái Thành cần khám họng do mấy nay ho quá", "label": [[2, 4, "PERSON"]]}
-{"sentence": "cần đặt hẹn với bs Tô Quang Trung khoa cấp cứu gấp", "label": [[5, 7, "PERSON"]]}
-{"sentence": "bác sĩ Phạm Thị Yến Trang có rãnh vào thứ 3 tuần này không ạ", "label": [[2, 5, "PERSON"]]}
-{"sentence": "Đào Hiếu là tên của thằng em tôi , nó muốn đặt cái lịch vs bs", "label": [[0, 1, "PERSON"]]}
-{"sentence": "họ và tên là Trần Kiều Trang cần khám đặt lại lịch khám tai mũi họng", "label": [[4, 6, "PERSON"]]}
-{"sentence": "tôi muốn đặt lịch khám bệnh cho ba tôi là Phạm Long", "label": [[10, 11, "PERSON"]]}
-{"sentence": "tôi là Bằng Kiều và tôi muốn đặt lịch khám thì làm là gì", "label": [[2, 3, "PERSON"]]}
-{"sentence": "tôi được biết bs Phạm Hải Long giỏi lắm , tôi muốn được khám vs bác thì làm gì", "label": [[4, 6, "PERSON"]]}
-{"sentence": "đặt lịch khám da liễu cho em gái Lý Quốc Nữ", "label": [[8, 10, "PERSON"]]}
-{"sentence": "họ và tên mình là Vương Gia Hân , mình muốn đặt lịch khám da liễu vào tuần sau", "label": [[5, 7, "PERSON"]]}
-{"sentence": "đặt lịch cho trần be ron", "label": [[3, 5, "PERSON"]]}
-{"sentence": "tôi là nguyễn văn soul muốn đi khám bệnh", "label": [[2, 4, "PERSON"]]}
-{"sentence": "tôi nguyễn văn xel , khám bệnh đặt sao vậy", "label": [[1, 3, "PERSON"]]}
-{"sentence": "cần đặt lịch khám cho em họ là nay h' ui", "label": [[8, 10, "PERSON"]]}
-{"sentence": "đội slna muốn đặt lịch khám cho hlv alex ferguson", "label": [[8, 9, "PERSON"]]}
-{"sentence": "Trương Minh Đội KBuôr ở tòa C5 muốn đặt lịch khám covid-19", "label": [[0, 3, "PERSON"]]}
-{"sentence": "vợ tôi Y Liếp Niê đang mang thai , muốn đặt lịch mổ ạ", "label": [[2, 4, "PERSON"]]}
-{"sentence": "trưởng làng tôi H'Xuyên Eban tuần sau sẽ ra thôn khám bệnh thì hẹn trước bác sĩ ntn", "label": [[3, 4, "PERSON"]]}
-{"sentence": "đặt lịch khám cho thân nhân là Thạch Thị Sây La", "label": [[7, 10, "PERSON"]]}
-{"sentence": "thằng em Ma Văn Dũng dưới quê xuống chơi mà bị bệnh giờ cần hẹn trước bác sĩ để khám thì làm sao ạ", "label": [[2, 4, "PERSON"]]}
-{"sentence": "bữa em có hẹn bác sáng sáng nay tầm 9h30 có mặt ạ", "label": [[5, 5, "PERSON"]]}
-{"sentence": "mình bên công ty vinbrain hôm qua có đặt lịch khám vs bác sĩ khoa khoa da liễu á", "label": [[14, 14, "PERSON"]]}
-{"sentence": "đặt lịch khám bệnh viêm xoan vào ngày 14/07 , nếu có bác sĩ tiến trưởng khoa thì cho xin đặt lịch với bác luôn", "label": [[14, 14, "PERSON"]]}
-{"sentence": "book lịch khám cho thằng con tên tèo lúc 7 giờ rưỡi ngày mai", "label": [[7, 7, "PERSON"]]}
-{"sentence": "đăng ký lịch khám với bsy dân bv nhân dân gia định tầm chiều mai", "label": [[9, 9, "PERSON"]]}
-{"sentence": "không biết bác sĩ phòng phòng C13 khoa nội sáng thứ 2 ngày 7/8 có rãnh không ạ , mình cần đăng ký lịch khám với bác", "label": [[5, 5, "PERSON"]]}
-{"sentence": "tôi nghe nói bsi chung khoa ngoại mổ dây chằng tốt , tôi muốn hẹn với bác sĩ thì làm sao ạ", "label": [[4, 4, "PERSON"]]}
-{"sentence": "muốn đăng ký khám bác sĩ trưởng khoa dũng thì thủ tục như nào", "label": [[8, 8, "PERSON"]]}
-{"sentence": "sáng mai bác yến bên nhi có làm việc không ạ , để em đăng ký lịch khám với bác", "label": [[3, 3, "PERSON"]]}
-{"sentence": "đăng ký lịch khám cho thân nhân với họ và tên là bảo", "label": [[12, 12, "PERSON"]]}
-{"sentence": "chào bot , tôi cần đăng ký khám với bs Trang", "label": [[10, 10, "PERSON"]]}
-{"sentence": "tôi muốn đặt lịch với bác Hoàng Tùng gấp , tầm 1 tiếng rưỡi nữa tôi đến được không ạ", "label": [[7, 7, "PERSON"]]}
-{"sentence": "cho tôi thay book ngày đã hẹn với chị Linh", "label": [[9, 9, "PERSON"]]}
-{"sentence": "vào ngày 2/9 tôi đã mún hẹn khám với bác Sinh", "label": [[10, 10, "PERSON"]]}
-{"sentence": "chiều mai em bận việc cá nhân . không biết có thể đăng ký hẹn với ôg Suyến vào ngày mốt dc k", "label": [[17, 17, "PERSON"]]}
-{"sentence": "lịch làm việc tôi hay dày nên chỉ có thể khám vào buổi tối , không biết bs Hải tối còn làm không ạ . Em muốn đặt lịch vs bs", "label": [[18, 18, "PERSON"]]}
-{"sentence": "bác sỹ Huy tuần này có rãnh thời gian nào không em muốn tái khám", "label": [[2, 2, "PERSON"]]}
-{"sentence": "tôi tên Hải Nam tôi muốn tái khám khám", "label": [[2, 3, "PERSON"]]}
-{"sentence": "hi bot đặt giúp cái lịch vào thứ 5 tuần này với bs Hoàng 2h30 chiều", "label": [[13, 13, "PERSON"]]}
-{"sentence": "4h chiều mai hẹn với tá dược Tuy để tái khám và lấy thuốc", "label": [[7, 7, "PERSON"]]}
-{"sentence": "tôi tên nguyen thai thanh cần khám họng do mấy nay ho quá", "label": [[2, 4, "PERSON"]]}
-{"sentence": "cần đặt hẹn với bs to quang trung khoa cấp cứu gấp", "label": [[5, 7, "PERSON"]]}
-{"sentence": "bác sĩ pham thi yen trang có rãnh vào thứ 3 tuần này không ạ", "label": [[2, 5, "PERSON"]]}
-{"sentence": "dao hieu là tên của thằng em tôi , nó muốn đặt cái lịch vs bs", "label": [[0, 1, "PERSON"]]}
-{"sentence": "họ và tên là tran kieu trang cần khám đặt lại lịch khám tai mũi họng", "label": [[4, 6, "PERSON"]]}
-{"sentence": "tôi muốn đặt lịch khám bệnh cho ba tôi là pham long", "label": [[10, 11, "PERSON"]]}
-{"sentence": "tôi là bang kieu và tôi muốn đặt lịch khám thì làm là gì", "label": [[2, 3, "PERSON"]]}
-{"sentence": "tôi được biết bs pham hai long giỏi lắm , tôi muốn được khám vs bác thì làm gì", "label": [[4, 6, "PERSON"]]}
-{"sentence": "đặt lịch khám da liễu cho em gái ly quoc nu", "label": [[8, 10, "PERSON"]]}
-{"sentence": "họ và tên mình là vuong gia han , mình muốn đặt lịch khám da liễu vào tuần sau", "label": [[5, 7, "PERSON"]]}
-{"sentence": "chiều mai em bận việc cá nhân . không biết có thể đăng ký hẹn với ôg Cao suyến vào ngày mốt dc k", "label": [[17, 18, "PERSON"]]}
-{"sentence": "lịch làm việc tôi hay dày nên chỉ có thể khám vào buổi tối , không biết bs Phạm hải tối còn làm không ạ . Em muốn đặt lịch vs bs", "label": [[18, 19, "PERSON"]]}
-{"sentence": "bác sỹ Trần tuân tuần này có rãnh thời gian nào không em muốn tái khám", "label": [[2, 3, "PERSON"]]}
-{"sentence": "tôi tên ĐÀO ĐỨC tôi muốn tái khám khám", "label": [[2, 3, "PERSON"]]}
-{"sentence": "hi bot đặt giúp cái lịch vào thứ 5 tuần này với bs sỹ 2h30 chiều", "label": [[13, 13, "PERSON"]]}
+{"sentence": "t\u00f4i t\u1ea1 v\u0103n s\u00e1ng s\u00e1ng h\u00f4m tr\u01b0\u1edbc c\u00f3 \u0111\u1eb7t h\u1eb9n v\u1edbi b\u00e1c s\u0129 \u1ea1", "label": [[1, 3, "PERSON"]]}
+{"sentence": "phan v\u0103n t\u00e0i em c\u1ea7n book l\u1ecbch", "label": [[0, 3, "PERSON"]]}
+{"sentence": "s\u00e1ng h\u00f4m qua con em tr\u1ea7n \u0111\u00ecnh qu\u00fd c\u00f3 g\u1ecdi \u0111i\u1ec7n cho bs \u00e1", "label": [[5, 7, "PERSON"]]}
+{"sentence": "em mu\u1ed1n \u0111\u1eb7t kh\u00e1m cho m\u1eb9 em th\u00e1i t\u1ef1 m\u1eabu", "label": [[7, 9, "PERSON"]]}
+{"sentence": "bot \u01a1i cho \u0111\u1eb7t c\u00e1i l\u1ecbch v\u1edbi , tui t\u00ean tr\u1ea7n nguy\u1ec5n hi\u1ec1n", "label": [[10, 12, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean nguy\u1ec5n ho\u00e0ng nam nay c\u00f3 h\u1eb9n vs b\u00e1c s\u1ef9", "label": [[2, 4, "PERSON"]]}
+{"sentence": "tr\u01b0\u1edbc tui c\u00f3 \u0111\u1eb7t l\u1ecbch r\u00f9i \u00e1 , t\u00ean v\u01b0\u01a1ng gia l\u01b0\u01a1ng", "label": [[9, 11, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean tr\u1ea7n ph\u01b0\u01a1ng nam , mu\u1ed1n \u0111\u1eb7t h\u1eb9n vs b\u1ec7nh vi\u00ean", "label": [[2, 4, "PERSON"]]}
+{"sentence": "ba em nguy\u1ec5n h\u1ea1n v\u0169 c\u00f3 book l\u1ecbch cho em v\u00e0o ng\u00e0y 2/7", "label": [[2, 4, "PERSON"]]}
+{"sentence": "m\u00ecnh mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho b\u00e0 m\u00ecnh t\u00ean l\u00ea th\u1ecb di\u1ec7p", "label": [[9, 11, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean Nguy\u1ec5n Th\u00e1i Th\u00e0nh c\u1ea7n kh\u00e1m h\u1ecdng do m\u1ea5y nay ho qu\u00e1", "label": [[2, 4, "PERSON"]]}
+{"sentence": "c\u1ea7n \u0111\u1eb7t h\u1eb9n v\u1edbi bs T\u00f4 Quang Trung khoa c\u1ea5p c\u1ee9u g\u1ea5p", "label": [[5, 7, "PERSON"]]}
+{"sentence": "b\u00e1c s\u0129 Ph\u1ea1m Th\u1ecb Y\u1ebfn Trang c\u00f3 r\u00e3nh v\u00e0o th\u1ee9 3 tu\u1ea7n n\u00e0y kh\u00f4ng \u1ea1", "label": [[2, 5, "PERSON"]]}
+{"sentence": "\u0110\u00e0o Hi\u1ebfu l\u00e0 t\u00ean c\u1ee7a th\u1eb1ng em t\u00f4i , n\u00f3 mu\u1ed1n \u0111\u1eb7t c\u00e1i l\u1ecbch vs bs", "label": [[0, 1, "PERSON"]]}
+{"sentence": "h\u1ecd v\u00e0 t\u00ean l\u00e0 Tr\u1ea7n Ki\u1ec1u Trang c\u1ea7n kh\u00e1m \u0111\u1eb7t l\u1ea1i l\u1ecbch kh\u00e1m tai m\u0169i h\u1ecdng", "label": [[4, 6, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m b\u1ec7nh cho ba t\u00f4i l\u00e0 Ph\u1ea1m Long", "label": [[10, 11, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 B\u1eb1ng Ki\u1ec1u v\u00e0 t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m th\u00ec l\u00e0m l\u00e0 g\u00ec", "label": [[2, 3, "PERSON"]]}
+{"sentence": "t\u00f4i \u0111\u01b0\u1ee3c bi\u1ebft bs Ph\u1ea1m H\u1ea3i Long gi\u1ecfi l\u1eafm , t\u00f4i mu\u1ed1n \u0111\u01b0\u1ee3c kh\u00e1m vs b\u00e1c th\u00ec l\u00e0m g\u00ec", "label": [[4, 6, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m da li\u1ec5u cho em g\u00e1i L\u00fd Qu\u1ed1c N\u1eef", "label": [[8, 10, "PERSON"]]}
+{"sentence": "h\u1ecd v\u00e0 t\u00ean m\u00ecnh l\u00e0 V\u01b0\u01a1ng Gia H\u00e2n , m\u00ecnh mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m da li\u1ec5u v\u00e0o tu\u1ea7n sau", "label": [[5, 7, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch cho tr\u1ea7n be ron", "label": [[3, 5, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 nguy\u1ec5n v\u0103n soul mu\u1ed1n \u0111i kh\u00e1m b\u1ec7nh", "label": [[2, 4, "PERSON"]]}
+{"sentence": "t\u00f4i nguy\u1ec5n v\u0103n xel , kh\u00e1m b\u1ec7nh \u0111\u1eb7t sao v\u1eady", "label": [[1, 3, "PERSON"]]}
+{"sentence": "c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho em h\u1ecd l\u00e0 nay h' ui", "label": [[8, 10, "PERSON"]]}
+{"sentence": "\u0111\u1ed9i slna mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho hlv alex ferguson", "label": [[8, 9, "PERSON"]]}
+{"sentence": "Tr\u01b0\u01a1ng Minh \u0110\u1ed9i KBu\u00f4r \u1edf t\u00f2a C5 mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m covid-19", "label": [[0, 3, "PERSON"]]}
+{"sentence": "v\u1ee3 t\u00f4i Y Li\u1ebfp Ni\u00ea \u0111ang mang thai , mu\u1ed1n \u0111\u1eb7t l\u1ecbch m\u1ed5 \u1ea1", "label": [[2, 4, "PERSON"]]}
+{"sentence": "tr\u01b0\u1edfng l\u00e0ng t\u00f4i H'Xuy\u00ean Eban tu\u1ea7n sau s\u1ebd ra th\u00f4n kh\u00e1m b\u1ec7nh th\u00ec h\u1eb9n tr\u01b0\u1edbc b\u00e1c s\u0129 ntn", "label": [[3, 4, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m cho th\u00e2n nh\u00e2n l\u00e0 Th\u1ea1ch Th\u1ecb S\u00e2y La", "label": [[7, 10, "PERSON"]]}
+{"sentence": "th\u1eb1ng em Ma V\u0103n D\u0169ng d\u01b0\u1edbi qu\u00ea xu\u1ed1ng ch\u01a1i m\u00e0 b\u1ecb b\u1ec7nh gi\u1edd c\u1ea7n h\u1eb9n tr\u01b0\u1edbc b\u00e1c s\u0129 \u0111\u1ec3 kh\u00e1m th\u00ec l\u00e0m sao \u1ea1", "label": [[2, 4, "PERSON"]]}
+{"sentence": "b\u1eefa em c\u00f3 h\u1eb9n b\u00e1c s\u00e1ng s\u00e1ng nay t\u1ea7m 9h30 c\u00f3 m\u1eb7t \u1ea1", "label": [[5, 5, "PERSON"]]}
+{"sentence": "m\u00ecnh b\u00ean c\u00f4ng ty vinbrain h\u00f4m qua c\u00f3 \u0111\u1eb7t l\u1ecbch kh\u00e1m vs b\u00e1c s\u0129 khoa khoa da li\u1ec5u \u00e1", "label": [[14, 14, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m b\u1ec7nh vi\u00eam xoan v\u00e0o ng\u00e0y 14/07 , n\u1ebfu c\u00f3 b\u00e1c s\u0129 ti\u1ebfn tr\u01b0\u1edfng khoa th\u00ec cho xin \u0111\u1eb7t l\u1ecbch v\u1edbi b\u00e1c lu\u00f4n", "label": [[14, 14, "PERSON"]]}
+{"sentence": "book l\u1ecbch kh\u00e1m cho th\u1eb1ng con t\u00ean t\u00e8o l\u00fac 7 gi\u1edd r\u01b0\u1ee1i ng\u00e0y mai", "label": [[7, 7, "PERSON"]]}
+{"sentence": "\u0111\u0103ng k\u00fd l\u1ecbch kh\u00e1m v\u1edbi bsy d\u00e2n bv nh\u00e2n d\u00e2n gia \u0111\u1ecbnh t\u1ea7m chi\u1ec1u mai", "label": [[9, 9, "PERSON"]]}
+{"sentence": "kh\u00f4ng bi\u1ebft b\u00e1c s\u0129 ph\u00f2ng ph\u00f2ng C13 khoa n\u1ed9i s\u00e1ng th\u1ee9 2 ng\u00e0y 7/8 c\u00f3 r\u00e3nh kh\u00f4ng \u1ea1 , m\u00ecnh c\u1ea7n \u0111\u0103ng k\u00fd l\u1ecbch kh\u00e1m v\u1edbi b\u00e1c", "label": [[5, 5, "PERSON"]]}
+{"sentence": "t\u00f4i nghe n\u00f3i bsi chung khoa ngo\u1ea1i m\u1ed5 d\u00e2y ch\u1eb1ng t\u1ed1t , t\u00f4i mu\u1ed1n h\u1eb9n v\u1edbi b\u00e1c s\u0129 th\u00ec l\u00e0m sao \u1ea1", "label": [[4, 4, "PERSON"]]}
+{"sentence": "mu\u1ed1n \u0111\u0103ng k\u00fd kh\u00e1m b\u00e1c s\u0129 tr\u01b0\u1edfng khoa d\u0169ng th\u00ec th\u1ee7 t\u1ee5c nh\u01b0 n\u00e0o", "label": [[8, 8, "PERSON"]]}
+{"sentence": "s\u00e1ng mai b\u00e1c y\u1ebfn b\u00ean nhi c\u00f3 l\u00e0m vi\u1ec7c kh\u00f4ng \u1ea1 , \u0111\u1ec3 em \u0111\u0103ng k\u00fd l\u1ecbch kh\u00e1m v\u1edbi b\u00e1c", "label": [[3, 3, "PERSON"]]}
+{"sentence": "\u0111\u0103ng k\u00fd l\u1ecbch kh\u00e1m cho th\u00e2n nh\u00e2n v\u1edbi h\u1ecd v\u00e0 t\u00ean l\u00e0 b\u1ea3o", "label": [[12, 12, "PERSON"]]}
+{"sentence": "ch\u00e0o bot , t\u00f4i c\u1ea7n \u0111\u0103ng k\u00fd kh\u00e1m v\u1edbi bs Trang", "label": [[10, 10, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch v\u1edbi b\u00e1c Ho\u00e0ng T\u00f9ng g\u1ea5p , t\u1ea7m 1 ti\u1ebfng r\u01b0\u1ee1i n\u1eefa t\u00f4i \u0111\u1ebfn \u0111\u01b0\u1ee3c kh\u00f4ng \u1ea1", "label": [[7, 7, "PERSON"]]}
+{"sentence": "cho t\u00f4i thay book ng\u00e0y \u0111\u00e3 h\u1eb9n v\u1edbi ch\u1ecb Linh", "label": [[9, 9, "PERSON"]]}
+{"sentence": "v\u00e0o ng\u00e0y 2/9 t\u00f4i \u0111\u00e3 m\u00fan h\u1eb9n kh\u00e1m v\u1edbi b\u00e1c Sinh", "label": [[10, 10, "PERSON"]]}
+{"sentence": "chi\u1ec1u mai em b\u1eadn vi\u1ec7c c\u00e1 nh\u00e2n . kh\u00f4ng bi\u1ebft c\u00f3 th\u1ec3 \u0111\u0103ng k\u00fd h\u1eb9n v\u1edbi \u00f4g Suy\u1ebfn v\u00e0o ng\u00e0y m\u1ed1t dc k", "label": [[17, 17, "PERSON"]]}
+{"sentence": "l\u1ecbch l\u00e0m vi\u1ec7c t\u00f4i hay d\u00e0y n\u00ean ch\u1ec9 c\u00f3 th\u1ec3 kh\u00e1m v\u00e0o bu\u1ed5i t\u1ed1i , kh\u00f4ng bi\u1ebft bs H\u1ea3i t\u1ed1i c\u00f2n l\u00e0m kh\u00f4ng \u1ea1 . Em mu\u1ed1n \u0111\u1eb7t l\u1ecbch vs bs", "label": [[18, 18, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 Huy tu\u1ea7n n\u00e0y c\u00f3 r\u00e3nh th\u1eddi gian n\u00e0o kh\u00f4ng em mu\u1ed1n t\u00e1i kh\u00e1m", "label": [[2, 2, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean H\u1ea3i Nam t\u00f4i mu\u1ed1n t\u00e1i kh\u00e1m kh\u00e1m", "label": [[2, 3, "PERSON"]]}
+{"sentence": "hi bot \u0111\u1eb7t gi\u00fap c\u00e1i l\u1ecbch v\u00e0o th\u1ee9 5 tu\u1ea7n n\u00e0y v\u1edbi bs Ho\u00e0ng 2h30 chi\u1ec1u", "label": [[13, 13, "PERSON"]]}
+{"sentence": "4h chi\u1ec1u mai h\u1eb9n v\u1edbi t\u00e1 d\u01b0\u1ee3c Tuy \u0111\u1ec3 t\u00e1i kh\u00e1m v\u00e0 l\u1ea5y thu\u1ed1c", "label": [[7, 7, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean nguyen thai thanh c\u1ea7n kh\u00e1m h\u1ecdng do m\u1ea5y nay ho qu\u00e1", "label": [[2, 4, "PERSON"]]}
+{"sentence": "c\u1ea7n \u0111\u1eb7t h\u1eb9n v\u1edbi bs to quang trung khoa c\u1ea5p c\u1ee9u g\u1ea5p", "label": [[5, 7, "PERSON"]]}
+{"sentence": "b\u00e1c s\u0129 pham thi yen trang c\u00f3 r\u00e3nh v\u00e0o th\u1ee9 3 tu\u1ea7n n\u00e0y kh\u00f4ng \u1ea1", "label": [[2, 5, "PERSON"]]}
+{"sentence": "dao hieu l\u00e0 t\u00ean c\u1ee7a th\u1eb1ng em t\u00f4i , n\u00f3 mu\u1ed1n \u0111\u1eb7t c\u00e1i l\u1ecbch vs bs", "label": [[0, 1, "PERSON"]]}
+{"sentence": "h\u1ecd v\u00e0 t\u00ean l\u00e0 tran kieu trang c\u1ea7n kh\u00e1m \u0111\u1eb7t l\u1ea1i l\u1ecbch kh\u00e1m tai m\u0169i h\u1ecdng", "label": [[4, 6, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m b\u1ec7nh cho ba t\u00f4i l\u00e0 pham long", "label": [[10, 11, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 bang kieu v\u00e0 t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m th\u00ec l\u00e0m l\u00e0 g\u00ec", "label": [[2, 3, "PERSON"]]}
+{"sentence": "t\u00f4i \u0111\u01b0\u1ee3c bi\u1ebft bs pham hai long gi\u1ecfi l\u1eafm , t\u00f4i mu\u1ed1n \u0111\u01b0\u1ee3c kh\u00e1m vs b\u00e1c th\u00ec l\u00e0m g\u00ec", "label": [[4, 6, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m da li\u1ec5u cho em g\u00e1i ly quoc nu", "label": [[8, 10, "PERSON"]]}
+{"sentence": "h\u1ecd v\u00e0 t\u00ean m\u00ecnh l\u00e0 vuong gia han , m\u00ecnh mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m da li\u1ec5u v\u00e0o tu\u1ea7n sau", "label": [[5, 7, "PERSON"]]}
+{"sentence": "chi\u1ec1u mai em b\u1eadn vi\u1ec7c c\u00e1 nh\u00e2n . kh\u00f4ng bi\u1ebft c\u00f3 th\u1ec3 \u0111\u0103ng k\u00fd h\u1eb9n v\u1edbi \u00f4g Cao suy\u1ebfn v\u00e0o ng\u00e0y m\u1ed1t dc k", "label": [[17, 18, "PERSON"]]}
+{"sentence": "l\u1ecbch l\u00e0m vi\u1ec7c t\u00f4i hay d\u00e0y n\u00ean ch\u1ec9 c\u00f3 th\u1ec3 kh\u00e1m v\u00e0o bu\u1ed5i t\u1ed1i , kh\u00f4ng bi\u1ebft bs Ph\u1ea1m h\u1ea3i t\u1ed1i c\u00f2n l\u00e0m kh\u00f4ng \u1ea1 . Em mu\u1ed1n \u0111\u1eb7t l\u1ecbch vs bs", "label": [[18, 19, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 Tr\u1ea7n tu\u00e2n tu\u1ea7n n\u00e0y c\u00f3 r\u00e3nh th\u1eddi gian n\u00e0o kh\u00f4ng em mu\u1ed1n t\u00e1i kh\u00e1m", "label": [[2, 3, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean \u0110\u00c0O \u0110\u1ee8C t\u00f4i mu\u1ed1n t\u00e1i kh\u00e1m kh\u00e1m", "label": [[2, 3, "PERSON"]]}
+{"sentence": "hi bot \u0111\u1eb7t gi\u00fap c\u00e1i l\u1ecbch v\u00e0o th\u1ee9 5 tu\u1ea7n n\u00e0y v\u1edbi bs s\u1ef9 2h30 chi\u1ec1u", "label": [[13, 13, "PERSON"]]}
 {"sentence": "dat lich voi bac si sy vao 7h30 sang thu nam tuan nay nhe", "label": [[5, 5, "PERSON"]]}
 {"sentence": "dat bac si khoa khoa da lieu vao khung gio gan nhat ma bac si ranh", "label": [[3, 3, "PERSON"]]}
 {"sentence": "khoa vat ly tri lieu con hoat dong khong a , em ten nguyen phuc minh can dat hen a", "label": [[13, 15, "PERSON"]]}
@@ -73,258 +73,258 @@
 {"sentence": "sang mai ba toi se tai kham vs bac si khoa phong 403", "label": [[10, 10, "PERSON"]]}
 {"sentence": "minh mun dat lich cho nguoi yeu ten luu thi phuong anh vao sang mai a", "label": [[8, 11, "PERSON"]]}
 {"sentence": "ban trai em la tran hoang vu hom qua sot nang qua . em muon hen lich kham gap a", "label": [[4, 6, "PERSON"]]}
-{"sentence": "mình mún book cái hẹn cho chồng là tom , bv có hỗ trợ k ạ", "label": [[8, 8, "PERSON"]]}
-{"sentence": "tôi là richard đặt lịch khám bệnh về nhức đầu", "label": [[2, 2, "PERSON"]]}
-{"sentence": "k'ra gặp bác sĩ khám họng vào chiều mai", "label": [[0, 0, "PERSON"]]}
-{"sentence": "thằng út nhà tui sốt , tui mún cho nó gặp bs", "label": [[1, 1, "PERSON"]]}
-{"sentence": "cần khám vs bác tui sây la phải làm gì", "label": [[5, 6, "PERSON"]]}
-{"sentence": "tôi tên Niê thấy người hơi mệt mún khám thì làm sao", "label": [[2, 2, "PERSON"]]}
-{"sentence": "Eban đau đầu mún khám bác sĩ", "label": [[0, 0, "PERSON"]]}
-{"sentence": "đội TPHCM chúng tôi muốn đặt lịch kiểm tra cho cầu thủ Messi", "label": [[12, 12, "PERSON"]]}
-{"sentence": "đặt khám cho người nhà là Văn Mến", "label": [[6, 7, "PERSON"]]}
-{"sentence": "K'Hiếu muốn khám bệnh , đau đầu quá rồi", "label": [[0, 0, "PERSON"]]}
-{"sentence": "tôi tên là thạcH thị lYta sáng hôm trước có đặt hẹn với bác sĩ ạ", "label": [[3, 5, "PERSON"]]}
-{"sentence": "Võ nhật huy là em của em , em cần book lịch cho nó", "label": [[0, 2, "PERSON"]]}
-{"sentence": "sáng hôm qua con em lê Văn bay có gọi điện cho bs á", "label": [[5, 7, "PERSON"]]}
-{"sentence": "em muốn đặt khám cho mẹ em nguyễn văn Út", "label": [[7, 9, "PERSON"]]}
-{"sentence": "bot ơi cho đặt cái lịch với , tui tên Trương cầm lựu", "label": [[10, 12, "PERSON"]]}
-{"sentence": "tôi tên Huỳnh thị nhiễn nay có hẹn vs bác sỹ", "label": [[2, 4, "PERSON"]]}
-{"sentence": "trước tui có đặt lịch rùi á , tên KIỀU MINH TÂM", "label": [[9, 11, "PERSON"]]}
-{"sentence": "tôi tên DƯƠNG THỊ HẰNG , muốn đặt hẹn vs bệnh viên", "label": [[2, 4, "PERSON"]]}
-{"sentence": "ba em LƯƠNG VĂN chính có book lịch cho em vào ngày 2/7", "label": [[2, 4, "PERSON"]]}
-{"sentence": "mình muốn đặt lịch khám cho bà mình tên lô THỊ dung do hôm trước gọi mà bác sĩ bận ạ", "label": [[9, 11, "PERSON"]]}
-{"sentence": "tôi là võ văn Lựa đổi lịch đã đặt vs bs lee yong UN sang 7h30 mai", "label": [[2, 4, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "nay tôi có việc nên chưa đi khám được , xin đổi lịch khám với bs Nguyễn thị sake sang hôm khác ạ . tôi tên kim Lot", "label": [[16, 18, "PERSON"], [26, 27, "PERSON"]]}
-{"sentence": "em là Kim phai em của Kim lot có đặt lịch sáng nay . Em muốn đổi ngày khám", "label": [[2, 3, "PERSON"], [6, 7, "PERSON"]]}
-{"sentence": "xin đổi giờ khám cho người thân Phạm Hào sang chiều t3 tuần sau ạ , vẫn giữ nguyên bs Thạch thon", "label": [[7, 8, "PERSON"], [20, 21, "PERSON"]]}
-{"sentence": "sáng nay tôi Lê thị hảo có đặt khám mà bs gọi tôi bs Y' set Byă bận , giờ tui thay giờ khám lịch khám khác á", "label": [[3, 5, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "mợ em dương so ny có việc nên mún chuyển sang khám 4:30 chiều không biết bs nguyễn thị hà có đồng ý k ạ", "label": [[2, 4, "PERSON"], [17, 19, "PERSON"]]}
-{"sentence": "chồng tôi harry macguire đi công tác về trễ nên k kịp tái khám với ngài phan trung tự , tôi muốn đổi ngày khám 2 ngày nữa , giờ vẫn giữ nguyên", "label": [[2, 3, "PERSON"], [16, 18, "PERSON"]]}
-{"sentence": "đổi giờ khám cho h mat niê với bác phan đăng khoa khoa da liễu sang chiều 2 rưỡi", "label": [[4, 6, "PERSON"], [9, 11, "PERSON"]]}
-{"sentence": "trần thị kiểng dời ngày khám sang tuần sau nha bot . khám với bác sĩ dương thị hằng", "label": [[0, 2, "PERSON"], [16, 18, "PERSON"]]}
-{"sentence": "chú lê văn bay có sửa ngày khám sang 17 tháng 3 , có nhắn với bác hồ chí dũng rồi", "label": [[0, 3, "PERSON"], [17, 19, "PERSON"]]}
-{"sentence": "o H'Xuyên Eban dời ngày gặp bs sang t3 , bs Mai Thị Thu giờ đó còn làm k", "label": [[1, 2, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "bệnh nhân Y Liếp Niê phòng C304 ngày mai lấy mẫu nên dời sang chiều thứ 7 nhé bác sĩ Lý Quang", "label": [[2, 4, "PERSON"], [20, 21, "PERSON"]]}
-{"sentence": "hi bot , sửa ngày tái khám cho ông chú Nguyễn Văn SuôL sang 23-07 vói bác sĩ Bùi Thị Thu", "label": [[10, 12, "PERSON"], [18, 20, "PERSON"]]}
-{"sentence": "Hứa Đắt Thắng tái khám bs ngày 19/08 , bác sĩ cần đặt là Hà Thị Kim Thanh . Sửa lại giúp nhé", "label": [[0, 2, "PERSON"], [14, 17, "PERSON"]]}
-{"sentence": "anh Lê Văn Pon nay đi công tác , dời hẹn bác sĩ sang 20/08 lúc 1h30 nha bot . gọi giúp bs Lê Hoàng Ân nhé", "label": [[1, 3, "PERSON"], [23, 25, "PERSON"]]}
-{"sentence": "cậu Y thông cần đổi ngày khám do bs Hoàng mai nói sáng thứ 3 tuần này có việc bận", "label": [[1, 2, "PERSON"], [9, 10, "PERSON"]]}
-{"sentence": "đổi lịch cho người nhà ông hoàng nguyễn trước có khám với bác sĩ trần Trung dũng thì phải làm sao", "label": [[6, 7, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "k'ra mún khám vào thứ 3 thay vì thứ 2 như đã hẹn với dược tá trần dần", "label": [[0, 0, "PERSON"], [16, 17, "PERSON"]]}
-{"sentence": "vừa đáp xuống sân bay nên em hơi mệt , em muốn dời ngày khám từ 28/8 sang 30/8 , khuấT hữu thắng là bệnh nhân của bác phạm tuân ạ", "label": [[20, 22, "PERSON"], [28, 29, "PERSON"]]}
-{"sentence": "Hakim yiech của đội Chelsea cần dời giờ khám sớm hơn 2 tiếng cho kịp trận đấu . mong bác sĩ tạ đức huy approve ạ", "label": [[0, 1, "PERSON"], [21, 23, "PERSON"]]}
-{"sentence": "tôi là quản lý của địa di băng , nay muốn cho thân chủ hẹn với bs sớm hơn 1 tiếng nghĩa là 8h30 . có phiền bs john wick không ạ", "label": [[5, 7, "PERSON"], [28, 29, "PERSON"]]}
-{"sentence": "trước đặt lịch mà tôi điền sai tên là tạ tĩnh , mún sửa tên thành tạ lĩnh ạ", "label": [[9, 10, "PERSON"], [16, 17, "PERSON"]]}
-{"sentence": "tôi là lương dĩ cư là quản lý của sơn tùng mtp . anh ta có show gấp nên tui muốn dời lịch", "label": [[2, 4, "PERSON"], [9, 11, "PERSON"]]}
-{"sentence": "dời lịch của vợ chồng tóc tiên và hoàng touliver sang mai nha bot", "label": [[5, 6, "PERSON"], [8, 9, "PERSON"]]}
-{"sentence": "evan smalling đổi cái giờ sang buổi chiều vì bị hlv sterlling triệu tâp gấp", "label": [[0, 1, "PERSON"], [11, 11, "PERSON"]]}
-{"sentence": "tôi Lại Lý Huynh là tay cờ số 1 việt nam , hiện sức khỏe yếu do vừa thi đấu với danh thủ Từ Siêu . mong bs có thể đổi lịch khám để tôi thi đấu", "label": [[1, 3, "PERSON"], [23, 24, "PERSON"]]}
-{"sentence": "Vương Thiên Nhất có gặp trưởng khoa Triệu Hâm Hâm để khám sớm vào hôm nay rồi", "label": [[0, 2, "PERSON"], [7, 9, "PERSON"]]}
-{"sentence": "đêm qua tôi mơ thấy Gia Cát Lượng báo mộng phải khám sớm hơn 1 canh giờ mới khỏi được . Mong bác phó khoa da liễu Tào Tháo thông cảm", "label": [[5, 7, "PERSON"], [27, 28, "PERSON"]]}
-{"sentence": "trước có đặt khám cho chị Lã Thu mà nhầm họ La thành họ Lã , bot đổi tên thành La Thu nha", "label": [[6, 7, "PERSON"], [20, 21, "PERSON"]]}
-{"sentence": "đổi bs khám của cháu Yên Ly sang bác Bạc Hà giúp nha bot . bác sĩ kia có bận rồi", "label": [[5, 6, "PERSON"], [9, 10, "PERSON"]]}
-{"sentence": "kieu phong 69 xin đính chính ta là tieu phong , mong bot hãy điều chỉnh", "label": [[0, 1, "PERSON"], [8, 9, "PERSON"]]}
-{"sentence": "bot nghia cứ nhầm ta truong vo ky thành truong du ki thật là đáng trách , còn không mau sửa ngay", "label": [[5, 7, "PERSON"], [9, 11, "PERSON"]]}
-{"sentence": "phái Tiêu Dao có người tên là duong dan võ công rất đáng gờm , hãy cho quach tinh đại hiệp cái hẹn với hắn sớm hơn dự kiến", "label": [[7, 8, "PERSON"], [17, 18, "PERSON"]]}
-{"sentence": "hu truc ta đang bị nội thương , mong hoa da chữ trị gấp . ngài có thể gặp ta sớm hơn 1 canh giờ ko ạ . đa tạ tiên sinh", "label": [[0, 1, "PERSON"], [9, 10, "PERSON"]]}
-{"sentence": "lenh ho xung bái kiến thần y hai thuong lan ong . Ta có thể gặp tiên sinh trễ hơn 2 nén nhang được không", "label": [[0, 2, "PERSON"], [7, 10, "PERSON"]]}
-{"sentence": "tôi muốn thay đổi lịch khám với bs trung", "label": [[8, 8, "PERSON"]]}
-{"sentence": "hôm nọ tôi có đặt lịch với ông văn tôi muốn thay đổi lịch khám", "label": [[8, 8, "PERSON"]]}
-{"sentence": "cho tôi thay đổi lịch đã đặt hẹn với chị linh", "label": [[10, 10, "PERSON"]]}
-{"sentence": "vào ngày 2/9 tôi đã hẹn khám với bác sinh . tôi muốn thay đổi ngày", "label": [[9, 9, "PERSON"]]}
-{"sentence": "chiều mai em bận việc cá nhân . không biết có thể thay đổi lịch hẹn với ôg luyến được không", "label": [[18, 18, "PERSON"]]}
-{"sentence": "với lịch như đã đặt khả năng tôi thay đổi thứ 4 sang thứ 5 của bs hải", "label": [[17, 17, "PERSON"]]}
-{"sentence": "bác sỹ huy sắp tới có rãnh thời gian nào không tôi muốn thay đổi lịch đã đặt", "label": [[2, 2, "PERSON"]]}
-{"sentence": "tôi tên nam tôi muốn đổi lịch khám", "label": [[2, 2, "PERSON"]]}
-{"sentence": "bot ơi id của tôi là vũ tôi muốn đổi lịch đã hẹn", "label": [[6, 6, "PERSON"]]}
-{"sentence": "vào 4h chiều mai tôi có hẹn với bs tuy , nhưng tôi muốn thay đổi hẹn", "label": [[9, 9, "PERSON"]]}
-{"sentence": "ID của mình là Duy mình muốn đổi hẹn", "label": [[4, 4, "PERSON"]]}
-{"sentence": "lịch hẹn với bs Phúc mình có thay đổi được khg ?", "label": [[4, 4, "PERSON"]]}
-{"sentence": "bác sỹ Phan có rãnh vào cn không mình muốn thay đổi lịch đã đặt vào thứ 7", "label": [[2, 2, "PERSON"]]}
-{"sentence": "bot ơi tui muôn đổi lịch khám , tên tui là Nhất", "label": [[11, 11, "PERSON"]]}
-{"sentence": "hi bot tui muốn đổi lịch với bác sỹ Thông", "label": [[9, 9, "PERSON"]]}
-{"sentence": "ID của mình là 0964819653 , mình muốn thay đổi hẹn với chị Linh", "label": [[13, 13, "PERSON"]]}
-{"sentence": "tên của tui là Vũ tôi mướn thay đổi lịch trình khám sang tháng", "label": [[4, 4, "PERSON"]]}
-{"sentence": "tuần sau tôi rãnh tôi muốn dời lịch hẹn sang tuần sau với Dr . Long", "label": [[15, 15, "PERSON"]]}
-{"sentence": "19:30 tối tôi muốn dời lịch hẹn như vậy với bác sỹ Phương", "label": [[12, 12, "PERSON"]]}
-{"sentence": "khả năng tôi dời vào cuối tuần sau với bác sỹ Trang được hông ?", "label": [[11, 11, "PERSON"]]}
-{"sentence": "ID: VŨ mướn đổi lịch hẹn", "label": [[1, 1, "PERSON"]]}
-{"sentence": "bot ơi tôi muốn thay đổi khám với bs TâM", "label": [[9, 9, "PERSON"]]}
-{"sentence": "lịch khám với NHân tôi thay đổi được hông ?", "label": [[3, 3, "PERSON"]]}
-{"sentence": "thứ 6 tuần này tôi bận rồi . tôi thay đổi lịch được không ? . ID: Dung", "label": [[17, 17, "PERSON"]]}
-{"sentence": "bot , tôi muốn đổi lịch sang đầu tuần sau với ô Hà", "label": [[12, 12, "PERSON"]]}
-{"sentence": "xin chào tôi muốn đặt lịch với pham", "label": [[7, 7, "PERSON"]]}
-{"sentence": "này bot tôi muốn thay đổi lịch hen được không bot ?", "label": []}
-{"sentence": "lịch khám ông cuong với tôi có thể dời sang tuần sau k ?", "label": [[3, 3, "PERSON"]]}
-{"sentence": "bs nhi có thể chuyển sang khám toi vào ngày mai không", "label": [[1, 1, "PERSON"]]}
-{"sentence": "hello tôi cần thay đổi lịch hẹn Sinh ở khoa phụ sản", "label": [[7, 7, "PERSON"]]}
-{"sentence": "vừa rồi tôi đặt lịch ở khoa ngoại với bs khoa . tôi muốn thay đổi lịch", "label": [[10, 10, "PERSON"]]}
-{"sentence": "muốn thay đổi lịch tại khoa da liễu với bác sỹ trung", "label": [[11, 11, "PERSON"]]}
-{"sentence": "đổi lịch hẹn với ông Lai", "label": [[5, 5, "PERSON"]]}
-{"sentence": "lịch hẹn với hai có thay đổi được không ?", "label": [[3, 3, "PERSON"]]}
-{"sentence": "chín giờ ngày mai tôi muốn đổi lịch của ông bác sỹ phan", "label": [[12, 12, "PERSON"]]}
+{"sentence": "m\u00ecnh m\u00fan book c\u00e1i h\u1eb9n cho ch\u1ed3ng l\u00e0 tom , bv c\u00f3 h\u1ed7 tr\u1ee3 k \u1ea1", "label": [[8, 8, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 richard \u0111\u1eb7t l\u1ecbch kh\u00e1m b\u1ec7nh v\u1ec1 nh\u1ee9c \u0111\u1ea7u", "label": [[2, 2, "PERSON"]]}
+{"sentence": "k'ra g\u1eb7p b\u00e1c s\u0129 kh\u00e1m h\u1ecdng v\u00e0o chi\u1ec1u mai", "label": [[0, 0, "PERSON"]]}
+{"sentence": "th\u1eb1ng \u00fat nh\u00e0 tui s\u1ed1t , tui m\u00fan cho n\u00f3 g\u1eb7p bs", "label": [[1, 1, "PERSON"]]}
+{"sentence": "c\u1ea7n kh\u00e1m vs b\u00e1c tui s\u00e2y la ph\u1ea3i l\u00e0m g\u00ec", "label": [[5, 6, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean Ni\u00ea th\u1ea5y ng\u01b0\u1eddi h\u01a1i m\u1ec7t m\u00fan kh\u00e1m th\u00ec l\u00e0m sao", "label": [[2, 2, "PERSON"]]}
+{"sentence": "Eban \u0111au \u0111\u1ea7u m\u00fan kh\u00e1m b\u00e1c s\u0129", "label": [[0, 0, "PERSON"]]}
+{"sentence": "\u0111\u1ed9i TPHCM ch\u00fang t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch ki\u1ec3m tra cho c\u1ea7u th\u1ee7 Messi", "label": [[12, 12, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t kh\u00e1m cho ng\u01b0\u1eddi nh\u00e0 l\u00e0 V\u0103n M\u1ebfn", "label": [[6, 7, "PERSON"]]}
+{"sentence": "K'Hi\u1ebfu mu\u1ed1n kh\u00e1m b\u1ec7nh , \u0111au \u0111\u1ea7u qu\u00e1 r\u1ed3i", "label": [[0, 0, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean l\u00e0 th\u1ea1cH th\u1ecb lYta s\u00e1ng h\u00f4m tr\u01b0\u1edbc c\u00f3 \u0111\u1eb7t h\u1eb9n v\u1edbi b\u00e1c s\u0129 \u1ea1", "label": [[3, 5, "PERSON"]]}
+{"sentence": "V\u00f5 nh\u1eadt huy l\u00e0 em c\u1ee7a em , em c\u1ea7n book l\u1ecbch cho n\u00f3", "label": [[0, 2, "PERSON"]]}
+{"sentence": "s\u00e1ng h\u00f4m qua con em l\u00ea V\u0103n bay c\u00f3 g\u1ecdi \u0111i\u1ec7n cho bs \u00e1", "label": [[5, 7, "PERSON"]]}
+{"sentence": "em mu\u1ed1n \u0111\u1eb7t kh\u00e1m cho m\u1eb9 em nguy\u1ec5n v\u0103n \u00dat", "label": [[7, 9, "PERSON"]]}
+{"sentence": "bot \u01a1i cho \u0111\u1eb7t c\u00e1i l\u1ecbch v\u1edbi , tui t\u00ean Tr\u01b0\u01a1ng c\u1ea7m l\u1ef1u", "label": [[10, 12, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean Hu\u1ef3nh th\u1ecb nhi\u1ec5n nay c\u00f3 h\u1eb9n vs b\u00e1c s\u1ef9", "label": [[2, 4, "PERSON"]]}
+{"sentence": "tr\u01b0\u1edbc tui c\u00f3 \u0111\u1eb7t l\u1ecbch r\u00f9i \u00e1 , t\u00ean KI\u1ec0U MINH T\u00c2M", "label": [[9, 11, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean D\u01af\u01a0NG TH\u1eca H\u1eb0NG , mu\u1ed1n \u0111\u1eb7t h\u1eb9n vs b\u1ec7nh vi\u00ean", "label": [[2, 4, "PERSON"]]}
+{"sentence": "ba em L\u01af\u01a0NG V\u0102N ch\u00ednh c\u00f3 book l\u1ecbch cho em v\u00e0o ng\u00e0y 2/7", "label": [[2, 4, "PERSON"]]}
+{"sentence": "m\u00ecnh mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho b\u00e0 m\u00ecnh t\u00ean l\u00f4 TH\u1eca dung do h\u00f4m tr\u01b0\u1edbc g\u1ecdi m\u00e0 b\u00e1c s\u0129 b\u1eadn \u1ea1", "label": [[9, 11, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 v\u00f5 v\u0103n L\u1ef1a \u0111\u1ed5i l\u1ecbch \u0111\u00e3 \u0111\u1eb7t vs bs lee yong UN sang 7h30 mai", "label": [[2, 4, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "nay t\u00f4i c\u00f3 vi\u1ec7c n\u00ean ch\u01b0a \u0111i kh\u00e1m \u0111\u01b0\u1ee3c , xin \u0111\u1ed5i l\u1ecbch kh\u00e1m v\u1edbi bs Nguy\u1ec5n th\u1ecb sake sang h\u00f4m kh\u00e1c \u1ea1 . t\u00f4i t\u00ean kim Lot", "label": [[16, 18, "PERSON"], [26, 27, "PERSON"]]}
+{"sentence": "em l\u00e0 Kim phai em c\u1ee7a Kim lot c\u00f3 \u0111\u1eb7t l\u1ecbch s\u00e1ng nay . Em mu\u1ed1n \u0111\u1ed5i ng\u00e0y kh\u00e1m", "label": [[2, 3, "PERSON"], [6, 7, "PERSON"]]}
+{"sentence": "xin \u0111\u1ed5i gi\u1edd kh\u00e1m cho ng\u01b0\u1eddi th\u00e2n Ph\u1ea1m H\u00e0o sang chi\u1ec1u t3 tu\u1ea7n sau \u1ea1 , v\u1eabn gi\u1eef nguy\u00ean bs Th\u1ea1ch thon", "label": [[7, 8, "PERSON"], [20, 21, "PERSON"]]}
+{"sentence": "s\u00e1ng nay t\u00f4i L\u00ea th\u1ecb h\u1ea3o c\u00f3 \u0111\u1eb7t kh\u00e1m m\u00e0 bs g\u1ecdi t\u00f4i bs Y' set By\u0103 b\u1eadn , gi\u1edd tui thay gi\u1edd kh\u00e1m l\u1ecbch kh\u00e1m kh\u00e1c \u00e1", "label": [[3, 5, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "m\u1ee3 em d\u01b0\u01a1ng so ny c\u00f3 vi\u1ec7c n\u00ean m\u00fan chuy\u1ec3n sang kh\u00e1m 4:30 chi\u1ec1u kh\u00f4ng bi\u1ebft bs nguy\u1ec5n th\u1ecb h\u00e0 c\u00f3 \u0111\u1ed3ng \u00fd k \u1ea1", "label": [[2, 4, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "ch\u1ed3ng t\u00f4i harry macguire \u0111i c\u00f4ng t\u00e1c v\u1ec1 tr\u1ec5 n\u00ean k k\u1ecbp t\u00e1i kh\u00e1m v\u1edbi ng\u00e0i phan trung t\u1ef1 , t\u00f4i mu\u1ed1n \u0111\u1ed5i ng\u00e0y kh\u00e1m 2 ng\u00e0y n\u1eefa , gi\u1edd v\u1eabn gi\u1eef nguy\u00ean", "label": [[2, 3, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "\u0111\u1ed5i gi\u1edd kh\u00e1m cho h mat ni\u00ea v\u1edbi b\u00e1c phan \u0111\u0103ng khoa khoa da li\u1ec5u sang chi\u1ec1u 2 r\u01b0\u1ee1i", "label": [[4, 6, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "tr\u1ea7n th\u1ecb ki\u1ec3ng d\u1eddi ng\u00e0y kh\u00e1m sang tu\u1ea7n sau nha bot . kh\u00e1m v\u1edbi b\u00e1c s\u0129 d\u01b0\u01a1ng th\u1ecb h\u1eb1ng", "label": [[0, 2, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "ch\u00fa l\u00ea v\u0103n bay c\u00f3 s\u1eeda ng\u00e0y kh\u00e1m sang 17 th\u00e1ng 3 , c\u00f3 nh\u1eafn v\u1edbi b\u00e1c h\u1ed3 ch\u00ed d\u0169ng r\u1ed3i", "label": [[0, 3, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "o H'Xuy\u00ean Eban d\u1eddi ng\u00e0y g\u1eb7p bs sang t3 , bs Mai Th\u1ecb Thu gi\u1edd \u0111\u00f3 c\u00f2n l\u00e0m k", "label": [[1, 2, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "b\u1ec7nh nh\u00e2n Y Li\u1ebfp Ni\u00ea ph\u00f2ng C304 ng\u00e0y mai l\u1ea5y m\u1eabu n\u00ean d\u1eddi sang chi\u1ec1u th\u1ee9 7 nh\u00e9 b\u00e1c s\u0129 L\u00fd Quang", "label": [[2, 4, "PERSON"], [20, 21, "PERSON"]]}
+{"sentence": "hi bot , s\u1eeda ng\u00e0y t\u00e1i kh\u00e1m cho \u00f4ng ch\u00fa Nguy\u1ec5n V\u0103n Su\u00f4L sang 23-07 v\u00f3i b\u00e1c s\u0129 B\u00f9i Th\u1ecb Thu", "label": [[10, 12, "PERSON"], [18, 20, "PERSON"]]}
+{"sentence": "H\u1ee9a \u0110\u1eaft Th\u1eafng t\u00e1i kh\u00e1m bs ng\u00e0y 19/08 , b\u00e1c s\u0129 c\u1ea7n \u0111\u1eb7t l\u00e0 H\u00e0 Th\u1ecb Kim Thanh . S\u1eeda l\u1ea1i gi\u00fap nh\u00e9", "label": [[0, 2, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "anh L\u00ea V\u0103n Pon nay \u0111i c\u00f4ng t\u00e1c , d\u1eddi h\u1eb9n b\u00e1c s\u0129 sang 20/08 l\u00fac 1h30 nha bot . g\u1ecdi gi\u00fap bs L\u00ea Ho\u00e0ng \u00c2n nh\u00e9", "label": [[1, 3, "PERSON"], [23, 25, "PERSON"]]}
+{"sentence": "c\u1eadu Y th\u00f4ng c\u1ea7n \u0111\u1ed5i ng\u00e0y kh\u00e1m do bs Ho\u00e0ng mai n\u00f3i s\u00e1ng th\u1ee9 3 tu\u1ea7n n\u00e0y c\u00f3 vi\u1ec7c b\u1eadn", "label": [[1, 2, "PERSON"], [9, 10, "PERSON"]]}
+{"sentence": "\u0111\u1ed5i l\u1ecbch cho ng\u01b0\u1eddi nh\u00e0 \u00f4ng ho\u00e0ng nguy\u1ec5n tr\u01b0\u1edbc c\u00f3 kh\u00e1m v\u1edbi b\u00e1c s\u0129 tr\u1ea7n Trung d\u0169ng th\u00ec ph\u1ea3i l\u00e0m sao", "label": [[6, 7, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "k'ra m\u00fan kh\u00e1m v\u00e0o th\u1ee9 3 thay v\u00ec th\u1ee9 2 nh\u01b0 \u0111\u00e3 h\u1eb9n v\u1edbi d\u01b0\u1ee3c t\u00e1 tr\u1ea7n d\u1ea7n", "label": [[0, 0, "PERSON"], [16, 17, "PERSON"]]}
+{"sentence": "v\u1eeba \u0111\u00e1p xu\u1ed1ng s\u00e2n bay n\u00ean em h\u01a1i m\u1ec7t , em mu\u1ed1n d\u1eddi ng\u00e0y kh\u00e1m t\u1eeb 28/8 sang 30/8 , khu\u1ea5T h\u1eefu th\u1eafng l\u00e0 b\u1ec7nh nh\u00e2n c\u1ee7a b\u00e1c ph\u1ea1m tu\u00e2n \u1ea1", "label": [[20, 22, "PERSON"], [28, 29, "PERSON"]]}
+{"sentence": "Hakim yiech c\u1ee7a \u0111\u1ed9i Chelsea c\u1ea7n d\u1eddi gi\u1edd kh\u00e1m s\u1edbm h\u01a1n 2 ti\u1ebfng cho k\u1ecbp tr\u1eadn \u0111\u1ea5u . mong b\u00e1c s\u0129 t\u1ea1 \u0111\u1ee9c huy approve \u1ea1", "label": [[0, 1, "PERSON"], [21, 23, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 qu\u1ea3n l\u00fd c\u1ee7a \u0111\u1ecba di b\u0103ng , nay mu\u1ed1n cho th\u00e2n ch\u1ee7 h\u1eb9n v\u1edbi bs s\u1edbm h\u01a1n 1 ti\u1ebfng ngh\u0129a l\u00e0 8h30 . c\u00f3 phi\u1ec1n bs john wick kh\u00f4ng \u1ea1", "label": [[5, 7, "PERSON"], [28, 29, "PERSON"]]}
+{"sentence": "tr\u01b0\u1edbc \u0111\u1eb7t l\u1ecbch m\u00e0 t\u00f4i \u0111i\u1ec1n sai t\u00ean l\u00e0 t\u1ea1 t\u0129nh , m\u00fan s\u1eeda t\u00ean th\u00e0nh t\u1ea1 l\u0129nh \u1ea1", "label": [[9, 10, "PERSON"], [16, 17, "PERSON"]]}
+{"sentence": "t\u00f4i l\u00e0 l\u01b0\u01a1ng d\u0129 c\u01b0 l\u00e0 qu\u1ea3n l\u00fd c\u1ee7a s\u01a1n t\u00f9ng mtp . anh ta c\u00f3 show g\u1ea5p n\u00ean tui mu\u1ed1n d\u1eddi l\u1ecbch", "label": [[2, 4, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "d\u1eddi l\u1ecbch c\u1ee7a v\u1ee3 ch\u1ed3ng t\u00f3c ti\u00ean v\u00e0 ho\u00e0ng touliver sang mai nha bot", "label": [[5, 6, "PERSON"], [8, 9, "PERSON"]]}
+{"sentence": "evan smalling \u0111\u1ed5i c\u00e1i gi\u1edd sang bu\u1ed5i chi\u1ec1u v\u00ec b\u1ecb hlv sterlling tri\u1ec7u t\u00e2p g\u1ea5p", "label": [[0, 1, "PERSON"], [11, 11, "PERSON"]]}
+{"sentence": "t\u00f4i L\u1ea1i L\u00fd Huynh l\u00e0 tay c\u1edd s\u1ed1 1 vi\u1ec7t nam , hi\u1ec7n s\u1ee9c kh\u1ecfe y\u1ebfu do v\u1eeba thi \u0111\u1ea5u v\u1edbi danh th\u1ee7 T\u1eeb Si\u00eau . mong bs c\u00f3 th\u1ec3 \u0111\u1ed5i l\u1ecbch kh\u00e1m \u0111\u1ec3 t\u00f4i thi \u0111\u1ea5u", "label": [[1, 3, "PERSON"], [23, 24, "PERSON"]]}
+{"sentence": "V\u01b0\u01a1ng Thi\u00ean Nh\u1ea5t c\u00f3 g\u1eb7p tr\u01b0\u1edfng khoa Tri\u1ec7u H\u00e2m H\u00e2m \u0111\u1ec3 kh\u00e1m s\u1edbm v\u00e0o h\u00f4m nay r\u1ed3i", "label": [[0, 2, "PERSON"], [7, 9, "PERSON"]]}
+{"sentence": "\u0111\u00eam qua t\u00f4i m\u01a1 th\u1ea5y Gia C\u00e1t L\u01b0\u1ee3ng b\u00e1o m\u1ed9ng ph\u1ea3i kh\u00e1m s\u1edbm h\u01a1n 1 canh gi\u1edd m\u1edbi kh\u1ecfi \u0111\u01b0\u1ee3c . Mong b\u00e1c ph\u00f3 khoa da li\u1ec5u T\u00e0o Th\u00e1o th\u00f4ng c\u1ea3m", "label": [[5, 7, "PERSON"], [27, 28, "PERSON"]]}
+{"sentence": "tr\u01b0\u1edbc c\u00f3 \u0111\u1eb7t kh\u00e1m cho ch\u1ecb L\u00e3 Thu m\u00e0 nh\u1ea7m h\u1ecd La th\u00e0nh h\u1ecd L\u00e3 , bot \u0111\u1ed5i t\u00ean th\u00e0nh La Thu nha", "label": [[6, 7, "PERSON"], [20, 21, "PERSON"]]}
+{"sentence": "\u0111\u1ed5i bs kh\u00e1m c\u1ee7a ch\u00e1u Y\u00ean Ly sang b\u00e1c B\u1ea1c H\u00e0 gi\u00fap nha bot . b\u00e1c s\u0129 kia c\u00f3 b\u1eadn r\u1ed3i", "label": [[5, 6, "PERSON"], [9, 10, "PERSON"]]}
+{"sentence": "kieu phong 69 xin \u0111\u00ednh ch\u00ednh ta l\u00e0 tieu phong , mong bot h\u00e3y \u0111i\u1ec1u ch\u1ec9nh", "label": [[0, 1, "PERSON"], [8, 9, "PERSON"]]}
+{"sentence": "bot nghia c\u1ee9 nh\u1ea7m ta truong vo ky th\u00e0nh truong du ki th\u1eadt l\u00e0 \u0111\u00e1ng tr\u00e1ch , c\u00f2n kh\u00f4ng mau s\u1eeda ngay", "label": [[5, 7, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "ph\u00e1i Ti\u00eau Dao c\u00f3 ng\u01b0\u1eddi t\u00ean l\u00e0 duong dan v\u00f5 c\u00f4ng r\u1ea5t \u0111\u00e1ng g\u1eddm , h\u00e3y cho quach tinh \u0111\u1ea1i hi\u1ec7p c\u00e1i h\u1eb9n v\u1edbi h\u1eafn s\u1edbm h\u01a1n d\u1ef1 ki\u1ebfn", "label": [[7, 8, "PERSON"], [17, 18, "PERSON"]]}
+{"sentence": "hu truc ta \u0111ang b\u1ecb n\u1ed9i th\u01b0\u01a1ng , mong hoa da ch\u1eef tr\u1ecb g\u1ea5p . ng\u00e0i c\u00f3 th\u1ec3 g\u1eb7p ta s\u1edbm h\u01a1n 1 canh gi\u1edd ko \u1ea1 . \u0111a t\u1ea1 ti\u00ean sinh", "label": [[0, 1, "PERSON"], [9, 10, "PERSON"]]}
+{"sentence": "lenh ho xung b\u00e1i ki\u1ebfn th\u1ea7n y hai thuong lan ong . Ta c\u00f3 th\u1ec3 g\u1eb7p ti\u00ean sinh tr\u1ec5 h\u01a1n 2 n\u00e9n nhang \u0111\u01b0\u1ee3c kh\u00f4ng", "label": [[0, 2, "PERSON"], [7, 10, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch kh\u00e1m v\u1edbi bs trung", "label": [[8, 8, "PERSON"]]}
+{"sentence": "h\u00f4m n\u1ecd t\u00f4i c\u00f3 \u0111\u1eb7t l\u1ecbch v\u1edbi \u00f4ng v\u0103n t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch kh\u00e1m", "label": [[8, 8, "PERSON"]]}
+{"sentence": "cho t\u00f4i thay \u0111\u1ed5i l\u1ecbch \u0111\u00e3 \u0111\u1eb7t h\u1eb9n v\u1edbi ch\u1ecb linh", "label": [[10, 10, "PERSON"]]}
+{"sentence": "v\u00e0o ng\u00e0y 2/9 t\u00f4i \u0111\u00e3 h\u1eb9n kh\u00e1m v\u1edbi b\u00e1c sinh . t\u00f4i mu\u1ed1n thay \u0111\u1ed5i ng\u00e0y", "label": [[9, 9, "PERSON"]]}
+{"sentence": "chi\u1ec1u mai em b\u1eadn vi\u1ec7c c\u00e1 nh\u00e2n . kh\u00f4ng bi\u1ebft c\u00f3 th\u1ec3 thay \u0111\u1ed5i l\u1ecbch h\u1eb9n v\u1edbi \u00f4g luy\u1ebfn \u0111\u01b0\u1ee3c kh\u00f4ng", "label": [[18, 18, "PERSON"]]}
+{"sentence": "v\u1edbi l\u1ecbch nh\u01b0 \u0111\u00e3 \u0111\u1eb7t kh\u1ea3 n\u0103ng t\u00f4i thay \u0111\u1ed5i th\u1ee9 4 sang th\u1ee9 5 c\u1ee7a bs h\u1ea3i", "label": [[17, 17, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 huy s\u1eafp t\u1edbi c\u00f3 r\u00e3nh th\u1eddi gian n\u00e0o kh\u00f4ng t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch \u0111\u00e3 \u0111\u1eb7t", "label": [[2, 2, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean nam t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch kh\u00e1m", "label": [[2, 2, "PERSON"]]}
+{"sentence": "bot \u01a1i id c\u1ee7a t\u00f4i l\u00e0 v\u0169 t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch \u0111\u00e3 h\u1eb9n", "label": [[6, 6, "PERSON"]]}
+{"sentence": "v\u00e0o 4h chi\u1ec1u mai t\u00f4i c\u00f3 h\u1eb9n v\u1edbi bs tuy , nh\u01b0ng t\u00f4i mu\u1ed1n thay \u0111\u1ed5i h\u1eb9n", "label": [[9, 9, "PERSON"]]}
+{"sentence": "ID c\u1ee7a m\u00ecnh l\u00e0 Duy m\u00ecnh mu\u1ed1n \u0111\u1ed5i h\u1eb9n", "label": [[4, 4, "PERSON"]]}
+{"sentence": "l\u1ecbch h\u1eb9n v\u1edbi bs Ph\u00fac m\u00ecnh c\u00f3 thay \u0111\u1ed5i \u0111\u01b0\u1ee3c khg ?", "label": [[4, 4, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 Phan c\u00f3 r\u00e3nh v\u00e0o cn kh\u00f4ng m\u00ecnh mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch \u0111\u00e3 \u0111\u1eb7t v\u00e0o th\u1ee9 7", "label": [[2, 2, "PERSON"]]}
+{"sentence": "bot \u01a1i tui mu\u00f4n \u0111\u1ed5i l\u1ecbch kh\u00e1m , t\u00ean tui l\u00e0 Nh\u1ea5t", "label": [[11, 11, "PERSON"]]}
+{"sentence": "hi bot tui mu\u1ed1n \u0111\u1ed5i l\u1ecbch v\u1edbi b\u00e1c s\u1ef9 Th\u00f4ng", "label": [[9, 9, "PERSON"]]}
+{"sentence": "ID c\u1ee7a m\u00ecnh l\u00e0 0964819653 , m\u00ecnh mu\u1ed1n thay \u0111\u1ed5i h\u1eb9n v\u1edbi ch\u1ecb Linh", "label": [[13, 13, "PERSON"]]}
+{"sentence": "t\u00ean c\u1ee7a tui l\u00e0 V\u0169 t\u00f4i m\u01b0\u1edbn thay \u0111\u1ed5i l\u1ecbch tr\u00ecnh kh\u00e1m sang th\u00e1ng", "label": [[4, 4, "PERSON"]]}
+{"sentence": "tu\u1ea7n sau t\u00f4i r\u00e3nh t\u00f4i mu\u1ed1n d\u1eddi l\u1ecbch h\u1eb9n sang tu\u1ea7n sau v\u1edbi Dr . Long", "label": [[15, 15, "PERSON"]]}
+{"sentence": "19:30 t\u1ed1i t\u00f4i mu\u1ed1n d\u1eddi l\u1ecbch h\u1eb9n nh\u01b0 v\u1eady v\u1edbi b\u00e1c s\u1ef9 Ph\u01b0\u01a1ng", "label": [[12, 12, "PERSON"]]}
+{"sentence": "kh\u1ea3 n\u0103ng t\u00f4i d\u1eddi v\u00e0o cu\u1ed1i tu\u1ea7n sau v\u1edbi b\u00e1c s\u1ef9 Trang \u0111\u01b0\u1ee3c h\u00f4ng ?", "label": [[11, 11, "PERSON"]]}
+{"sentence": "ID: V\u0168 m\u01b0\u1edbn \u0111\u1ed5i l\u1ecbch h\u1eb9n", "label": [[1, 1, "PERSON"]]}
+{"sentence": "bot \u01a1i t\u00f4i mu\u1ed1n thay \u0111\u1ed5i kh\u00e1m v\u1edbi bs T\u00e2M", "label": [[9, 9, "PERSON"]]}
+{"sentence": "l\u1ecbch kh\u00e1m v\u1edbi NH\u00e2n t\u00f4i thay \u0111\u1ed5i \u0111\u01b0\u1ee3c h\u00f4ng ?", "label": [[3, 3, "PERSON"]]}
+{"sentence": "th\u1ee9 6 tu\u1ea7n n\u00e0y t\u00f4i b\u1eadn r\u1ed3i . t\u00f4i thay \u0111\u1ed5i l\u1ecbch \u0111\u01b0\u1ee3c kh\u00f4ng ? . ID: Dung", "label": [[17, 17, "PERSON"]]}
+{"sentence": "bot , t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch sang \u0111\u1ea7u tu\u1ea7n sau v\u1edbi \u00f4 H\u00e0", "label": [[12, 12, "PERSON"]]}
+{"sentence": "xin ch\u00e0o t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch v\u1edbi pham", "label": [[7, 7, "PERSON"]]}
+{"sentence": "n\u00e0y bot t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch hen \u0111\u01b0\u1ee3c kh\u00f4ng bot ?", "label": []}
+{"sentence": "l\u1ecbch kh\u00e1m \u00f4ng cuong v\u1edbi t\u00f4i c\u00f3 th\u1ec3 d\u1eddi sang tu\u1ea7n sau k ?", "label": [[3, 3, "PERSON"]]}
+{"sentence": "bs nhi c\u00f3 th\u1ec3 chuy\u1ec3n sang kh\u00e1m toi v\u00e0o ng\u00e0y mai kh\u00f4ng", "label": [[1, 1, "PERSON"]]}
+{"sentence": "hello t\u00f4i c\u1ea7n thay \u0111\u1ed5i l\u1ecbch h\u1eb9n Sinh \u1edf khoa ph\u1ee5 s\u1ea3n", "label": [[7, 7, "PERSON"]]}
+{"sentence": "v\u1eeba r\u1ed3i t\u00f4i \u0111\u1eb7t l\u1ecbch \u1edf khoa ngo\u1ea1i v\u1edbi bs khoa . t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch", "label": [[10, 10, "PERSON"]]}
+{"sentence": "mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch t\u1ea1i khoa da li\u1ec5u v\u1edbi b\u00e1c s\u1ef9 trung", "label": [[11, 11, "PERSON"]]}
+{"sentence": "\u0111\u1ed5i l\u1ecbch h\u1eb9n v\u1edbi \u00f4ng Lai", "label": [[5, 5, "PERSON"]]}
+{"sentence": "l\u1ecbch h\u1eb9n v\u1edbi hai c\u00f3 thay \u0111\u1ed5i \u0111\u01b0\u1ee3c kh\u00f4ng ?", "label": [[3, 3, "PERSON"]]}
+{"sentence": "ch\u00edn gi\u1edd ng\u00e0y mai t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch c\u1ee7a \u00f4ng b\u00e1c s\u1ef9 phan", "label": [[12, 12, "PERSON"]]}
 {"sentence": "doi lich hen cua toi voi ong bac sy quang duoc khong", "label": [[9, 9, "PERSON"]]}
 {"sentence": "ne bot toi muon doi lich hen voi chi kim vao ngay mai", "label": [[9, 9, "PERSON"]]}
 {"sentence": "toi muon doi lich sang tuan sau . hinh nhu id cua tui la duy", "label": [[14, 14, "PERSON"]]}
 {"sentence": "thua bac sy bac toi muon thay doi lich hen", "label": [[3, 3, "PERSON"]]}
 {"sentence": "toi ban vao ngay 12 3 nen toi muon thay doi lich kham voi chi trang", "label": [[15, 15, "PERSON"]]}
-{"sentence": "bảy giờ thiếu 15 tối vào ngày 6/6 tôi muốn dời lịch khám ngày này với bác Phưới", "label": [[17, 17, "PERSON"]]}
-{"sentence": "bot tôi muốn đổi hẹn khám với chuyên gia Sancho", "label": [[9, 9, "PERSON"]]}
-{"sentence": "tôi muốn thay đổi khám với bác sỹ Knar được ko", "label": [[8, 8, "PERSON"]]}
-{"sentence": "em muốn thay đổi lịch khám với chị bác sỹ Yut", "label": [[10, 10, "PERSON"]]}
-{"sentence": "bác sỹ Phay có thể thay đổi lịch hẹn giúp em được không", "label": [[2, 2, "PERSON"]]}
-{"sentence": "identify của tôi là đặng huyền nguyên tôi muốn đổi lịch hẹn", "label": [[4, 6, "PERSON"]]}
-{"sentence": "tôi muốn thay đổi lịch hẹn vào tuần sau", "label": []}
-{"sentence": "bạn tôi là phạm thi ga , bạn tôi nhờ tôi thay đổi lịch hẹn", "label": [[3, 5, "PERSON"]]}
-{"sentence": "tên của tôi là đoàn minh kỳ tôi muốn dời lịch hẹn vào tám giờ tối mai", "label": [[4, 6, "PERSON"]]}
-{"sentence": "lê khắc lý là tên tôi , tôi muốn thay đổi lịch", "label": [[0, 2, "PERSON"]]}
-{"sentence": "tuần sau tôi muốn thay đổi lịch khám", "label": []}
-{"sentence": "tôi muốn thay đổi lịch khám dùm bạn lê thị hồng hoa .", "label": [[8, 11, "PERSON"]]}
-{"sentence": "id: lê thị lưc . thay đổi lịch khám", "label": [[1, 3, "PERSON"]]}
-{"sentence": "làm cách nào để liên hệ với bs trần be ron để thay đổi lịch hẹn vậy bot", "label": [[8, 10, "PERSON"]]}
-{"sentence": "tôi muốn thay đổi lịch hẹn tái khám vào tuần sau với ông lâm văn cảnh", "label": [[13, 15, "PERSON"]]}
-{"sentence": "thay đổi lịch khám với bs Đặng Văn Khánh An phải làm sao ?", "label": [[6, 9, "PERSON"]]}
-{"sentence": "ngày kia tôi có lịch tái khám tại khoa mắt với Trần Ninh Quý nhưng tôi muốn thay đổi sang tuần sau", "label": [[11, 13, "PERSON"]]}
-{"sentence": "tôi có đặt lịch khám về mắt id tôi là: 12345 tên Lê Thị Tuyết . muốn dời lịch sang tuần sau", "label": [[12, 14, "PERSON"]]}
-{"sentence": "tôi muốn thay đổi thông tin cá nhân về lịch hẹn với bác sỹ Bùi Thị Thu", "label": [[14, 16, "PERSON"]]}
-{"sentence": "a Ngô Nhật Duy có gọi tôi a đi công tác vào lịch đã đặt nên dặn tôi thay đổi lịch khám với bác sỹ khác ? tôi phải làm như nào vậy bot", "label": [[1, 3, "PERSON"]]}
-{"sentence": "chú là Đinh Xuân Viễn chú muôn thay đổi triệu chứng đã ghi ở phần book lịch hẹn trước", "label": [[2, 4, "PERSON"]]}
-{"sentence": "chú muốn thay đổi triệu chứng ho sang ho dai dảng đã đặt với bác sỹ Dương Văn Cẩm", "label": [[16, 18, "PERSON"]]}
-{"sentence": "em muốn dời từ 7h sáng sang 7h tối với chị bác sỹ Phạm Thị Ngọc", "label": [[13, 15, "PERSON"]]}
-{"sentence": "bạn em nhờ em đổi lịch hẹn với Huỳnh Trung Thiện sang tuần sau", "label": [[8, 10, "PERSON"]]}
-{"sentence": "thông tin cá nhân của tôi cần thay đổi ngày tháng năm sinh id là Mai Thế Hùng", "label": [[15, 17, "PERSON"]]}
-{"sentence": "ông em tên Doan Vu Kha có thể thay đổi lịch khám ngày nào tuần sau", "label": [[3, 5, "PERSON"]]}
-{"sentence": "tuần nay em có việc bận rồi , em muốn dời lịch hẹn tái khám định kỳ của thai nhi với bác sỹ Le Thi Hoa", "label": [[23, 25, "PERSON"]]}
-{"sentence": "mã số khám của chị là EZ419 chị muốn dời lại lịch khám được không ? tên của chị Pham Thi Ngoc", "label": [[19, 21, "PERSON"]]}
-{"sentence": "mã: QA123 được đặt lịch hẹn vào hôm nay nhưng tôi bận rồi nên tôi dời sang tuần sau , tên mai the hung", "label": [[21, 23, "PERSON"]]}
-{"sentence": "tên nguyen van thoi tôi muốn thay đổi lịch tái khám", "label": [[1, 3, "PERSON"]]}
-{"sentence": "tên thường gọi là mai thi kieu loan tôi phải liên lạc như nào để thay đổi lịch hẹn khám", "label": [[4, 7, "PERSON"]]}
-{"sentence": "30p nữa tôi có lịch khám nhưng tôi muốn thay đổi lịch với chú mai the hung", "label": [[14, 16, "PERSON"]]}
-{"sentence": "bác sỹ mai thi kieu loan dặn tôi dời lịch sang tuần sau . tôi có những thời gian nào để đặt", "label": [[2, 5, "PERSON"]]}
-{"sentence": "id: le van dinh thay đổi năm sinh 1997 sang 1998", "label": [[1, 3, "PERSON"]]}
-{"sentence": "tôi thấy thông tin lịch khám sai , tôi cần thay đổi lại là ngày khám 21 sang 23", "label": []}
-{"sentence": "tôi cần sửa chữa lại thông tin lịch hẹn là triệu chứng ho khan , đờm sang ho dai dảng , sốt , tên của tui là Nguyễn ngọc Yến", "label": [[27, 29, "PERSON"]]}
-{"sentence": "vài tiếng nữa hình như có lịch hẹn với cô nguyễn hoài Yên tôi muốn dời sang chiều nay", "label": [[10, 12, "PERSON"]]}
-{"sentence": "bác sỹ Danh điền bảo tôi điền lại thông tin triệu chứng trước khi khám , tôi phải làm gì ?", "label": [[2, 3, "PERSON"]]}
-{"sentence": "bác sỹ Long Phạm có thể giúp tôi thay đổi lịch sang ngày mai không", "label": [[2, 3, "PERSON"]]}
-{"sentence": "tên của tui là Phan bùi tôi có thể thay đổi lịch khám không ?", "label": [[4, 5, "PERSON"]]}
+{"sentence": "b\u1ea3y gi\u1edd thi\u1ebfu 15 t\u1ed1i v\u00e0o ng\u00e0y 6/6 t\u00f4i mu\u1ed1n d\u1eddi l\u1ecbch kh\u00e1m ng\u00e0y n\u00e0y v\u1edbi b\u00e1c Ph\u01b0\u1edbi", "label": [[17, 17, "PERSON"]]}
+{"sentence": "bot t\u00f4i mu\u1ed1n \u0111\u1ed5i h\u1eb9n kh\u00e1m v\u1edbi chuy\u00ean gia Sancho", "label": [[9, 9, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i kh\u00e1m v\u1edbi b\u00e1c s\u1ef9 Knar \u0111\u01b0\u1ee3c ko", "label": [[8, 8, "PERSON"]]}
+{"sentence": "em mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch kh\u00e1m v\u1edbi ch\u1ecb b\u00e1c s\u1ef9 Yut", "label": [[10, 10, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 Phay c\u00f3 th\u1ec3 thay \u0111\u1ed5i l\u1ecbch h\u1eb9n gi\u00fap em \u0111\u01b0\u1ee3c kh\u00f4ng", "label": [[2, 2, "PERSON"]]}
+{"sentence": "identify c\u1ee7a t\u00f4i l\u00e0 \u0111\u1eb7ng huy\u1ec1n nguy\u00ean t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch h\u1eb9n", "label": [[4, 6, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch h\u1eb9n v\u00e0o tu\u1ea7n sau", "label": []}
+{"sentence": "b\u1ea1n t\u00f4i l\u00e0 ph\u1ea1m thi ga , b\u1ea1n t\u00f4i nh\u1edd t\u00f4i thay \u0111\u1ed5i l\u1ecbch h\u1eb9n", "label": [[3, 5, "PERSON"]]}
+{"sentence": "t\u00ean c\u1ee7a t\u00f4i l\u00e0 \u0111o\u00e0n minh k\u1ef3 t\u00f4i mu\u1ed1n d\u1eddi l\u1ecbch h\u1eb9n v\u00e0o t\u00e1m gi\u1edd t\u1ed1i mai", "label": [[4, 6, "PERSON"]]}
+{"sentence": "l\u00ea kh\u1eafc l\u00fd l\u00e0 t\u00ean t\u00f4i , t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch", "label": [[0, 2, "PERSON"]]}
+{"sentence": "tu\u1ea7n sau t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch kh\u00e1m", "label": []}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch kh\u00e1m d\u00f9m b\u1ea1n l\u00ea th\u1ecb h\u1ed3ng hoa .", "label": [[8, 11, "PERSON"]]}
+{"sentence": "id: l\u00ea th\u1ecb l\u01b0c . thay \u0111\u1ed5i l\u1ecbch kh\u00e1m", "label": [[1, 3, "PERSON"]]}
+{"sentence": "l\u00e0m c\u00e1ch n\u00e0o \u0111\u1ec3 li\u00ean h\u1ec7 v\u1edbi bs tr\u1ea7n be ron \u0111\u1ec3 thay \u0111\u1ed5i l\u1ecbch h\u1eb9n v\u1eady bot", "label": [[8, 10, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch h\u1eb9n t\u00e1i kh\u00e1m v\u00e0o tu\u1ea7n sau v\u1edbi \u00f4ng l\u00e2m v\u0103n c\u1ea3nh", "label": [[13, 15, "PERSON"]]}
+{"sentence": "thay \u0111\u1ed5i l\u1ecbch kh\u00e1m v\u1edbi bs \u0110\u1eb7ng V\u0103n Kh\u00e1nh An ph\u1ea3i l\u00e0m sao ?", "label": [[6, 9, "PERSON"]]}
+{"sentence": "ng\u00e0y kia t\u00f4i c\u00f3 l\u1ecbch t\u00e1i kh\u00e1m t\u1ea1i khoa m\u1eaft v\u1edbi Tr\u1ea7n Ninh Qu\u00fd nh\u01b0ng t\u00f4i mu\u1ed1n thay \u0111\u1ed5i sang tu\u1ea7n sau", "label": [[11, 13, "PERSON"]]}
+{"sentence": "t\u00f4i c\u00f3 \u0111\u1eb7t l\u1ecbch kh\u00e1m v\u1ec1 m\u1eaft id t\u00f4i l\u00e0: 12345 t\u00ean L\u00ea Th\u1ecb Tuy\u1ebft . mu\u1ed1n d\u1eddi l\u1ecbch sang tu\u1ea7n sau", "label": [[12, 14, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i th\u00f4ng tin c\u00e1 nh\u00e2n v\u1ec1 l\u1ecbch h\u1eb9n v\u1edbi b\u00e1c s\u1ef9 B\u00f9i Th\u1ecb Thu", "label": [[14, 16, "PERSON"]]}
+{"sentence": "a Ng\u00f4 Nh\u1eadt Duy c\u00f3 g\u1ecdi t\u00f4i a \u0111i c\u00f4ng t\u00e1c v\u00e0o l\u1ecbch \u0111\u00e3 \u0111\u1eb7t n\u00ean d\u1eb7n t\u00f4i thay \u0111\u1ed5i l\u1ecbch kh\u00e1m v\u1edbi b\u00e1c s\u1ef9 kh\u00e1c ? t\u00f4i ph\u1ea3i l\u00e0m nh\u01b0 n\u00e0o v\u1eady bot", "label": [[1, 3, "PERSON"]]}
+{"sentence": "ch\u00fa l\u00e0 \u0110inh Xu\u00e2n Vi\u1ec5n ch\u00fa mu\u00f4n thay \u0111\u1ed5i tri\u1ec7u ch\u1ee9ng \u0111\u00e3 ghi \u1edf ph\u1ea7n book l\u1ecbch h\u1eb9n tr\u01b0\u1edbc", "label": [[2, 4, "PERSON"]]}
+{"sentence": "ch\u00fa mu\u1ed1n thay \u0111\u1ed5i tri\u1ec7u ch\u1ee9ng ho sang ho dai d\u1ea3ng \u0111\u00e3 \u0111\u1eb7t v\u1edbi b\u00e1c s\u1ef9 D\u01b0\u01a1ng V\u0103n C\u1ea9m", "label": [[16, 18, "PERSON"]]}
+{"sentence": "em mu\u1ed1n d\u1eddi t\u1eeb 7h s\u00e1ng sang 7h t\u1ed1i v\u1edbi ch\u1ecb b\u00e1c s\u1ef9 Ph\u1ea1m Th\u1ecb Ng\u1ecdc", "label": [[13, 15, "PERSON"]]}
+{"sentence": "b\u1ea1n em nh\u1edd em \u0111\u1ed5i l\u1ecbch h\u1eb9n v\u1edbi Hu\u1ef3nh Trung Thi\u1ec7n sang tu\u1ea7n sau", "label": [[8, 10, "PERSON"]]}
+{"sentence": "th\u00f4ng tin c\u00e1 nh\u00e2n c\u1ee7a t\u00f4i c\u1ea7n thay \u0111\u1ed5i ng\u00e0y th\u00e1ng n\u0103m sinh id l\u00e0 Mai Th\u1ebf H\u00f9ng", "label": [[15, 17, "PERSON"]]}
+{"sentence": "\u00f4ng em t\u00ean Doan Vu Kha c\u00f3 th\u1ec3 thay \u0111\u1ed5i l\u1ecbch kh\u00e1m ng\u00e0y n\u00e0o tu\u1ea7n sau", "label": [[3, 5, "PERSON"]]}
+{"sentence": "tu\u1ea7n nay em c\u00f3 vi\u1ec7c b\u1eadn r\u1ed3i , em mu\u1ed1n d\u1eddi l\u1ecbch h\u1eb9n t\u00e1i kh\u00e1m \u0111\u1ecbnh k\u1ef3 c\u1ee7a thai nhi v\u1edbi b\u00e1c s\u1ef9 Le Thi Hoa", "label": [[23, 25, "PERSON"]]}
+{"sentence": "m\u00e3 s\u1ed1 kh\u00e1m c\u1ee7a ch\u1ecb l\u00e0 EZ419 ch\u1ecb mu\u1ed1n d\u1eddi l\u1ea1i l\u1ecbch kh\u00e1m \u0111\u01b0\u1ee3c kh\u00f4ng ? t\u00ean c\u1ee7a ch\u1ecb Pham Thi Ngoc", "label": [[19, 21, "PERSON"]]}
+{"sentence": "m\u00e3: QA123 \u0111\u01b0\u1ee3c \u0111\u1eb7t l\u1ecbch h\u1eb9n v\u00e0o h\u00f4m nay nh\u01b0ng t\u00f4i b\u1eadn r\u1ed3i n\u00ean t\u00f4i d\u1eddi sang tu\u1ea7n sau , t\u00ean mai the hung", "label": [[21, 23, "PERSON"]]}
+{"sentence": "t\u00ean nguyen van thoi t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch t\u00e1i kh\u00e1m", "label": [[1, 3, "PERSON"]]}
+{"sentence": "t\u00ean th\u01b0\u1eddng g\u1ecdi l\u00e0 mai thi kieu loan t\u00f4i ph\u1ea3i li\u00ean l\u1ea1c nh\u01b0 n\u00e0o \u0111\u1ec3 thay \u0111\u1ed5i l\u1ecbch h\u1eb9n kh\u00e1m", "label": [[4, 7, "PERSON"]]}
+{"sentence": "30p n\u1eefa t\u00f4i c\u00f3 l\u1ecbch kh\u00e1m nh\u01b0ng t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch v\u1edbi ch\u00fa mai the hung", "label": [[14, 16, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 mai thi kieu loan d\u1eb7n t\u00f4i d\u1eddi l\u1ecbch sang tu\u1ea7n sau . t\u00f4i c\u00f3 nh\u1eefng th\u1eddi gian n\u00e0o \u0111\u1ec3 \u0111\u1eb7t", "label": [[2, 5, "PERSON"]]}
+{"sentence": "id: le van dinh thay \u0111\u1ed5i n\u0103m sinh 1997 sang 1998", "label": [[1, 3, "PERSON"]]}
+{"sentence": "t\u00f4i th\u1ea5y th\u00f4ng tin l\u1ecbch kh\u00e1m sai , t\u00f4i c\u1ea7n thay \u0111\u1ed5i l\u1ea1i l\u00e0 ng\u00e0y kh\u00e1m 21 sang 23", "label": []}
+{"sentence": "t\u00f4i c\u1ea7n s\u1eeda ch\u1eefa l\u1ea1i th\u00f4ng tin l\u1ecbch h\u1eb9n l\u00e0 tri\u1ec7u ch\u1ee9ng ho khan , \u0111\u1eddm sang ho dai d\u1ea3ng , s\u1ed1t , t\u00ean c\u1ee7a tui l\u00e0 Nguy\u1ec5n ng\u1ecdc Y\u1ebfn", "label": [[27, 29, "PERSON"]]}
+{"sentence": "v\u00e0i ti\u1ebfng n\u1eefa h\u00ecnh nh\u01b0 c\u00f3 l\u1ecbch h\u1eb9n v\u1edbi c\u00f4 nguy\u1ec5n ho\u00e0i Y\u00ean t\u00f4i mu\u1ed1n d\u1eddi sang chi\u1ec1u nay", "label": [[10, 12, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 Danh \u0111i\u1ec1n b\u1ea3o t\u00f4i \u0111i\u1ec1n l\u1ea1i th\u00f4ng tin tri\u1ec7u ch\u1ee9ng tr\u01b0\u1edbc khi kh\u00e1m , t\u00f4i ph\u1ea3i l\u00e0m g\u00ec ?", "label": [[2, 3, "PERSON"]]}
+{"sentence": "b\u00e1c s\u1ef9 Long Ph\u1ea1m c\u00f3 th\u1ec3 gi\u00fap t\u00f4i thay \u0111\u1ed5i l\u1ecbch sang ng\u00e0y mai kh\u00f4ng", "label": [[2, 3, "PERSON"]]}
+{"sentence": "t\u00ean c\u1ee7a tui l\u00e0 Phan b\u00f9i t\u00f4i c\u00f3 th\u1ec3 thay \u0111\u1ed5i l\u1ecbch kh\u00e1m kh\u00f4ng ?", "label": [[4, 5, "PERSON"]]}
 {"sentence": "phai lam gi de thay doi thong tin trieu chung da ghi o lich hen voi bac sy cao minh tri", "label": [[18, 20, "PERSON"]]}
 {"sentence": "bot oi toi co the change appt cua bac do van kha", "label": [[9, 11, "PERSON"]]}
 {"sentence": "toi nen lam gi de thay doi lich da hen voi do van kha", "label": [[11, 13, "PERSON"]]}
 {"sentence": "toi muon doi lich kham cua bac sy dang van y", "label": [[8, 10, "PERSON"]]}
 {"sentence": "id le chanh thu doi lich hen sang ngay kia luc 9:10", "label": [[1, 3, "PERSON"]]}
-{"sentence": "tên bác sỹ Thạch Thị Sóc Hên tôi muốn đổi lịch hẹn", "label": [[3, 6, "PERSON"]]}
-{"sentence": "lịch hẹn của Lâm Chong có thể thay đổi được không ?", "label": [[3, 4, "PERSON"]]}
-{"sentence": "tôi muốn thay đổi lịch hẹn với bác sỹ Thạch Chây Mu Ny", "label": [[9, 12, "PERSON"]]}
-{"sentence": "tôi muốn change appt với bác sỹ Chan Ng", "label": [[7, 8, "PERSON"]]}
-{"sentence": "cho tôi xin phép thay đổi lịch hẹn cá nhân với bác sỹ Lee hoon ở khoa thẫm mĩ", "label": [[13, 14, "PERSON"]]}
-{"sentence": "bạn tôi tên lê văn bảy đã thay đổi lịch giúp tôi id: Lê Đoàn Duy đúng không ?", "label": [[3, 5, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "lúc bốn giờ chiều nay bạn chị võ nhật duy đã thay đổi lịch hẹn của chị . Chị tên Trang Tố Phượng", "label": [[7, 9, "PERSON"], [20, 22, "PERSON"]]}
-{"sentence": "id: 1233 thay đổi tên nguyễn ngọc đông sang Nguyễn Ngọc Đông", "label": [[5, 7, "PERSON"], [9, 11, "PERSON"]]}
-{"sentence": "tôi muốn nhường lịch hẹn của tôi tên lý ngọc hồ cho bạn Lê Hoàng Nam", "label": [[8, 10, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "vợ tôi đi khám thai định kỳ muốn dời lịch sang tuần sau tên vợ: nguyễn thị thủy tên tôi: Nguyễn Minh Chương", "label": [[15, 17, "PERSON"], [20, 22, "PERSON"]]}
-{"sentence": "bà chị tôi lương thị ánh hồng nhờ tôi dời lịch sang ngày mai trùng lịch của tôi Lệ Thị Tựa", "label": [[3, 6, "PERSON"], [18, 20, "PERSON"]]}
-{"sentence": "vài lúc 9 giờ 30 p sáng anh tôi bị kẹt xe nên nhờ dịch sang tuần sau tên anh tôi: trần thanh hải . Ký tên Bùi Thị Triển", "label": [[21, 23, "PERSON"], [27, 29, "PERSON"]]}
-{"sentence": "bot ơi sắp xếp lại hộ ng thị út sang khám cho bs Ng Quốc Duy", "label": [[6, 8, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "chuyển lịch hẹn của tôi từ bác đoàn văn hiểu sang Đinh Thị Hoài", "label": [[7, 9, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "bs cao thị hải hẹn tôi sang tuần sau id của tôi là : Mã Thị Lan", "label": [[1, 3, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "con em Cao Thị Hà và em cao thị hải muốn dời lịch tái khám tim sang ngày 21/3", "label": [[2, 4, "PERSON"], [7, 9, "PERSON"]]}
-{"sentence": "hôm qua em có đổi lịch hen của chồng Nguyễn Vũ Hạn . ký tên cao thị hà", "label": [[9, 11, "PERSON"], [15, 17, "PERSON"]]}
-{"sentence": "chồng em tên Huỳnh Phú bị tai nạn nên em phải dời lịch tái khám của em sang ngày khác ký tên võ kim thoa", "label": [[3, 4, "PERSON"], [22, 24, "PERSON"]]}
-{"sentence": "mã tên: Lê Thị Điệp thay đổi lịch hẹn dùm hà thị phương", "label": [[2, 4, "PERSON"], [10, 12, "PERSON"]]}
-{"sentence": "con em tên Lê Hoàng Khải có lịch hẹn tái khám tim hôm nay nhưng bs lê bảo lộc dặn dời lịch hẹn", "label": [[3, 5, "PERSON"], [16, 18, "PERSON"]]}
-{"sentence": "con muốn sửa thông tin lịch hẹn tên Võ Thị Thúy Lợi sang võ thị thúy", "label": [[8, 11, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "lám gì để được đổi bác sỹ Diệp Hoàng Lâm sang ông ng quang duy", "label": [[7, 9, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "Nguyễn Văn Tèo có nhờ tôi liên hệ với bác sỹ nguyễn kim cương dời lịch hẹn hinh như sang tháng sau", "label": [[0, 2, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "tôi có thể dời lịch hẹn với bác sỹ Lê Văn Tánh sang ngày kia được không hoặc có thể gặp bs huỳnh văn lâm", "label": [[9, 11, "PERSON"], [22, 24, "PERSON"]]}
-{"sentence": "lúc 3:00pm em tôi tên Lê Quốc Vững bị tai nạn . nên tôi không đến khám được , vui lòng dời sang ngày khác . ký tên lê viết quốc", "label": [[5, 7, "PERSON"], [28, 30, "PERSON"]]}
-{"sentence": "hi bot nhờ sắp xếp lại lịch của đỗ văn đầy và đỗ mười", "label": [[8, 10, "PERSON"], [12, 13, "PERSON"]]}
-{"sentence": "làm ơn dời lịch khám của chung thành phương , chung phương thành sang ngày 22 tháng 8", "label": [[6, 8, "PERSON"], [10, 12, "PERSON"]]}
-{"sentence": "bác đặng thị hiếu ở khoa da liễu hẹn tôi vào ngày 22 tháng sau . nhờ bot sắp xếp lại . ký tên diệp hoài lâm", "label": [[1, 3, "PERSON"], [24, 26, "PERSON"]]}
-{"sentence": "sửa lại lịch hẹn của tôi ng thị ngọc hà và nguyễn thị kiều phương sang ngày khác được không", "label": [[6, 9, "PERSON"], [11, 14, "PERSON"]]}
-{"sentence": "đinh thị trà my nhờ sửa ngày tháng năm sinh của trần thị hà", "label": [[0, 3, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "đổi cái giờ hẹn tái khám của phạm thị nhan vì chị ây đã khám với bác sỹ địa phương tô thị mên hôm qua", "label": [[7, 9, "PERSON"], [20, 22, "PERSON"]]}
-{"sentence": "tái khám với bác sỹ khoa mắt nguyễn văn thơm đã được dời sang ngày khác chưa . sign phan thị my", "label": [[7, 9, "PERSON"], [19, 21, "PERSON"]]}
-{"sentence": "phòng khám bùi thị hiền đã đầy tui muốn khám sang phòng khác . tên tui võ thị thảo trang", "label": [[2, 4, "PERSON"], [16, 19, "PERSON"]]}
-{"sentence": "sửa lại giúp em sđt của 2 anh danh hùng và huỳnh thanh nhã", "label": [[8, 9, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "hình như thông tin chị phan thị lý tôi ghi sai sửa lại giúp tôi phạm thị lý", "label": [[5, 7, "PERSON"], [15, 17, "PERSON"]]}
-{"sentence": "tôi Quoách Tiểu Loan viết sai tên lịch hẹn sửa lại giúp thành Quoách Tiểu Loan", "label": [[13, 15, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "quản lý nhờ em Lâm Chong dời lịch hẹn anh ấy sang ngày giờ khác tên qly Lâm Tây", "label": [[4, 5, "PERSON"], [17, 18, "PERSON"]]}
-{"sentence": "Lê Thị Huế có đặt hẹn giúp chị vào hôm bữa nhưng sai thông tin tên . Tên của chị đúng là Bùi Hằng", "label": [[0, 2, "PERSON"], [22, 23, "PERSON"]]}
-{"sentence": "Dương Thị Hương đang cà phê gặp đối tác nên nhờ em dời lịch hẹn khám với bác sỹ Huệ Tú", "label": [[0, 2, "PERSON"], [19, 20, "PERSON"]]}
-{"sentence": "Nguyễn Dữ đang bận nhờ em đổi lịch hẹn của a ấy sang ngày khác cảm ơn bác Lý Bí", "label": [[0, 1, "PERSON"], [18, 19, "PERSON"]]}
-{"sentence": "sếp em Nguyễn Huệ đã tạm giảm triệu chứng nên nhờ thay đổi tt triệu chứng với bác sỹ Quang Trung", "label": [[2, 3, "PERSON"], [19, 20, "PERSON"]]}
-{"sentence": "9p nữa hình như có lịch khám của Hai Bà Trưng với Điện Biên Phủ nhưng bác sỹ bận rồi dời sang ngày sau được k", "label": [[8, 10, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "lịch khám đầu giờ chiều chuyển sang ngày mai được không bs Dương Quyền tôi đã hỏi chị y tá Lê Thị Huế", "label": [[12, 13, "PERSON"], [20, 22, "PERSON"]]}
-{"sentence": "Thạch Thị Sóc Hên và Phạm Thị Hằng đã dời lịch hẹn sang hôm sau", "label": [[0, 3, "PERSON"], [5, 7, "PERSON"]]}
-{"sentence": "Lê Đức Trung là quản lý của a Văn Toàn nhờ dịch lịch kiểm tra y tế a ấy sang bữa sau", "label": [[0, 2, "PERSON"], [8, 9, "PERSON"]]}
-{"sentence": "Hoài Lâm con hoài Linh nhờ dời lịch bố a ấy", "label": [[0, 1, "PERSON"], [3, 4, "PERSON"]]}
-{"sentence": "Đặng Văn ý có ý định chuyển đổi lịch hẹn của bố anh ấy Đặng vĂn Lâm sang ngày kia", "label": [[0, 2, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "chuyển id name: lê văn Lĩnh sang Lê Văn Lĩnh được hông bot", "label": [[3, 5, "PERSON"], [7, 9, "PERSON"]]}
-{"sentence": "tôi và bác sỹ trần Văn hội có xung đột nên tôi muốn đổi lịch sang bác sỹ khác ví dụ như hồ quang Thái", "label": [[4, 6, "PERSON"], [22, 24, "PERSON"]]}
-{"sentence": "được phép đổi dùm lịch khám của bệnh nhân Danh điền không tôi là chị nó danh Linh", "label": [[9, 10, "PERSON"], [16, 17, "PERSON"]]}
-{"sentence": "đặt giúp mình lịch hẹn cho con gái hà mơ vs bác sĩ Như Quỳnh lúc 9 giờ sáng nhé", "label": [[8, 9, "PERSON"], [13, 14, "PERSON"]]}
-{"sentence": "đặt giúp tôi lịch với bs nguyễn xuân sang cho bố Lê Phú Quý nhé", "label": [[6, 8, "PERSON"], [11, 13, "PERSON"]]}
-{"sentence": "alo , đặt lịch cho mẹ nguyễn cát tường vs bác sỹ Tấn Thạnh khoa răng nhé", "label": [[6, 8, "PERSON"], [12, 13, "PERSON"]]}
-{"sentence": "chị muốn đặt lịch cho con trai võ hoài linh lúc 4 giờ ngày 20/06 với bs Quang Sáng", "label": [[7, 9, "PERSON"], [17, 18, "PERSON"]]}
-{"sentence": "hey cưng , đặt giúp chị lịch khám thai với bác sĩ đào văn thiện hoặc bs Lê Trường Thọ 9 giờ tối ngày kia nhé", "label": [[12, 14, "PERSON"], [17, 19, "PERSON"]]}
-{"sentence": "anh cần đặt lịch gấp cho bố hồ quang thịnh với bacs sĩ Huynhf Thúc Kháng", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "tui tên huỳnh khánh linh muốn đặt lịch khám thai vơus bs Doãn Chí Bình khoa nhi", "label": [[2, 4, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "ê , đặt giúp t lịch với dr phạm công thưởng khoa tiết liệu nhé , à t đặt cho bố Huỳnh Tuấn Anh", "label": [[8, 10, "PERSON"], [21, 23, "PERSON"]]}
-{"sentence": "đặt giúp tôi lịch khám sớm nhất cho vợ hà thị mơ vs bs Nguyễn Thu Cúc lúc 7 giờ sáng nhé", "label": [[9, 11, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "anh muốn đặt lịch chị hồ ngọc hà khoa phãu thuật chỉnh hình để hút mỡ cho vợ Minh Hằng", "label": [[5, 7, "PERSON"], [18, 19, "PERSON"]]}
-{"sentence": "hẹn sáng mai gặp bs Huỳnh Khánh Trọng và bs hồ mang khương nhé", "label": [[5, 7, "PERSON"], [10, 12, "PERSON"]]}
-{"sentence": "bố tui Phạm Xuân Sang cần đặt lịch khám tai với bs nguyễn tuấn kiệt", "label": [[2, 4, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "ê bot , đặt giúp lịch cho chị Linh vs bác sĩ hữu liêm khoa răng hàm mặt nhé", "label": [[8, 8, "PERSON"], [12, 13, "PERSON"]]}
-{"sentence": "tui muốn đặt lịch cho mợ Ngọc Linh lúc 7 giờ sáng mai vs bs trần công minh", "label": [[6, 7, "PERSON"], [15, 17, "PERSON"]]}
-{"sentence": "không phải , tôi đang muốn đặt cho chú Đỗ Tiến Mạnh vs bác sĩ tấn nghĩa khoa tim mạch cơ", "label": [[9, 11, "PERSON"], [15, 16, "PERSON"]]}
-{"sentence": "bot nè , đặt giúp chị lịch khám với dr Vũ Kim Long , chị đặt chho mẹ là cao mỹ ái", "label": [[10, 12, "PERSON"], [19, 21, "PERSON"]]}
-{"sentence": "dạo này bố tôi bị khó thơr , tôi muốn đặt lịch khám tim với dr Vũ Thị Thanh Mai , bố tôi tên quang tấn nghĩa nhé", "label": [[16, 19, "PERSON"], [24, 26, "PERSON"]]}
-{"sentence": "tôi tên Đỗ Hà Lộc , muốn khám tổng quát vs bác sĩ nguyễn văn ân vào ngày 28/07", "label": [[2, 4, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "chú tui Nguyễn Huệ Minh muốn khám vào 3 giờ chiều ngaỳ kia vs bs thành nam", "label": [[2, 4, "PERSON"], [15, 16, "PERSON"]]}
-{"sentence": "đặt lịch cho chú là Lê Văn Hưu vs dr võ hoàng nam khoa tim mạch", "label": [[5, 7, "PERSON"], [10, 12, "PERSON"]]}
-{"sentence": "bố tôi dạo này lại bị đau lại , tôi muốn đặt khám lại vs dr chu lan anh , bố tôi tên phạm minh khang", "label": [[16, 18, "PERSON"], [23, 25, "PERSON"]]}
-{"sentence": "đặt lịch giúp mợ là cao nhã phương với dr nguyễn huỳnh hải nam vào ngày 25/08", "label": [[5, 7, "PERSON"], [10, 13, "PERSON"]]}
-{"sentence": "anh muốn lịch khám cho dì là nhật kim ngân với bác sĩ hồ trọng nghĩa khoa tai mũi hongj", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "hi bot , đặt giúp anh lịch với bác sĩ đặng khánh an hoặc chu lan anh nhé", "label": [[10, 12, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "đặt khám thai ngày 15 . 09 vs bác sĩ quốc bảo hay bác sĩ tuấn anh đều được nhé", "label": [[10, 11, "PERSON"], [15, 16, "PERSON"]]}
-{"sentence": "10 giờ sáng ngày 03/10 bác sĩ minh anh và nguyễn hồng phong ai rảnh thì đặt cho anh nhé", "label": [[7, 8, "PERSON"], [10, 12, "PERSON"]]}
-{"sentence": "anh cần lịch khám cho vợ trần thị kim ngân và con lương chí nguyên để khám tổng quán", "label": [[6, 9, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "hey , đặt lịch khám cho cậu nguyễn hữu nhân , mợ đỗ thị linh ngày 27 tháng sau nhé", "label": [[7, 9, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "\bđặt lịch khám sức khoẻ cho ông phạm viết phong , bà nguyễn thị đằm", "label": [[7, 9, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "đặt kịch khám tổng quán cho con trai phạm minh khánh , con gái phạm hoài như ý vào ngày 29 tháng 11 nha", "label": [[8, 10, "PERSON"], [14, 17, "PERSON"]]}
-{"sentence": "đặt lịch khám thai cho vợ Hà Thị Minh Phương vào 11 giờ sáng ngày 23 tháng 6 , à đặt với bac sĩ Nguyễn Đông Phương nha", "label": [[6, 9, "PERSON"], [24, 26, "PERSON"]]}
-{"sentence": "mai bác sĩ Trần Minh Sơn có rảnh không nhỉ mình cần đặt lịch khám cho mẹ Ôn Hà Chung", "label": [[3, 5, "PERSON"], [17, 19, "PERSON"]]}
-{"sentence": "bác sĩ Lê Tự Thạnh Sinh và bác sĩ Nguyễn Thanh Tâm ai rảnh vào ngày mai thì đặt giúp tôi lịch vs người đó nhé", "label": [[2, 5, "PERSON"], [9, 11, "PERSON"]]}
-{"sentence": "alo bot ơi , đặt lịch cho chị với bs Võ Trường Giang và bs Lê Quang Duy khoa phẫu thuật chỉnh hình nha", "label": [[10, 12, "PERSON"], [15, 17, "PERSON"]]}
-{"sentence": "anh ơi , em cần đặt lịch khám cho con là Phan Đình Duy vs dr Nguyễn Ngọc Hà , mấy hôm nay nó bị nóng trong người", "label": [[11, 13, "PERSON"], [16, 18, "PERSON"]]}
-{"sentence": "đặt giúp em lịch khám vs bs Ngọc Hiền vào 8 giơ sáng mai nhé , nếu bs bận thì đặt giúp em vs bs Việt Hà", "label": [[7, 8, "PERSON"], [25, 26, "PERSON"]]}
-{"sentence": "cần đăt lịch vs bác sỹ Trần Nguyên Hào và Phan Văn Hậu khoa thần kinh", "label": [[6, 8, "PERSON"], [10, 12, "PERSON"]]}
-{"sentence": "đặt khám tổng quát cho vợ Lê Thị Hiền và con trai Phạm Minh Hiếu lúc 10h ngày 27/12", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "đặt khám thai cho vợ là Trần Thị Hường với bác sĩ Tống Hải Hưng", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "đặt khám lại cho con trai Huỳnh Kim Hưng với bác sỹ Cao Văn Huỳnh", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "tui tên là CAO bá Quát , tui muốn đặt lịch khám với bs Nguyễn VŨ DŨNG 9 giờ tối", "label": [[3, 5, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "\banh cần đặt lihc hộ cho bác Đinh Kha NAM với bác sỹ NguyỄn MinH TrÀ", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
-{"sentence": "cúc cu , bot đặt giúp tui lịch với bs Đào NGỌc KHẢI nhé , tui đặt cho cô là Bùi LAN ANH", "label": [[10, 12, "PERSON"], [20, 22, "PERSON"]]}
-{"sentence": "bot nè , chị là Phạm HOÀI THu chị muốn đặt lịch với vs NGUyễn Hồng MINH khoa thần kinh", "label": [[5, 7, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "15 giờ chiều mai bs sĩ Trương NHẬt MINH có rảnh ko , nếu ko đặt giúp tui lịch vs bác sỹ ĐẶng THỊ MÙI", "label": [[6, 8, "PERSON"], [22, 24, "PERSON"]]}
-{"sentence": "bác sĩ hữu minh mai có rảnh ko vậy , tôi cần đặt lịch khám tổng quát giúp bố là Trần HOÀNG NAm", "label": [[2, 3, "PERSON"], [20, 22, "PERSON"]]}
-{"sentence": "mình đang cân đặt khám tổng quát cho bố là lê trọng nghĩa , mẹ là nguyỄn THị GianG ngày kia 9 giờ tối", "label": [[10, 12, "PERSON"], [16, 18, "PERSON"]]}
-{"sentence": "cần đătj lịch cho 2 đứa con là phạm quang duy và BÙi Văn PHÚ vào 7 giờ sáng ngày 12/03", "label": [[8, 10, "PERSON"], [12, 14, "PERSON"]]}
-{"sentence": "2 bác tôi là nguyễn thị bích và NguyỄn ĐINH NGUYÊN cần đặt ịch khám tổng quát", "label": [[4, 6, "PERSON"], [8, 10, "PERSON"]]}
-{"sentence": "đặt lịch khám bác sĩ đinh bá thi khoa răng miêngj , tôi đặt cho con là Huỳnh BÁ NHân", "label": [[5, 7, "PERSON"], [17, 19, "PERSON"]]}
-{"sentence": "đặt lịch khám với bác sĩ Trần LỄ NHƠN lúc 9 giờ tối ngày kia cho con phạm duy phong", "label": [[6, 8, "PERSON"], [17, 19, "PERSON"]]}
-{"sentence": "đặt giúp anh lịch khám tổng quats cho bố Nguyễn HỮU pháT và mẹ phạm linh chi nhé", "label": [[9, 11, "PERSON"], [14, 16, "PERSON"]]}
-{"sentence": "cưng đặt giúp chị lịch kiểm tra sức khẻo với bs ĐônG Tấn Pha và nguyễn văn phong nhé", "label": [[11, 13, "PERSON"], [15, 17, "PERSON"]]}
-{"sentence": "bác sĩ Trần Hải ĐăNG và lâm tự bình có rảnh không , chị cần hẹn khám lúc 14 giờ chiều mai", "label": [[2, 4, "PERSON"], [6, 8, "PERSON"]]}
-{"sentence": "đặt lịch khám cho cậu là TiếT tẤn Phúc , mợ là ngô bình phương phi", "label": [[6, 8, "PERSON"], [12, 15, "PERSON"]]}
-{"sentence": "tôi tên Phạm Nam muốn đặt lịch với bác sĩ irina kushakova vào 8h45 ngày 12/04", "label": [[2, 3, "PERSON"], [10, 11, "PERSON"]]}
-{"sentence": "đặt lịch khám cho bố là brad pitt mẹ là angelina joile vào ngày 08/08 tháng sau", "label": [[6, 7, "PERSON"], [10, 11, "PERSON"]]}
-{"sentence": "hi em , chị là helen thanh đào đang muốn đặt lịch khám thai vs bác sĩ soo young khoa phụ sản", "label": [[5, 7, "PERSON"], [17, 18, "PERSON"]]}
-{"sentence": "anh đang cần đặt lịch khám tổng quát cho 2 đứa con là g-dragon và park hyun seo", "label": [[13, 13, "PERSON"], [15, 17, "PERSON"]]}
-{"sentence": "\bbác sĩ Thu Thảo khoa tim mạch có rảnh ngày mai ko , mịnhf muốn đặt lịch khám cho con là h ' ăng nie", "label": [[2, 3, "PERSON"], [21, 24, "PERSON"]]}
-{"sentence": "tui cần đặt lịch khám cho cậu mợ là trần thị bửu hạnh và Dustin Nguyễn vào ngày 06/06/2021", "label": [[9, 12, "PERSON"], [14, 15, "PERSON"]]}
-{"sentence": "cô là Phan Ngọc Nga đang cần đặt lịch khám bệnh vs bs Rhymastic", "label": [[2, 4, "PERSON"], [13, 13, "PERSON"]]}
-{"sentence": "anh đang cần đặt lịch khám cho bố là ali hoàng dương và vợ Jennifer Phạm , em xem có lịch nào sớm nhất thì báo cho anh nhé", "label": [[9, 11, "PERSON"], [14, 15, "PERSON"]]}
-{"sentence": "chú là tô thái nghĩa cần đặt lịch khám vs bác sỹ Timothee Chalamet khoa trĩ", "label": [[2, 4, "PERSON"], [12, 13, "PERSON"]]}
-{"sentence": "đặt giúp anh lịch khám vs bác sĩ lou hoàng và Huang Yanshen vào 12 giờ trưa mai nhé", "label": [[11, 12, "PERSON"]]}
+{"sentence": "t\u00ean b\u00e1c s\u1ef9 Th\u1ea1ch Th\u1ecb S\u00f3c H\u00ean t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch h\u1eb9n", "label": [[3, 6, "PERSON"]]}
+{"sentence": "l\u1ecbch h\u1eb9n c\u1ee7a L\u00e2m Chong c\u00f3 th\u1ec3 thay \u0111\u1ed5i \u0111\u01b0\u1ee3c kh\u00f4ng ?", "label": [[3, 4, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n thay \u0111\u1ed5i l\u1ecbch h\u1eb9n v\u1edbi b\u00e1c s\u1ef9 Th\u1ea1ch Ch\u00e2y Mu Ny", "label": [[9, 12, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n change appt v\u1edbi b\u00e1c s\u1ef9 Chan Ng", "label": [[7, 8, "PERSON"]]}
+{"sentence": "cho t\u00f4i xin ph\u00e9p thay \u0111\u1ed5i l\u1ecbch h\u1eb9n c\u00e1 nh\u00e2n v\u1edbi b\u00e1c s\u1ef9 Lee hoon \u1edf khoa th\u1eabm m\u0129", "label": [[13, 14, "PERSON"]]}
+{"sentence": "b\u1ea1n t\u00f4i t\u00ean l\u00ea v\u0103n b\u1ea3y \u0111\u00e3 thay \u0111\u1ed5i l\u1ecbch gi\u00fap t\u00f4i id: L\u00ea \u0110o\u00e0n Duy \u0111\u00fang kh\u00f4ng ?", "label": [[3, 5, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "l\u00fac b\u1ed1n gi\u1edd chi\u1ec1u nay b\u1ea1n ch\u1ecb v\u00f5 nh\u1eadt duy \u0111\u00e3 thay \u0111\u1ed5i l\u1ecbch h\u1eb9n c\u1ee7a ch\u1ecb . Ch\u1ecb t\u00ean Trang T\u1ed1 Ph\u01b0\u1ee3ng", "label": [[7, 9, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "id: 1233 thay \u0111\u1ed5i t\u00ean nguy\u1ec5n ng\u1ecdc \u0111\u00f4ng sang Nguy\u1ec5n Ng\u1ecdc \u0110\u00f4ng", "label": [[5, 7, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "t\u00f4i mu\u1ed1n nh\u01b0\u1eddng l\u1ecbch h\u1eb9n c\u1ee7a t\u00f4i t\u00ean l\u00fd ng\u1ecdc h\u1ed3 cho b\u1ea1n L\u00ea Ho\u00e0ng Nam", "label": [[8, 10, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "v\u1ee3 t\u00f4i \u0111i kh\u00e1m thai \u0111\u1ecbnh k\u1ef3 mu\u1ed1n d\u1eddi l\u1ecbch sang tu\u1ea7n sau t\u00ean v\u1ee3: nguy\u1ec5n th\u1ecb th\u1ee7y t\u00ean t\u00f4i: Nguy\u1ec5n Minh Ch\u01b0\u01a1ng", "label": [[15, 17, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "b\u00e0 ch\u1ecb t\u00f4i l\u01b0\u01a1ng th\u1ecb \u00e1nh h\u1ed3ng nh\u1edd t\u00f4i d\u1eddi l\u1ecbch sang ng\u00e0y mai tr\u00f9ng l\u1ecbch c\u1ee7a t\u00f4i L\u1ec7 Th\u1ecb T\u1ef1a", "label": [[3, 6, "PERSON"], [18, 20, "PERSON"]]}
+{"sentence": "v\u00e0i l\u00fac 9 gi\u1edd 30 p s\u00e1ng anh t\u00f4i b\u1ecb k\u1eb9t xe n\u00ean nh\u1edd d\u1ecbch sang tu\u1ea7n sau t\u00ean anh t\u00f4i: tr\u1ea7n thanh h\u1ea3i . K\u00fd t\u00ean B\u00f9i Th\u1ecb Tri\u1ec3n", "label": [[21, 23, "PERSON"], [27, 29, "PERSON"]]}
+{"sentence": "bot \u01a1i s\u1eafp x\u1ebfp l\u1ea1i h\u1ed9 ng th\u1ecb \u00fat sang kh\u00e1m cho bs Ng Qu\u1ed1c Duy", "label": [[6, 8, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "chuy\u1ec3n l\u1ecbch h\u1eb9n c\u1ee7a t\u00f4i t\u1eeb b\u00e1c \u0111o\u00e0n v\u0103n hi\u1ec3u sang \u0110inh Th\u1ecb Ho\u00e0i", "label": [[7, 9, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "bs cao th\u1ecb h\u1ea3i h\u1eb9n t\u00f4i sang tu\u1ea7n sau id c\u1ee7a t\u00f4i l\u00e0 : M\u00e3 Th\u1ecb Lan", "label": [[1, 3, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "con em Cao Th\u1ecb H\u00e0 v\u00e0 em cao th\u1ecb h\u1ea3i mu\u1ed1n d\u1eddi l\u1ecbch t\u00e1i kh\u00e1m tim sang ng\u00e0y 21/3", "label": [[2, 4, "PERSON"], [7, 9, "PERSON"]]}
+{"sentence": "h\u00f4m qua em c\u00f3 \u0111\u1ed5i l\u1ecbch hen c\u1ee7a ch\u1ed3ng Nguy\u1ec5n V\u0169 H\u1ea1n . k\u00fd t\u00ean cao th\u1ecb h\u00e0", "label": [[9, 11, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "ch\u1ed3ng em t\u00ean Hu\u1ef3nh Ph\u00fa b\u1ecb tai n\u1ea1n n\u00ean em ph\u1ea3i d\u1eddi l\u1ecbch t\u00e1i kh\u00e1m c\u1ee7a em sang ng\u00e0y kh\u00e1c k\u00fd t\u00ean v\u00f5 kim thoa", "label": [[3, 4, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "m\u00e3 t\u00ean: L\u00ea Th\u1ecb \u0110i\u1ec7p thay \u0111\u1ed5i l\u1ecbch h\u1eb9n d\u00f9m h\u00e0 th\u1ecb ph\u01b0\u01a1ng", "label": [[2, 4, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "con em t\u00ean L\u00ea Ho\u00e0ng Kh\u1ea3i c\u00f3 l\u1ecbch h\u1eb9n t\u00e1i kh\u00e1m tim h\u00f4m nay nh\u01b0ng bs l\u00ea b\u1ea3o l\u1ed9c d\u1eb7n d\u1eddi l\u1ecbch h\u1eb9n", "label": [[3, 5, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "con mu\u1ed1n s\u1eeda th\u00f4ng tin l\u1ecbch h\u1eb9n t\u00ean V\u00f5 Th\u1ecb Th\u00fay L\u1ee3i sang v\u00f5 th\u1ecb th\u00fay", "label": [[8, 11, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "l\u00e1m g\u00ec \u0111\u1ec3 \u0111\u01b0\u1ee3c \u0111\u1ed5i b\u00e1c s\u1ef9 Di\u1ec7p Ho\u00e0ng L\u00e2m sang \u00f4ng ng quang duy", "label": [[7, 9, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "Nguy\u1ec5n V\u0103n T\u00e8o c\u00f3 nh\u1edd t\u00f4i li\u00ean h\u1ec7 v\u1edbi b\u00e1c s\u1ef9 nguy\u1ec5n kim c\u01b0\u01a1ng d\u1eddi l\u1ecbch h\u1eb9n hinh nh\u01b0 sang th\u00e1ng sau", "label": [[0, 2, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "t\u00f4i c\u00f3 th\u1ec3 d\u1eddi l\u1ecbch h\u1eb9n v\u1edbi b\u00e1c s\u1ef9 L\u00ea V\u0103n T\u00e1nh sang ng\u00e0y kia \u0111\u01b0\u1ee3c kh\u00f4ng ho\u1eb7c c\u00f3 th\u1ec3 g\u1eb7p bs hu\u1ef3nh v\u0103n l\u00e2m", "label": [[9, 11, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "l\u00fac 3:00pm em t\u00f4i t\u00ean L\u00ea Qu\u1ed1c V\u1eefng b\u1ecb tai n\u1ea1n . n\u00ean t\u00f4i kh\u00f4ng \u0111\u1ebfn kh\u00e1m \u0111\u01b0\u1ee3c , vui l\u00f2ng d\u1eddi sang ng\u00e0y kh\u00e1c . k\u00fd t\u00ean l\u00ea vi\u1ebft qu\u1ed1c", "label": [[5, 7, "PERSON"], [28, 30, "PERSON"]]}
+{"sentence": "hi bot nh\u1edd s\u1eafp x\u1ebfp l\u1ea1i l\u1ecbch c\u1ee7a \u0111\u1ed7 v\u0103n \u0111\u1ea7y v\u00e0 \u0111\u1ed7 m\u01b0\u1eddi", "label": [[8, 10, "PERSON"], [12, 13, "PERSON"]]}
+{"sentence": "l\u00e0m \u01a1n d\u1eddi l\u1ecbch kh\u00e1m c\u1ee7a chung th\u00e0nh ph\u01b0\u01a1ng , chung ph\u01b0\u01a1ng th\u00e0nh sang ng\u00e0y 22 th\u00e1ng 8", "label": [[6, 8, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "b\u00e1c \u0111\u1eb7ng th\u1ecb hi\u1ebfu \u1edf khoa da li\u1ec5u h\u1eb9n t\u00f4i v\u00e0o ng\u00e0y 22 th\u00e1ng sau . nh\u1edd bot s\u1eafp x\u1ebfp l\u1ea1i . k\u00fd t\u00ean di\u1ec7p ho\u00e0i l\u00e2m", "label": [[1, 3, "PERSON"], [24, 26, "PERSON"]]}
+{"sentence": "s\u1eeda l\u1ea1i l\u1ecbch h\u1eb9n c\u1ee7a t\u00f4i ng th\u1ecb ng\u1ecdc h\u00e0 v\u00e0 nguy\u1ec5n th\u1ecb ki\u1ec1u ph\u01b0\u01a1ng sang ng\u00e0y kh\u00e1c \u0111\u01b0\u1ee3c kh\u00f4ng", "label": [[6, 9, "PERSON"], [11, 14, "PERSON"]]}
+{"sentence": "\u0111inh th\u1ecb tr\u00e0 my nh\u1edd s\u1eeda ng\u00e0y th\u00e1ng n\u0103m sinh c\u1ee7a tr\u1ea7n th\u1ecb h\u00e0", "label": [[0, 3, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "\u0111\u1ed5i c\u00e1i gi\u1edd h\u1eb9n t\u00e1i kh\u00e1m c\u1ee7a ph\u1ea1m th\u1ecb nhan v\u00ec ch\u1ecb \u00e2y \u0111\u00e3 kh\u00e1m v\u1edbi b\u00e1c s\u1ef9 \u0111\u1ecba ph\u01b0\u01a1ng t\u00f4 th\u1ecb m\u00ean h\u00f4m qua", "label": [[7, 9, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "t\u00e1i kh\u00e1m v\u1edbi b\u00e1c s\u1ef9 khoa m\u1eaft nguy\u1ec5n v\u0103n th\u01a1m \u0111\u00e3 \u0111\u01b0\u1ee3c d\u1eddi sang ng\u00e0y kh\u00e1c ch\u01b0a . sign phan th\u1ecb my", "label": [[7, 9, "PERSON"], [19, 21, "PERSON"]]}
+{"sentence": "ph\u00f2ng kh\u00e1m b\u00f9i th\u1ecb hi\u1ec1n \u0111\u00e3 \u0111\u1ea7y tui mu\u1ed1n kh\u00e1m sang ph\u00f2ng kh\u00e1c . t\u00ean tui v\u00f5 th\u1ecb th\u1ea3o trang", "label": [[2, 4, "PERSON"], [16, 19, "PERSON"]]}
+{"sentence": "s\u1eeda l\u1ea1i gi\u00fap em s\u0111t c\u1ee7a 2 anh danh h\u00f9ng v\u00e0 hu\u1ef3nh thanh nh\u00e3", "label": [[8, 9, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "h\u00ecnh nh\u01b0 th\u00f4ng tin ch\u1ecb phan th\u1ecb l\u00fd t\u00f4i ghi sai s\u1eeda l\u1ea1i gi\u00fap t\u00f4i ph\u1ea1m th\u1ecb l\u00fd", "label": [[5, 7, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "t\u00f4i Quo\u00e1ch Ti\u1ec3u Loan vi\u1ebft sai t\u00ean l\u1ecbch h\u1eb9n s\u1eeda l\u1ea1i gi\u00fap th\u00e0nh Qu\u00e1ch Ti\u1ec3u Loan", "label": [[1, 3, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "qu\u1ea3n l\u00fd nh\u1edd em L\u00e2m Chong d\u1eddi l\u1ecbch h\u1eb9n anh \u1ea5y sang ng\u00e0y gi\u1edd kh\u00e1c t\u00ean qly L\u00e2m T\u00e2y", "label": [[4, 5, "PERSON"], [17, 18, "PERSON"]]}
+{"sentence": "L\u00ea Th\u1ecb Hu\u1ebf c\u00f3 \u0111\u1eb7t h\u1eb9n gi\u00fap ch\u1ecb v\u00e0o h\u00f4m b\u1eefa nh\u01b0ng sai th\u00f4ng tin t\u00ean . T\u00ean c\u1ee7a ch\u1ecb \u0111\u00fang l\u00e0 B\u00f9i H\u1eb1ng", "label": [[0, 2, "PERSON"], [22, 23, "PERSON"]]}
+{"sentence": "D\u01b0\u01a1ng Th\u1ecb H\u01b0\u01a1ng \u0111ang c\u00e0 ph\u00ea g\u1eb7p \u0111\u1ed1i t\u00e1c n\u00ean nh\u1edd em d\u1eddi l\u1ecbch h\u1eb9n kh\u00e1m v\u1edbi b\u00e1c s\u1ef9 Hu\u1ec7 T\u00fa", "label": [[0, 2, "PERSON"], [19, 20, "PERSON"]]}
+{"sentence": "Nguy\u1ec5n D\u1eef \u0111ang b\u1eadn nh\u1edd em \u0111\u1ed5i l\u1ecbch h\u1eb9n c\u1ee7a a \u1ea5y sang ng\u00e0y kh\u00e1c c\u1ea3m \u01a1n b\u00e1c L\u00fd B\u00ed", "label": [[0, 1, "PERSON"], [18, 19, "PERSON"]]}
+{"sentence": "s\u1ebfp em Nguy\u1ec5n Hu\u1ec7 \u0111\u00e3 t\u1ea1m gi\u1ea3m tri\u1ec7u ch\u1ee9ng n\u00ean nh\u1edd thay \u0111\u1ed5i tt tri\u1ec7u ch\u1ee9ng v\u1edbi b\u00e1c s\u1ef9 Quang Trung", "label": [[2, 3, "PERSON"], [19, 20, "PERSON"]]}
+{"sentence": "9p n\u1eefa h\u00ecnh nh\u01b0 c\u00f3 l\u1ecbch kh\u00e1m c\u1ee7a Hai B\u00e0 Tr\u01b0ng v\u1edbi \u0110i\u1ec7n Bi\u00ean Ph\u1ee7 nh\u01b0ng b\u00e1c s\u1ef9 b\u1eadn r\u1ed3i d\u1eddi sang ng\u00e0y sau \u0111\u01b0\u1ee3c k", "label": [[8, 10, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "l\u1ecbch kh\u00e1m \u0111\u1ea7u gi\u1edd chi\u1ec1u chuy\u1ec3n sang ng\u00e0y mai \u0111\u01b0\u1ee3c kh\u00f4ng bs D\u01b0\u01a1ng Quy\u1ec1n t\u00f4i \u0111\u00e3 h\u1ecfi ch\u1ecb y t\u00e1 L\u00ea Th\u1ecb Hu\u1ebf", "label": [[12, 13, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "Th\u1ea1ch Th\u1ecb S\u00f3c H\u00ean v\u00e0 Ph\u1ea1m Th\u1ecb H\u1eb1ng \u0111\u00e3 d\u1eddi l\u1ecbch h\u1eb9n sang h\u00f4m sau", "label": [[0, 3, "PERSON"], [5, 7, "PERSON"]]}
+{"sentence": "L\u00ea \u0110\u1ee9c Trung l\u00e0 qu\u1ea3n l\u00fd c\u1ee7a a V\u0103n To\u00e0n nh\u1edd d\u1ecbch l\u1ecbch ki\u1ec3m tra y t\u1ebf a \u1ea5y sang b\u1eefa sau", "label": [[0, 2, "PERSON"], [8, 9, "PERSON"]]}
+{"sentence": "Ho\u00e0i L\u00e2m con ho\u00e0i Linh nh\u1edd d\u1eddi l\u1ecbch b\u1ed1 a \u1ea5y", "label": [[0, 1, "PERSON"], [3, 4, "PERSON"]]}
+{"sentence": "\u0110\u1eb7ng V\u0103n \u00fd c\u00f3 \u00fd \u0111\u1ecbnh chuy\u1ec3n \u0111\u1ed5i l\u1ecbch h\u1eb9n c\u1ee7a b\u1ed1 anh \u1ea5y \u0110\u1eb7ng v\u0102n L\u00e2m sang ng\u00e0y kia", "label": [[0, 2, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "chuy\u1ec3n id name: l\u00ea v\u0103n L\u0129nh sang L\u00ea V\u0103n L\u0129nh \u0111\u01b0\u1ee3c h\u00f4ng bot", "label": [[3, 5, "PERSON"], [7, 9, "PERSON"]]}
+{"sentence": "t\u00f4i v\u00e0 b\u00e1c s\u1ef9 tr\u1ea7n V\u0103n h\u1ed9i c\u00f3 xung \u0111\u1ed9t n\u00ean t\u00f4i mu\u1ed1n \u0111\u1ed5i l\u1ecbch sang b\u00e1c s\u1ef9 kh\u00e1c v\u00ed d\u1ee5 nh\u01b0 h\u1ed3 quang Th\u00e1i", "label": [[4, 6, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "\u0111\u01b0\u1ee3c ph\u00e9p \u0111\u1ed5i d\u00f9m l\u1ecbch kh\u00e1m c\u1ee7a b\u1ec7nh nh\u00e2n Danh \u0111i\u1ec1n kh\u00f4ng t\u00f4i l\u00e0 ch\u1ecb n\u00f3 danh Linh", "label": [[9, 10, "PERSON"], [16, 17, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t gi\u00fap m\u00ecnh l\u1ecbch h\u1eb9n cho con g\u00e1i h\u00e0 m\u01a1 vs b\u00e1c s\u0129 Nh\u01b0 Qu\u1ef3nh l\u00fac 9 gi\u1edd s\u00e1ng nh\u00e9", "label": [[8, 9, "PERSON"], [13, 14, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t gi\u00fap t\u00f4i l\u1ecbch v\u1edbi bs nguy\u1ec5n xu\u00e2n sang cho b\u1ed1 L\u00ea Ph\u00fa Qu\u00fd nh\u00e9", "label": [[6, 8, "PERSON"], [11, 13, "PERSON"]]}
+{"sentence": "alo , \u0111\u1eb7t l\u1ecbch cho m\u1eb9 nguy\u1ec5n c\u00e1t t\u01b0\u1eddng vs b\u00e1c s\u1ef9 T\u1ea5n Th\u1ea1nh khoa r\u0103ng nh\u00e9", "label": [[6, 8, "PERSON"], [12, 13, "PERSON"]]}
+{"sentence": "ch\u1ecb mu\u1ed1n \u0111\u1eb7t l\u1ecbch cho con trai v\u00f5 ho\u00e0i linh l\u00fac 4 gi\u1edd ng\u00e0y 20/06 v\u1edbi bs Quang S\u00e1ng", "label": [[7, 9, "PERSON"], [17, 18, "PERSON"]]}
+{"sentence": "hey c\u01b0ng , \u0111\u1eb7t gi\u00fap ch\u1ecb l\u1ecbch kh\u00e1m thai v\u1edbi b\u00e1c s\u0129 \u0111\u00e0o v\u0103n thi\u1ec7n ho\u1eb7c bs L\u00ea Tr\u01b0\u1eddng Th\u1ecd 9 gi\u1edd t\u1ed1i ng\u00e0y kia nh\u00e9", "label": [[12, 14, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "anh c\u1ea7n \u0111\u1eb7t l\u1ecbch g\u1ea5p cho b\u1ed1 h\u1ed3 quang th\u1ecbnh v\u1edbi bacs s\u0129 Huynhf Th\u00fac Kh\u00e1ng", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "tui t\u00ean hu\u1ef3nh kh\u00e1nh linh mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m thai v\u01a1us bs Do\u00e3n Ch\u00ed B\u00ecnh khoa nhi", "label": [[2, 4, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "\u00ea , \u0111\u1eb7t gi\u00fap t l\u1ecbch v\u1edbi dr ph\u1ea1m c\u00f4ng th\u01b0\u1edfng khoa ti\u1ebft li\u1ec7u nh\u00e9 , \u00e0 t \u0111\u1eb7t cho b\u1ed1 Hu\u1ef3nh Tu\u1ea5n Anh", "label": [[8, 10, "PERSON"], [21, 23, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t gi\u00fap t\u00f4i l\u1ecbch kh\u00e1m s\u1edbm nh\u1ea5t cho v\u1ee3 h\u00e0 th\u1ecb m\u01a1 vs bs Nguy\u1ec5n Thu C\u00fac l\u00fac 7 gi\u1edd s\u00e1ng nh\u00e9", "label": [[9, 11, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "anh mu\u1ed1n \u0111\u1eb7t l\u1ecbch ch\u1ecb h\u1ed3 ng\u1ecdc h\u00e0 khoa ph\u00e3u thu\u1eadt ch\u1ec9nh h\u00ecnh \u0111\u1ec3 h\u00fat m\u1ee1 cho v\u1ee3 Minh H\u1eb1ng", "label": [[5, 7, "PERSON"], [18, 19, "PERSON"]]}
+{"sentence": "h\u1eb9n s\u00e1ng mai g\u1eb7p bs Hu\u1ef3nh Kh\u00e1nh Tr\u1ecdng v\u00e0 bs h\u1ed3 mang kh\u01b0\u01a1ng nh\u00e9", "label": [[5, 7, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "b\u1ed1 tui Ph\u1ea1m Xu\u00e2n Sang c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m tai v\u1edbi bs nguy\u1ec5n tu\u1ea5n ki\u1ec7t", "label": [[2, 4, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "\u00ea bot , \u0111\u1eb7t gi\u00fap l\u1ecbch cho ch\u1ecb Linh vs b\u00e1c s\u0129 h\u1eefu li\u00eam khoa r\u0103ng h\u00e0m m\u1eb7t nh\u00e9", "label": [[8, 8, "PERSON"], [12, 13, "PERSON"]]}
+{"sentence": "tui mu\u1ed1n \u0111\u1eb7t l\u1ecbch cho m\u1ee3 Ng\u1ecdc Linh l\u00fac 7 gi\u1edd s\u00e1ng mai vs bs tr\u1ea7n c\u00f4ng minh", "label": [[6, 7, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "kh\u00f4ng ph\u1ea3i , t\u00f4i \u0111ang mu\u1ed1n \u0111\u1eb7t cho ch\u00fa \u0110\u1ed7 Ti\u1ebfn M\u1ea1nh vs b\u00e1c s\u0129 t\u1ea5n ngh\u0129a khoa tim m\u1ea1ch c\u01a1", "label": [[9, 11, "PERSON"], [15, 16, "PERSON"]]}
+{"sentence": "bot n\u00e8 , \u0111\u1eb7t gi\u00fap ch\u1ecb l\u1ecbch kh\u00e1m v\u1edbi dr V\u0169 Kim Long , ch\u1ecb \u0111\u1eb7t chho m\u1eb9 l\u00e0 cao m\u1ef9 \u00e1i", "label": [[10, 12, "PERSON"], [19, 21, "PERSON"]]}
+{"sentence": "d\u1ea1o n\u00e0y b\u1ed1 t\u00f4i b\u1ecb kh\u00f3 th\u01a1r , t\u00f4i mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m tim v\u1edbi dr V\u0169 Th\u1ecb Thanh Mai , b\u1ed1 t\u00f4i t\u00ean quang t\u1ea5n ngh\u0129a nh\u00e9", "label": [[16, 19, "PERSON"], [24, 26, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean \u0110\u1ed7 H\u00e0 L\u1ed9c , mu\u1ed1n kh\u00e1m t\u1ed5ng qu\u00e1t vs b\u00e1c s\u0129 nguy\u1ec5n v\u0103n \u00e2n v\u00e0o ng\u00e0y 28/07", "label": [[2, 4, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "ch\u00fa tui Nguy\u1ec5n Hu\u1ec7 Minh mu\u1ed1n kh\u00e1m v\u00e0o 3 gi\u1edd chi\u1ec1u nga\u1ef3 kia vs bs th\u00e0nh nam", "label": [[2, 4, "PERSON"], [15, 16, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch cho ch\u00fa l\u00e0 L\u00ea V\u0103n H\u01b0u vs dr v\u00f5 ho\u00e0ng nam khoa tim m\u1ea1ch", "label": [[5, 7, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "b\u1ed1 t\u00f4i d\u1ea1o n\u00e0y l\u1ea1i b\u1ecb \u0111au l\u1ea1i , t\u00f4i mu\u1ed1n \u0111\u1eb7t kh\u00e1m l\u1ea1i vs dr chu lan anh , b\u1ed1 t\u00f4i t\u00ean ph\u1ea1m minh khang", "label": [[16, 18, "PERSON"], [23, 25, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch gi\u00fap m\u1ee3 l\u00e0 cao nh\u00e3 ph\u01b0\u01a1ng v\u1edbi dr nguy\u1ec5n hu\u1ef3nh h\u1ea3i nam v\u00e0o ng\u00e0y 25/08", "label": [[5, 7, "PERSON"], [10, 13, "PERSON"]]}
+{"sentence": "anh mu\u1ed1n l\u1ecbch kh\u00e1m cho d\u00ec l\u00e0 nh\u1eadt kim ng\u00e2n v\u1edbi b\u00e1c s\u0129 h\u1ed3 tr\u1ecdng ngh\u0129a khoa tai m\u0169i hongj", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "hi bot , \u0111\u1eb7t gi\u00fap anh l\u1ecbch v\u1edbi b\u00e1c s\u0129 \u0111\u1eb7ng kh\u00e1nh an ho\u1eb7c chu lan anh nh\u00e9", "label": [[10, 12, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t kh\u00e1m thai ng\u00e0y 15 . 09 vs b\u00e1c s\u0129 qu\u1ed1c b\u1ea3o hay b\u00e1c s\u0129 tu\u1ea5n anh \u0111\u1ec1u \u0111\u01b0\u1ee3c nh\u00e9", "label": [[10, 11, "PERSON"], [15, 16, "PERSON"]]}
+{"sentence": "10 gi\u1edd s\u00e1ng ng\u00e0y 03/10 b\u00e1c s\u0129 minh anh v\u00e0 nguy\u1ec5n h\u1ed3ng phong ai r\u1ea3nh th\u00ec \u0111\u1eb7t cho anh nh\u00e9", "label": [[7, 8, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "anh c\u1ea7n l\u1ecbch kh\u00e1m cho v\u1ee3 tr\u1ea7n th\u1ecb kim ng\u00e2n v\u00e0 con l\u01b0\u01a1ng ch\u00ed nguy\u00ean \u0111\u1ec3 kh\u00e1m t\u1ed5ng qu\u00e1n", "label": [[6, 9, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "hey , \u0111\u1eb7t l\u1ecbch kh\u00e1m cho c\u1eadu nguy\u1ec5n h\u1eefu nh\u00e2n , m\u1ee3 \u0111\u1ed7 th\u1ecb linh ng\u00e0y 27 th\u00e1ng sau nh\u00e9", "label": [[7, 9, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "\b\u0111\u1eb7t l\u1ecbch kh\u00e1m s\u1ee9c kho\u1ebb cho \u00f4ng ph\u1ea1m vi\u1ebft phong , b\u00e0 nguy\u1ec5n th\u1ecb \u0111\u1eb1m", "label": [[7, 9, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t k\u1ecbch kh\u00e1m t\u1ed5ng qu\u00e1n cho con trai ph\u1ea1m minh kh\u00e1nh , con g\u00e1i ph\u1ea1m ho\u00e0i nh\u01b0 \u00fd v\u00e0o ng\u00e0y 29 th\u00e1ng 11 nha", "label": [[8, 10, "PERSON"], [14, 17, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m thai cho v\u1ee3 H\u00e0 Th\u1ecb Minh Ph\u01b0\u01a1ng v\u00e0o 11 gi\u1edd s\u00e1ng ng\u00e0y 23 th\u00e1ng 6 , \u00e0 \u0111\u1eb7t v\u1edbi bac s\u0129 Nguy\u1ec5n \u0110\u00f4ng Ph\u01b0\u01a1ng nha", "label": [[6, 9, "PERSON"], [24, 26, "PERSON"]]}
+{"sentence": "mai b\u00e1c s\u0129 Tr\u1ea7n Minh S\u01a1n c\u00f3 r\u1ea3nh kh\u00f4ng nh\u1ec9 m\u00ecnh c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho m\u1eb9 \u00d4n H\u00e0 Chung", "label": [[3, 5, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "b\u00e1c s\u0129 L\u00ea T\u1ef1 Th\u1ea1nh Sinh v\u00e0 b\u00e1c s\u0129 Nguy\u1ec5n Thanh T\u00e2m ai r\u1ea3nh v\u00e0o ng\u00e0y mai th\u00ec \u0111\u1eb7t gi\u00fap t\u00f4i l\u1ecbch vs ng\u01b0\u1eddi \u0111\u00f3 nh\u00e9", "label": [[2, 5, "PERSON"], [9, 11, "PERSON"]]}
+{"sentence": "alo bot \u01a1i , \u0111\u1eb7t l\u1ecbch cho ch\u1ecb v\u1edbi bs V\u00f5 Tr\u01b0\u1eddng Giang v\u00e0 bs L\u00ea Quang Duy khoa ph\u1eabu thu\u1eadt ch\u1ec9nh h\u00ecnh nha", "label": [[10, 12, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "anh \u01a1i , em c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho con l\u00e0 Phan \u0110\u00ecnh Duy vs dr Nguy\u1ec5n Ng\u1ecdc H\u00e0 , m\u1ea5y h\u00f4m nay n\u00f3 b\u1ecb n\u00f3ng trong ng\u01b0\u1eddi", "label": [[11, 13, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t gi\u00fap em l\u1ecbch kh\u00e1m vs bs Ng\u1ecdc Hi\u1ec1n v\u00e0o 8 gi\u01a1 s\u00e1ng mai nh\u00e9 , n\u1ebfu bs b\u1eadn th\u00ec \u0111\u1eb7t gi\u00fap em vs bs Vi\u1ec7t H\u00e0", "label": [[7, 8, "PERSON"], [25, 26, "PERSON"]]}
+{"sentence": "c\u1ea7n \u0111\u0103t l\u1ecbch vs b\u00e1c s\u1ef9 Tr\u1ea7n Nguy\u00ean H\u00e0o v\u00e0 Phan V\u0103n H\u1eadu khoa th\u1ea7n kinh", "label": [[6, 8, "PERSON"], [10, 12, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t kh\u00e1m t\u1ed5ng qu\u00e1t cho v\u1ee3 L\u00ea Th\u1ecb Hi\u1ec1n v\u00e0 con trai Ph\u1ea1m Minh Hi\u1ebfu l\u00fac 10h ng\u00e0y 27/12", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t kh\u00e1m thai cho v\u1ee3 l\u00e0 Tr\u1ea7n Th\u1ecb H\u01b0\u1eddng v\u1edbi b\u00e1c s\u0129 T\u1ed1ng H\u1ea3i H\u01b0ng", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t kh\u00e1m l\u1ea1i cho con trai Hu\u1ef3nh Kim H\u01b0ng v\u1edbi b\u00e1c s\u1ef9 Cao V\u0103n Hu\u1ef3nh", "label": [[6, 8, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "tui t\u00ean l\u00e0 CAO b\u00e1 Qu\u00e1t , tui mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m v\u1edbi bs Nguy\u1ec5n V\u0168 D\u0168NG 9 gi\u1edd t\u1ed1i", "label": [[3, 5, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "\banh c\u1ea7n \u0111\u1eb7t lihc h\u1ed9 cho b\u00e1c \u0110inh Kha NAM v\u1edbi b\u00e1c s\u1ef9 Nguy\u1ec4n MinH Tr\u00c0", "label": [[7, 9, "PERSON"], [13, 15, "PERSON"]]}
+{"sentence": "c\u00fac cu , bot \u0111\u1eb7t gi\u00fap tui l\u1ecbch v\u1edbi bs \u0110\u00e0o NG\u1eccc KH\u1ea2I nh\u00e9 , tui \u0111\u1eb7t cho c\u00f4 l\u00e0 B\u00f9i LAN ANH", "label": [[10, 12, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "bot n\u00e8 , ch\u1ecb l\u00e0 Ph\u1ea1m HO\u00c0I THu ch\u1ecb mu\u1ed1n \u0111\u1eb7t l\u1ecbch v\u1edbi vs NGUy\u1ec5n H\u1ed3ng MINH khoa th\u1ea7n kinh", "label": [[5, 7, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "15 gi\u1edd chi\u1ec1u mai bs s\u0129 Tr\u01b0\u01a1ng NH\u1eact MINH c\u00f3 r\u1ea3nh ko , n\u1ebfu ko \u0111\u1eb7t gi\u00fap tui l\u1ecbch vs b\u00e1c s\u1ef9 \u0110\u1eb6ng TH\u1eca M\u00d9I", "label": [[6, 8, "PERSON"], [22, 24, "PERSON"]]}
+{"sentence": "b\u00e1c s\u0129 h\u1eefu minh mai c\u00f3 r\u1ea3nh ko v\u1eady , t\u00f4i c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m t\u1ed5ng qu\u00e1t gi\u00fap b\u1ed1 l\u00e0 Tr\u1ea7n HO\u00c0NG NAm", "label": [[2, 3, "PERSON"], [20, 22, "PERSON"]]}
+{"sentence": "m\u00ecnh \u0111ang c\u00e2n \u0111\u1eb7t kh\u00e1m t\u1ed5ng qu\u00e1t cho b\u1ed1 l\u00e0 l\u00ea tr\u1ecdng ngh\u0129a , m\u1eb9 l\u00e0 nguy\u1ec4n TH\u1ecb GianG ng\u00e0y kia 9 gi\u1edd t\u1ed1i", "label": [[10, 12, "PERSON"], [16, 18, "PERSON"]]}
+{"sentence": "c\u1ea7n \u0111\u0103tj l\u1ecbch cho 2 \u0111\u1ee9a con l\u00e0 ph\u1ea1m quang duy v\u00e0 B\u00d9i V\u0103n PH\u00da v\u00e0o 7 gi\u1edd s\u00e1ng ng\u00e0y 12/03", "label": [[8, 10, "PERSON"], [12, 14, "PERSON"]]}
+{"sentence": "2 b\u00e1c t\u00f4i l\u00e0 nguy\u1ec5n th\u1ecb b\u00edch v\u00e0 Nguy\u1ec4n \u0110INH NGUY\u00caN c\u1ea7n \u0111\u1eb7t \u1ecbch kh\u00e1m t\u1ed5ng qu\u00e1t", "label": [[4, 6, "PERSON"], [8, 10, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m b\u00e1c s\u0129 \u0111inh b\u00e1 thi khoa r\u0103ng mi\u00eangj , t\u00f4i \u0111\u1eb7t cho con l\u00e0 Hu\u1ef3nh B\u00c1 NH\u00e2n", "label": [[5, 7, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m v\u1edbi b\u00e1c s\u0129 Tr\u1ea7n L\u1ec4 NH\u01a0N l\u00fac 9 gi\u1edd t\u1ed1i ng\u00e0y kia cho con ph\u1ea1m duy phong", "label": [[6, 8, "PERSON"], [17, 19, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t gi\u00fap anh l\u1ecbch kh\u00e1m t\u1ed5ng quats cho b\u1ed1 Nguy\u1ec5n H\u1eeeU ph\u00e1T v\u00e0 m\u1eb9 ph\u1ea1m linh chi nh\u00e9", "label": [[9, 11, "PERSON"], [14, 16, "PERSON"]]}
+{"sentence": "c\u01b0ng \u0111\u1eb7t gi\u00fap ch\u1ecb l\u1ecbch ki\u1ec3m tra s\u1ee9c kh\u1ebbo v\u1edbi bs \u0110\u00f4nG T\u1ea5n Pha v\u00e0 nguy\u1ec5n v\u0103n phong nh\u00e9", "label": [[11, 13, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "b\u00e1c s\u0129 Tr\u1ea7n H\u1ea3i \u0110\u0103NG v\u00e0 l\u00e2m t\u1ef1 b\u00ecnh c\u00f3 r\u1ea3nh kh\u00f4ng , ch\u1ecb c\u1ea7n h\u1eb9n kh\u00e1m l\u00fac 14 gi\u1edd chi\u1ec1u mai", "label": [[2, 4, "PERSON"], [6, 8, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m cho c\u1eadu l\u00e0 Ti\u1ebfT t\u1ea4n Ph\u00fac , m\u1ee3 l\u00e0 ng\u00f4 b\u00ecnh ph\u01b0\u01a1ng phi", "label": [[6, 8, "PERSON"], [12, 15, "PERSON"]]}
+{"sentence": "t\u00f4i t\u00ean Ph\u1ea1m Nam mu\u1ed1n \u0111\u1eb7t l\u1ecbch v\u1edbi b\u00e1c s\u0129 irina kushakova v\u00e0o 8h45 ng\u00e0y 12/04", "label": [[2, 3, "PERSON"], [10, 11, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t l\u1ecbch kh\u00e1m cho b\u1ed1 l\u00e0 brad pitt m\u1eb9 l\u00e0 angelina joile v\u00e0o ng\u00e0y 08/08 th\u00e1ng sau", "label": [[6, 7, "PERSON"], [10, 11, "PERSON"]]}
+{"sentence": "hi em , ch\u1ecb l\u00e0 helen thanh \u0111\u00e0o \u0111ang mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m thai vs b\u00e1c s\u0129 soo young khoa ph\u1ee5 s\u1ea3n", "label": [[5, 7, "PERSON"], [17, 18, "PERSON"]]}
+{"sentence": "anh \u0111ang c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m t\u1ed5ng qu\u00e1t cho 2 \u0111\u1ee9a con l\u00e0 g-dragon v\u00e0 park hyun seo", "label": [[13, 13, "PERSON"], [15, 17, "PERSON"]]}
+{"sentence": "\bb\u00e1c s\u0129 Thu Th\u1ea3o khoa tim m\u1ea1ch c\u00f3 r\u1ea3nh ng\u00e0y mai ko , m\u1ecbnhf mu\u1ed1n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho con l\u00e0 h ' \u0103ng nie", "label": [[2, 3, "PERSON"], [21, 24, "PERSON"]]}
+{"sentence": "tui c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho c\u1eadu m\u1ee3 l\u00e0 tr\u1ea7n th\u1ecb b\u1eedu h\u1ea1nh v\u00e0 Dustin Nguy\u1ec5n v\u00e0o ng\u00e0y 06/06/2021", "label": [[9, 12, "PERSON"], [14, 15, "PERSON"]]}
+{"sentence": "c\u00f4 l\u00e0 Phan Ng\u1ecdc Nga \u0111ang c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m b\u1ec7nh vs bs Rhymastic", "label": [[2, 4, "PERSON"], [13, 13, "PERSON"]]}
+{"sentence": "anh \u0111ang c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m cho b\u1ed1 l\u00e0 ali ho\u00e0ng d\u01b0\u01a1ng v\u00e0 v\u1ee3 Jennifer Ph\u1ea1m , em xem c\u00f3 l\u1ecbch n\u00e0o s\u1edbm nh\u1ea5t th\u00ec b\u00e1o cho anh nh\u00e9", "label": [[9, 11, "PERSON"], [14, 15, "PERSON"]]}
+{"sentence": "ch\u00fa l\u00e0 t\u00f4 th\u00e1i ngh\u0129a c\u1ea7n \u0111\u1eb7t l\u1ecbch kh\u00e1m vs b\u00e1c s\u1ef9 Timothee Chalamet khoa tr\u0129", "label": [[2, 4, "PERSON"], [12, 13, "PERSON"]]}
+{"sentence": "\u0111\u1eb7t gi\u00fap anh l\u1ecbch kh\u00e1m vs b\u00e1c s\u0129 lou ho\u00e0ng v\u00e0 Huang Yanshen v\u00e0o 12 gi\u1edd tr\u01b0a mai nh\u00e9", "label": [[11, 12, "PERSON"]]}
