@@ -151,9 +151,9 @@ class InputSample(object):
     def augment_acent(self, sample):
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
-        # sent[label_s:label_e +
-        #      1] = [remove_accent_vietnamese(token) for token in sent[label_s:label_e + 1]]
-        sent = [remove_accent_vietnamese(token) for token in sent]
+        sent[label_s:label_e +
+             1] = [remove_accent_vietnamese(token) for token in sent[label_s:label_e + 1]]
+        # sent = [remove_accent_vietnamese(token) for token in sent]
         sample['sentence'] = ' '.join(sent)
         sample['label'][0] = [label_s, label_e, 'PERSON']
         return sample

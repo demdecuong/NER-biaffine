@@ -59,11 +59,19 @@ def main(args):
         fasttext_model=fasttext_model,
         use_aug=args.aug_offline)
 
+    human_test_data = MyDataSet(
+        name='human_test',
+        path=args.human_test_data,
+        args=args,
+        tokenizer=tokenizer,
+        fasttext_model=fasttext_model)
+
     trainer = Trainer(args=args,
                       model=model,
                       train_data=train_data,
                       dev_data=dev_data,
-                      test_data=test_data)
+                      test_data=test_data,
+                      human_test_data=human_test_data)
     test_prev = 0
     dev_prev = 0
 
@@ -84,21 +92,22 @@ def main(args):
             if args.do_train:
                 trainer.train()
                 print('--------------------- EVALUATING ---------------------')
-                test_prec, test_recall, test_f1 = trainer.eval('test', test_prev)
-                dev_prec, dev_recal, dev_f1 = trainer.eval('dev', dev_prev)
+                htest_prec, htest_recall, htest_f1 = trainer.eval('human_test')
+                test_prec, test_recall, test_f1 = trainer.eval('test')
+                dev_prec, dev_recal, dev_f1 = trainer.eval('dev')
 
-                if test_prec > test_prev:
+                if htest_prec > 0:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
                                f'./{args.ckpt_dir}/checkpoint_{test_prec}.pth')
                     print(f"Save model at {args.ckpt_dir}/checkpoint_{test_prec}.pth")
-                    test_prev = test_prec
+                    test_prev = htest_prec
                     not_update_cnt = 0
 
                     # Log best model
                     best_iter = i
                     best_epoch = e
-                    best_prec = test_prec
+                    best_prec = htest_prec
                     best_model_dir = f"{args.ckpt_dir}/checkpoint_{test_prec}.pth"
                 else:
                     not_update_cnt += 1
@@ -107,7 +116,7 @@ def main(args):
                         trainer.update_lr(args.scale_lr) # divide lr to 2
                 current_time = str(datetime.datetime.now(pytz.timezone('Asia/Bangkok')))[5:19]
                 f = open(args.log_file, "a")
-                f.write(','.join([current_time , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
+                f.write(','.join([current_time,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1), str(htest_prec)[:5], str(htest_recal)[:5], str(htest_f1)[:5]])+'\n')
                 f.close()
                 print(f"[INFO] Best test precision : {best_prec} at iter {best_iter}-{best_epoch} is saved at {best_model_dir} ")
 
@@ -146,6 +155,13 @@ def main_aug_online(args):
         tokenizer=tokenizer,
         fasttext_model=fasttext_model)
 
+    human_test_data = MyDataSet(
+        name='human_test',
+        path=args.human_test_data,
+        args=args,
+        tokenizer=tokenizer,
+        fasttext_model=fasttext_model)
+
     test_prev = 0
     dev_prev = 0
     not_update_cnt = 0
@@ -178,6 +194,7 @@ def main_aug_online(args):
             train_data=train_data,
             dev_data=dev_data,
             test_data=test_data
+            human_test_data=human_test_data
             )
         for e in range(1, args.num_epochs + 1):
             print(f'Training model on epoch {e} of iteration {i}')
@@ -185,21 +202,22 @@ def main_aug_online(args):
                 trainer.train()
                 print('--------------------- TESTING ---------------------')
                 
+                htest_prec, htest_recall, htest_f1 = trainer.eval('human_test')
                 test_prec, test_recall, test_f1 = trainer.eval('test', test_prev)
                 dev_prec, dev_recal, dev_f1 = trainer.eval('dev', dev_prev)
 
-                if test_prec > test_prev:
+                if htest_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
                                f'./{args.ckpt_dir}/checkpoint_{test_prec}.pth')
                     print(f"Save model at {args.ckpt_dir}/checkpoint_{test_prec}.pth")
-                    test_prev = test_prec
+                    test_prev = htest_prec
                     not_update_cnt = 0
 
                     # Log best model
                     best_iter = i
                     best_epoch = e
-                    best_prec = test_prec
+                    best_prec = htest_prec
                     best_model_dir = f"{args.ckpt_dir}/checkpoint_{test_prec}.pth"
                 else:
                     not_update_cnt += 1
@@ -208,7 +226,7 @@ def main_aug_online(args):
                         trainer.update_lr(args.scale_lr) # divide lr to 2
                 current_time = str(datetime.datetime.now(pytz.timezone('Asia/Bangkok')))[5:19]
                 f = open(args.log_file, "a")
-                f.write(','.join([current_time,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1)])+'\n')
+                f.write(','.join([current_time,str(i) , str(e), str(dev_prec)[:5], str(dev_recal)[:5], str(dev_f1)[:5], str(test_prec)[:5], str(test_recall)[:5],str(test_f1), str(htest_prec)[:5], str(htest_recal)[:5], str(htest_f1)[:5]])+'\n')
                 f.close()
                 print(f"[INFO] Best test precision : {best_prec} at iter {best_iter}-{best_epoch} is saved at {best_model_dir} ")
 

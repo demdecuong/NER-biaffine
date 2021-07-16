@@ -74,7 +74,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--train_data', type=str, default='./data/person_name/train.json') 
     parser.add_argument('--dev_data', type=str, default='./data/person_name/test_60.json') 
     parser.add_argument('--test_data', type=str, default='./data/person_name/data_synth.json') 
-    parser.add_argument('--human_test_data', type=str, default='./data/person_name/human_testset.json') 
+    parser.add_argument('--human_test_data', type=str, default='./data/person_name/human_test.json') 
 
     kwargs = parser.parse_args()
     kwargs = vars(kwargs)

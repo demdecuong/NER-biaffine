@@ -1,3 +1,8 @@
 __pycache__
 model/__pycache__
 model/layer/__pycache__
+ckpt/
+ckpt_baseline/
+phobert_lightweight/
+vncorenlp/
+data/person_name/human_testset.csv

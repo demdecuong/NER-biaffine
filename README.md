@@ -34,6 +34,16 @@ python main.py --batch_size 256 --ckpt_dir finetune --learning_rate 2e-4 --log_f
 --use_pretrained True --load_ckpt 'finetune/checkpoint_0.925.pth'
 ```
 
+### Evaluate 
+1. Evaluate checkpoint
+```
+python evaluate.py --load_ckpt ckpt/checkpoint_0.959.pth --batch_size 256
+```
+
+2. Evaluate baseline model (151M params)
+```
+python evaluate.py --load_ckpt ckpt_baseline/checkpoint.pth --use_bert True --num_layer_bert 4 --eval_num_layer_bert 4 --human_test_data './data/person_name/human_test.json'
+```
 ### TODO  
 - Save model per batch
 - Update human testset

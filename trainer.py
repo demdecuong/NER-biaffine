@@ -114,7 +114,7 @@ class Trainer(object):
             scheduler.step()
         print('train loss:', train_loss/len(train_loader))
 
-    def eval(self, mode, f1_pre):
+    def eval(self, mode, f1_pre = 0):
         if mode == 'dev':
             dataset = self.dev_data
         elif mode == 'test':
