@@ -74,7 +74,8 @@ def main(args):
                       human_test_data=human_test_data)
     test_prev = 0
     dev_prev = 0
-
+    htest_prev = 0
+    
     # Logging best model
     best_prec = 0
     best_model_dir = 0
@@ -96,11 +97,11 @@ def main(args):
                 test_prec, test_recall, test_f1 = trainer.eval('test')
                 dev_prec, dev_recal, dev_f1 = trainer.eval('dev')
 
-                if htest_prec > 0:
+                if htest_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
-                               f'./{args.ckpt_dir}/checkpoint_{test_prec}.pth')
-                    print(f"Save model at {args.ckpt_dir}/checkpoint_{test_prec}.pth")
+                               f'./{args.ckpt_dir}/checkpoint_{str(test_prec)[:5]}.pth')
+                    print(f"Save model at {args.ckpt_dir}/checkpoint_{str(test_prec)[:5]}.pth")
                     test_prev = htest_prec
                     not_update_cnt = 0
 
@@ -209,8 +210,8 @@ def main_aug_online(args):
                 if htest_prec > test_prev:
                     # trainer.save_model(f1_score)
                     torch.save(trainer.model.state_dict(),
-                               f'./{args.ckpt_dir}/checkpoint_{test_prec}.pth')
-                    print(f"Save model at {args.ckpt_dir}/checkpoint_{test_prec}.pth")
+                               f'./{args.ckpt_dir}/checkpoint_{str(test_prec)[:5]}.pth')
+                    print(f"Save model at {args.ckpt_dir}/checkpoint_{str(test_prec)[:5]}.pth")
                     test_prev = htest_prec
                     not_update_cnt = 0
 
@@ -218,7 +219,7 @@ def main_aug_online(args):
                     best_iter = i
                     best_epoch = e
                     best_prec = htest_prec
-                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{test_prec}.pth"
+                    best_model_dir = f"{args.ckpt_dir}/checkpoint_{str(test_prec)[:5]}.pth"
                 else:
                     not_update_cnt += 1
                     if not_update_cnt % 3 == 0:

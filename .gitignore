@@ -6,3 +6,4 @@ ckpt_baseline/
 phobert_lightweight/
 vncorenlp/
 data/person_name/human_testset.csv
+vma_nlu/

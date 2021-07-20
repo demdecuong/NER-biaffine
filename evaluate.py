@@ -32,12 +32,12 @@ def main(args):
     print("#Params = ", params_num)
 
     print('--------------------- DATALOADER ---------------------')
-    # dev_data = MyDataSet(
-    #     name='dev',
-    #     path=args.dev_data,
-    #     args=args,
-    #     tokenizer=tokenizer,
-    #     fasttext_model=fasttext_model)
+    dev_data = MyDataSet(
+        name='dev',
+        path=args.dev_data,
+        args=args,
+        tokenizer=tokenizer,
+        fasttext_model=fasttext_model)
 
     test_data = MyDataSet(
         name='test',
@@ -56,7 +56,7 @@ def main(args):
     trainer = Trainer(args=args,
                       model=model,
                       train_data=None,
-                      dev_data=None,
+                      dev_data=dev_data,
                       test_data=test_data,
                       human_test_data=human_test_data)
 
