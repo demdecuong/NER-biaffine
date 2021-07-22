@@ -39,13 +39,13 @@ def find_sub_list(sl,l):
     return results
 
 def format_csv(path="person_name/human_testset.csv",out_path="person_name/human_test.json"):
-    testset = pd.read_csv(path, encoding='utf-8')
+    testset = pd.read_csv(path, encoding='utf-8',index_col=False)
     testset['name_1'].fillna("nan")
     testset['name_2'].fillna("nan")
     trg = testset['input'].tolist()
     name1 = testset['name_1'].tolist()
     name2 = testset['name_2'].tolist()
-   
+
     label_tokens = []
     for n1, n2 in zip(name1, name2):
         tmp = []
@@ -60,9 +60,8 @@ def format_csv(path="person_name/human_testset.csv",out_path="person_name/human_
             tmp.append('nan')
             print('....')
         label_tokens.append(tmp)
-    
+        print(tmp)
     trg = [padding_punct(" ".join(sent.split())) for sent in trg] 
-
     label = []
     for i in range(len(trg)):
         tmp = []
@@ -143,9 +142,9 @@ def format_aug_data(root_dir,out_path):
 
 if __name__ == '__main__':
     # From human_test.csv to human_test.json
-    # format_csv()
+    format_csv(path="person_name/human_testset_v2.csv",out_path="person_name/human_testset_v2.json")
 
-    format_aug_data('aug_data','person_name/train_synth.json')
+    # format_aug_data('aug_data','person_name/train_synth.json')
     # src =[ 
     #     'hoa phương là tên ông đặt buổi hẹn nay da vàng',
     #     'chị book lịch dùm buổi gặp tại bệnh viện trung ươn VinMec vào THÁNG 4 27, 1985 thì làm sao'

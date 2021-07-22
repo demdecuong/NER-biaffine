@@ -28,7 +28,12 @@ python main.py --aug_online True --use_aug_every 3 \
 --ckpt_dir ckpt_aug_online --log_file log_aug_onl.csv
 ```
 
-4. Finetune trained model
+4. Train normal with Temporal Convolution Networks (replace BiLSTM with TCN)
+```
+python main.py --use_tcn True --ckpt_dir ckpt --log_file log_normal.csv
+```
+
+5. Finetune trained model
 ```
 python main.py --batch_size 256 --ckpt_dir finetune --learning_rate 2e-4 --log_file log_ft.csv \
 --use_pretrained True --load_ckpt 'finetune/checkpoint_0.925.pth'
@@ -67,6 +72,7 @@ python investigate.py --load_ckpt ckpt/checkpoint_0.753.pth --max_seq_len 80
 ```
 - stats picture(s) saved at `./asset`
 - failure samples saved at `./investigate` 
+
 ### TODO  
 - Save model per batch
 - Complete human testset

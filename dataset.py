@@ -128,17 +128,23 @@ class InputSample(object):
         return aug_data
 
     def augment_lastname(self, sample):
+        if sample['label'] == []:
+            return sample
+
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
         remove_idx = label_s
         while label_s < label_e:
             sent.remove(sent[remove_idx])
             label_s += 1
+        sent[remove_idx] = sent[remove_idx].lower()
         sample['sentence'] = ' '.join(sent)
         sample['label'][0] = [remove_idx, remove_idx, 'PERSON']
         return sample
 
     def augment_lowercase(self, sample):
+        if sample['label'] == []:
+            return sample
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
         # sent[label_s:label_e + 1] = [token.lower()
@@ -149,6 +155,8 @@ class InputSample(object):
         return sample
 
     def augment_acent(self, sample):
+        if sample['label'] == []:
+            return sample
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
         sent[label_s:label_e +
@@ -162,6 +170,8 @@ class InputSample(object):
         pass
 
     def augment_insert(self, sample):
+        if sample['label'] == []:
+            return sample
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
         insert_token = random.choice(sent)
@@ -171,6 +181,8 @@ class InputSample(object):
         return sample
 
     def augment_remove(self, sample):
+        if sample['label'] == []:
+            return sample
         sent = sample['sentence'].split()
         label_s, label_e = sample['label'][0][0], sample['label'][0][1]
         remove_idx = label_s

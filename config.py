@@ -39,6 +39,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--use_pos', type=bool, default=False)
     parser.add_argument('--use_char', type=bool, default=True)
     parser.add_argument('--use_fasttext', type=bool, default=False)
+    parser.add_argument('--use_tcn', type=bool, default=False)
 
     # Model
     parser.add_argument('--num_layer_bert', type=int, default=2)
@@ -53,8 +54,11 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--rnn_num_layers', type=int, default=3)
     parser.add_argument('--max_char_len', type=int, default=20)
     parser.add_argument('--max_seq_len', type=int, default=100) # vinai : 190 # vlsp2016: 160 # custom
+    parser.add_argument('--kernel_size', type=int, default=2)
+    parser.add_argument('--levels', type=int, default=4)
+    parser.add_argument('--nhid', type=int, default=600)
 
-    parser.add_argument('--num_labels', type=int, default=2) 
+    parser.add_argument('--num_labels', type=int, default=3) 
     
     # train
     parser.add_argument('--iteration', type=int, default=20) 
@@ -66,6 +70,7 @@ def get_config(parse=True, **optional_kwargs):
     parser.add_argument('--weight_decay', type=float, default=0.01) 
     parser.add_argument('--warmup_steps', type=int, default=0) 
     parser.add_argument('--max_grad_norm', type=int, default=1)
+    parser.add_argument('--dropout', type=float, default=0.1)
      
     parser.add_argument('--do_train', type=bool, default=True) 
     parser.add_argument('--do_eval', type=bool, default=True) 

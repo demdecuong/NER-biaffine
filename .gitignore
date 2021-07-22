@@ -7,3 +7,9 @@ phobert_lightweight/
 vncorenlp/
 data/person_name/human_testset.csv
 vma_nlu/
+data/dev
+data/aug_data
+person_name/human_test.json
+person_name/human_testset.csv
+person_name/human_testset_v2.json
+person_name/human_testset_v2.csv
